@@ -26,7 +26,7 @@
             </nav>
             <div class="user-cart flex">
                 <div>
-                    <a href="" class="pr-4 font-[400] hover:text-teal-500 relative"><i class="fa-solid fa-user text-sm pr-2 text-teal-500"></i>User</a>
+                    <a href="" class="pr-4 font-[400] hover:text-teal-500 relative" id="user"><i class="fa-solid fa-user text-sm pr-2 text-teal-500" ></i>User</a>
                     <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signuptab">
                         <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
                             <div class="login-bg">
@@ -36,28 +36,38 @@
                                 <img src="images/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
                             </div>
                             <div class="absolute left-[-50px]">
-                                <button class="px-5 py-3 text-[20px] bg-teal-600 text-white"><i class="fa-solid fa-xmark"></i></button>
+                                <button class="px-5 py-3 text-[20px] bg-teal-600 text-white" id="signuptabclose"><i class="fa-solid fa-xmark"></i></button>
                             </div>
                         </div>
                         <form class="p-3" id="signup">
                             <h3 class="text-[16px] font-bold text-teal-600">Quick SignUp / Register</h3>
 
                             <input type="text" id="name" placeholder="Enter your username" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <p class="text-sm text-red-500 font-bold pl-4" id="namealert"></p>
 
                             <input type="email" id="email" placeholder="Enter your email" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <p class="text-sm text-red-500 font-bold pl-4" id="emailalert"></p>
 
+                            <label class="relative block">
+                                <span class="absolute inset-y-0 right-0 flex pt-4 items-center pr-2 z-50">
+                                    <i class="fa-regular fa-eye text-teal-600 " id="passshow"></i>
+                                    <i class="fa-regular fa-eye-slash text-teal-600 hidden" id="passhide"></i>
+                                </span>
                             <input type="password" id="password" placeholder="Enter your password" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
-
+                            </label>
+                            <p class="text-sm text-red-500 font-bold pl-4" id="passalert"></p>
+                            
                             <input type="tel" id="tel" placeholder="Enter your phone number" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <p class="text-sm text-red-500 font-bold pl-4" id="telalert"></p>
 
                             <input type="submit" id="sub" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
 
-                            <h3 class="text-[12px] text-slate-500 p-3 text-center">Already Register ? <span class="underline text-slate-900">Sign In</span></h3>
+                            <h3 class="text-[12px] text-slate-500 p-3 text-center">Already Register ? <a href="" class="underline text-slate-900 text-base text-teal-600" id="signinopen">Sign In</a></h3>
 
                             <h3 class="text-[12px] text-slate-500 p-3 mt-[90px]">By continuing, you agree with our <span class="underline text-slate-900">Privacy Policy</span> and  <span class="underline text-slate-900">Terms and Conditions</span></h3>
                         </form>
                     </div>
-                    <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl " id="signintab">
+                    <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signintab">
                         <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
                             <div class="login-bg">
                                 <img src="images/phaWsy.png" class="h-[70px] z-10" alt="">
@@ -66,19 +76,27 @@
                                 <img src="images/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
                             </div>
                             <div class="absolute left-[-50px]">
-                                <button class="px-5 py-3 text-[20px] bg-teal-600 text-white"><i class="fa-solid fa-xmark"></i></button>
+                                <button class="px-5 py-3 text-[20px] bg-teal-600 text-white" id="signintabclose"><i class="fa-solid fa-xmark"></i></button>
                             </div>
                         </div>
-                        <form class="p-3" id="signip">
+                        <form class="p-3" id="signin">
                             <h3 class="text-[16px] font-bold text-teal-600">Quick SignIn</h3>
 
-                            <input type="email" id="email" placeholder="Enter your email" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <input type="email" id="inemail" placeholder="Enter your email" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <p class="text-sm text-red-500 font-bold pl-4" id="inemailalert"></p>
 
-                            <input type="password" id="password" placeholder="Enter your password" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            <label class="relative block">
+                                <span class="absolute inset-y-0 right-0 flex pt-4 items-center pr-2 z-50">
+                                    <i class="fa-regular fa-eye text-teal-600 " id="inpassshow"></i>
+                                    <i class="fa-regular fa-eye-slash text-teal-600 hidden" id="inpasshide"></i>
+                                </span>
+                            <input type="password" id="inpassword" placeholder="Enter your password" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
+                            </label>
+                            <p class="text-sm text-red-500 font-bold pl-4" id="inpassalert"></p>
 
-                            <input type="submit" id="sub" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
+                            <input type="submit" id="insub" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
 
-                            <h3 class="text-[12px] text-slate-500 p-3 text-center">If you are not Register ? <span class="underline text-slate-900">Sign Up</span></h3>
+                            <h3 class="text-[12px] text-slate-500 p-3 text-center">If you are not Register ? <a href="" class="underline text-slate-900 text-base text-teal-600" id="signupopen">Sign Up</a></h3>
 
                             <h3 class="text-[12px] text-slate-500 p-3 mt-[220px]">By continuing, you agree with our <span class="underline text-slate-900">Privacy Policy</span> and  <span class="underline text-slate-900">Terms and Conditions</span></h3>
                         </form>
