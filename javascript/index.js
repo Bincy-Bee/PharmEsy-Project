@@ -103,7 +103,7 @@ document.getElementById("signup").addEventListener("submit",(e)=>{
                     alert("User already exist..Please Sign-IN");
                     setTimeout(()=>{
                         document.getElementById("signintab").style.display="block";
-                    })
+                    }, 1000);
                 }
             }
             else{
@@ -112,11 +112,64 @@ document.getElementById("signup").addEventListener("submit",(e)=>{
                         method : "POSt",
                         headers : {"Content-Type":"application/json"},
                         body : JSON.stringify(user)
-                    })
+                    });
+                    localStorage.setItem("loggedIn", true);
+
                 } catch (error) {
                     alert("error")
                 }
             }
         });
     };
+});
+
+// Sign In JS.. 
+
+document.getElementById("signin").addEventListener("submit",(e)=>{
+    e.preventDefault();
+
+    let email = document.getElementById("inemail").value;
+    let password = document.getElementById("inpassword").value;
+
+    // REgular Expression 
+    let emailcheck = /^[A-Za-z0-9]{3,}@[A-Za-z]{3,}[.]{1}[A-Za-z.]{2,6}$/;
+    let passcheck = /^(?=.*[A-Z]{1})(?=.*[0-9])(?=.*[!@#$%^&*=-])[a-zA-Z0-9!@#$%^&*=-]{8,16}$/;
+
+    if(!emailcheck.test(email)){
+        document.getElementById("inemailalert").innerHTML="** Please enter valid email.!!";
+    }
+    else{
+        document.getElementById("inemailalert").innerHTML="";
+    }
+    if(!passcheck.test(password)){
+        document.getElementById("inpassalert").innerHTML="** Please enter valid password.!!";
+    }
+    else{
+        document.getElementById("inpassalert").innerHTML="";
+    }
+    if( emailcheck.test(email) && passcheck.test(password) ){
+        
+        fetch(`http://localhost:3000/signup?email=${email}`)
+        .then((res)=>res.json())
+        .then((data)=>{
+            console.log(data);
+            if(data.length > 0){
+                if ( data[0].password == password){
+                    alert("SignIn Successfully");
+                    setTimeout(()=>{
+                        window.location.href="/index.html";
+                    }, 1000);
+                    localStorage.setItem("loggedIn", true);
+                    localStorage.setItem("usersignin",JSON.stringify(data));
+                    
+                }
+                else{
+                    document.getElementById("inpassalert").innerHTML="** Incorrect password.!!";
+                }
+            }
+            else{
+                alert("User not found");
+            }
+        });
+    }
 })
