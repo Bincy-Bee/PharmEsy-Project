@@ -26,7 +26,7 @@
             </nav>
             <div class="user-cart flex">
                 <div>
-                    <a href="" class="pr-4 font-[400] hover:text-teal-500 relative" id="user"><i class="fa-solid fa-user text-sm pr-2 text-teal-500" ></i>User</a>
+                    <a href="" class="pr-9 font-[400] hover:text-teal-500 relative px-4"><i class="fa-solid fa-user text-sm pr-2 text-teal-500"></i><span id="user">User</span></a>
                     <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signuptab">
                         <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
                             <div class="login-bg">
@@ -100,6 +100,33 @@
 
                             <h3 class="text-[12px] text-slate-500 p-3 mt-[220px]">By continuing, you agree with our <span class="underline text-slate-900">Privacy Policy</span> and  <span class="underline text-slate-900">Terms and Conditions</span></h3>
                         </form>
+                    </div>
+                    <div class="absolute w-[500px] h-[200px] top-[60px] right-[150px] p-6 bg-white drop-shadow-lg rounded-md border hidden" id="account">
+                        <div class="absolute right-0 top-0">
+                            <button class="px-2 text-[20px] bg-teal-600 text-white" id="accountclose"><i class="fa-solid fa-xmark"></i></button>
+                        </div>
+                        <div class="flex justify-between items-center">
+                            <div class=" w-[50%]" id="userdetailes">
+                                <div class="details p-1">
+                                    <div class="w-[40px] h-[40px] mb-1 rounded-full bg-teal-600">
+                                        <h1 class="text-center m-auto leading-[40px]" id="letter"></h1>
+                                    </div>
+                                    <h3 class="text-sm" id="uname">Bhvain PAtel</h3>
+                                    <h3 class="text-sm" id="uemail">Email</h3>
+                                    <h3 class="text-sm" id="utel">997884787878</h3>
+                                </div>
+                            </div>
+                            <div class="list flex-col  w-[50%]">
+                                <h2 class="font-bold text-normal ">Your Account</h2>
+                                <ul>
+                                    <li><a class="inline-block my-1 text-sm" href="#">Orders</a></li>
+                                    <li><a class="inline-block my-1 text-sm" href="#">My Adresses</a></li>
+                                    <li><a class="inline-block my-1 text-sm" href="#">Need Help ?</a></li>
+                                </ul>
+                                <hr class="w-full">
+                                <button class="py-3 text-normal text-teal-600" id="logout">Logout</button>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div>

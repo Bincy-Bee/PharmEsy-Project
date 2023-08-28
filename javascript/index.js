@@ -1,30 +1,92 @@
+// Signin true condition
+
+let login = localStorage.getItem("loggedIn");
+let userin = JSON.parse(localStorage.getItem("usersignin"));
+
+
+const userdisplay=(indata)=>{
+    console.log(indata);
+    document.getElementById("user").innerHTML= `${indata[0].name}`;
+    document.getElementById("letter").innerHTML= `${indata[0].name[0]}`;
+    document.getElementById("uname").innerHTML= `${indata[0].name}`;
+    document.getElementById("uemail").innerHTML= `${indata[0].email}`;
+    document.getElementById("utel").innerHTML= `${indata[0].tel}`;
+    
+}
+
+if(login){
+    userdisplay(userin);
+
+    document.getElementById("user").addEventListener("click",(e)=>{
+        e.preventDefault();
+        document.getElementById("account").style.display="block";
+    });
+    document.getElementById("accountclose").addEventListener("click",(e)=>{
+        e.preventDefault();
+        
+        document.getElementById("account").style.display="none";
+    });
+}else{
+    document.getElementById("user").addEventListener("click",(e)=>{
+        e.preventDefault();
+        document.getElementById("signuptab").style.display="block";
+    });
+    document.getElementById("signuptabclose").addEventListener("click",(e)=>{
+        e.preventDefault();
+       
+        document.getElementById("signuptab").style.display="none";
+    });
+    document.getElementById("signinopen").addEventListener("click",(e)=>{
+        e.preventDefault();
+        document.getElementById("signuptab").style.display="none";
+        document.getElementById("signintab").style.display="block";
+    });
+    document.getElementById("signintabclose").addEventListener("click",(e)=>{
+        e.preventDefault();
+        
+        document.getElementById("signintab").style.display="none";
+    });
+    document.getElementById("signupopen").addEventListener("click",(e)=>{
+        e.preventDefault();
+        document.getElementById("signuptab").style.display="block";
+        document.getElementById("signintab").style.display="none";
+    });
+};
+document.getElementById("logout").addEventListener("click",()=>{
+    
+    localStorage.clear();
+    window.location.reload();
+    document.getElementById("account").style.display="none" 
+
+})
+
 // header User links ooprtion signUp & Signin Open Close JS...
 
-document.getElementById("user").addEventListener("click",(e)=>{
-    e.preventDefault();
-    document.getElementById("signuptab").style.display="block";
-});
-document.getElementById("signuptabclose").addEventListener("click",(e)=>{
-    e.preventDefault();
+// document.getElementById("user").addEventListener("click",(e)=>{
+//     e.preventDefault();
+//     document.getElementById("signuptab").style.display="block";
+// });
+// document.getElementById("signuptabclose").addEventListener("click",(e)=>{
+//     e.preventDefault();
    
-    document.getElementById("signuptab").style.display="none";
-});
-document.getElementById("signinopen").addEventListener("click",(e)=>{
-    e.preventDefault();
-    document.getElementById("signuptab").style.display="none";
-    document.getElementById("signintab").style.display="block";
-});
-document.getElementById("signintabclose").addEventListener("click",(e)=>{
-    e.preventDefault();
+//     document.getElementById("signuptab").style.display="none";
+// });
+// document.getElementById("signinopen").addEventListener("click",(e)=>{
+//     e.preventDefault();
+//     document.getElementById("signuptab").style.display="none";
+//     document.getElementById("signintab").style.display="block";
+// });
+// document.getElementById("signintabclose").addEventListener("click",(e)=>{
+//     e.preventDefault();
     
-    document.getElementById("signintab").style.display="none";
-});
-document.getElementById("signupopen").addEventListener("click",(e)=>{
-    e.preventDefault();
-    document.getElementById("signuptab").style.display="block";
-    document.getElementById("signintab").style.display="none";
-});
-// paaword show & hide JS...
+//     document.getElementById("signintab").style.display="none";
+// });
+// document.getElementById("signupopen").addEventListener("click",(e)=>{
+//     e.preventDefault();
+//     document.getElementById("signuptab").style.display="block";
+//     document.getElementById("signintab").style.display="none";
+// });
+// paaword show in SignUp & hide JS...
 const passshow=()=>{
     document.getElementById("passshow").style.display="none";
     document.getElementById("passhide").style.display="block";
@@ -46,6 +108,29 @@ const passhide=()=>{
 }
 document.getElementById("passshow").addEventListener("click", passshow);
 document.getElementById("passhide").addEventListener("click", passhide);
+
+//password show in signin JS...
+const inpassshow=()=>{
+    document.getElementById("inpassshow").style.display="none";
+    document.getElementById("inpasshide").style.display="block";
+
+    let show = document.getElementById("inpassword");
+
+    if(show.type == "password"){
+        show.type = "text";
+    }
+};
+const inpasshide=()=>{
+    document.getElementById("inpasshide").style.display="none";
+    document.getElementById("inpassshow").style.display="block";
+
+    let hide = document.getElementById("inpassword");
+    if(hide.type == "text"){
+        hide.type = "password";
+    }
+}
+document.getElementById("inpassshow").addEventListener("click", inpassshow);
+document.getElementById("inpasshide").addEventListener("click", inpasshide);
 
 // Signup data post to JSon Server JS...
 
@@ -161,7 +246,7 @@ document.getElementById("signin").addEventListener("submit",(e)=>{
                     }, 1000);
                     localStorage.setItem("loggedIn", true);
                     localStorage.setItem("usersignin",JSON.stringify(data));
-                    
+
                 }
                 else{
                     document.getElementById("inpassalert").innerHTML="** Incorrect password.!!";
