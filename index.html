@@ -1,29 +1,174 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PharmEasy:Online Pharmacy & Medical Store</title>
     <style>
-        @import url(/css/style.css);
-        @import url(/css/all.min.css);
+      @import url(css/index.css);
+      @import url(/css/style.css);
+      @import url(/css/all.min.css);
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div id="navbar"></div>
-    <header>
-        <h1>Group Project</h1>
-    </header>
-</body>
-<script src="./javascript/cdn.tailwindcss.com_3.3.3"></script>
-<script>
-     tailwind.config = {
-        theme : {
-            container : {
-                center : true,
-            },
+    <section id="search">
+      <div id="container">
+        <div id="search-box">
+          <div>
+            <div id="search-top" class="row align-center">
+              <h3>What are you looking for?</h3>
+              <i class="fa-solid fa-clipboard-list"></i>
+              <p>Order with prescription.</p>
+              <div class="row align-center">
+                <h3>UPLOAD NOW</h3>
+                <i class="fa-solid fa-chevron-right"></i>
+              </div>
+            </div>
+            <form action="#" id="search-content" class="row align-center">
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <input type="text" id="" placeholder="Search for medicine">
+              <input type="submit" value="Search">
+            </form>
+          </div>
+        </div>
+        <div class="card">
+          
+          <div id="card-box">
+            <div class="row">
+              <div>
+                <img src="img/medicine1.webp" alt="Medicine">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/medicine2.webp" alt="Medicine">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/healthcare_ff.webp" alt="Healthcare">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/health_blogs_ff.webp" alt="Healthcare">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/plus_ff.webp" alt="Plus">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/offers_ff.webp" alt="Offer">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+              <div>
+                <img src="img/value_store.png" alt="Value">
+                <h3>Medicine</h3>
+                <p>UPTO 22% OFF</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- shop by concern section -->
+      <section id="shop-concern">
+        <div id="container">
+            <h2 id="title">Shop by Concern</h2>
+            <h3 id="sub-title">Products are handpicked by experts</h3>
+            <div>
+              <div>
+                <img src="img/skin-care.png" alt="Skin care">
+                <h3>Skin Care</h3>
+              </div>
+              <div>
+                <img src="img/vitamins.png" alt="Vitamins">
+                <h3>Vitamins</h3>
+              </div>
+              <div>
+                <img src="img/finger.webp" alt="Finger">
+                <h3>Finger</h3>
+              </div>
+              <div>
+                <img src="img/heart.webp" alt="Heart">
+                <h3>Heart</h3>
+              </div>
+              <div>
+                <img src="img/stomach.webp" alt="Stomach">
+                <h3>Stomach</h3>
+              </div>
+              <div>
+                <img src="img/apple.webp" alt="Food">
+                <h3>Food</h3>
+              </div>
+            </div>
+        </div>
+      </section>
+
+      <!-- why choose us section -->
+      <section id="choose-us">
+        <div id="container">
+          <h1 id="title">Why Choose Us?</h1>
+          <div>
+            <div>
+              <img src="img/family.svg" alt="Family">
+              <div id="choose-content">
+                <h2>32 Million+</h2>
+                <p>Registered users as of Mar 31, 2022</p>
+              </div>
+            </div>
+            <div>
+              <img src="img/deliveryBoy.svg" alt="Delivery Boy">
+              <div id="choose-content">
+                <h2>36 Million+</h2>
+                <p>Orders on Pharmeasy till date </p>
+              </div>
+            </div>
+            <div>
+              <img src="img/pincodeServed.svg" alt="Pill">
+              <div id="choose-content">
+                <h2>99000+</h2>
+                <p>Unique items sold last 3 months</p>
+              </div>
+            </div>
+            <div>
+              <img src="img/locationMarker.svg" alt="Location">
+              <div id="choose-content">
+                <h2>19500+</h2>
+                <p>Pin codes serviced last 3 months</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- pharmesy app -->
+      <section id="app">
+        <div id="container">
+          <h1>Simplifying<br>Healthcare<br>Impacting Lives</h1>
+          <h3>Download the App for Free</h3>
+          <div class="row">
+            <a href="#"><img src="img/googlePlay.svg" alt="PlayStore"></a>
+            <a href="#"><img src="img/appStore.svg" alt="AppStore"></a>
+          </div>
+        </div>
+      </section>
+
+    <script src="javascript/cdn.tailwindcss.com_3.3.3"></script>
+  </body>
+  <script>
+    tailwind.config = {
+      theme: {
+        container: {
+          center: true,
         },
+      },
     };
-</script>
-<script type="module" src="./javascript/index.js"></script>
+  </script>
+  <script type="module" src="./javascript/index.js"></script>
 </html>
