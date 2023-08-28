@@ -2,7 +2,7 @@ const nav =()=>{
     return `<header class="p-2 border text-[16px]">
     <div class="flex flex-wrap justify-between items-center">
         <div class="logo">
-            <a href="../index.html"><img src="../images/pharmeasy-logo2.jpg" class="h-[80px]" alt=""></a>
+            <a href="../index.html"><img src="../img/pharmeasy-logo2.jpg" class="h-[80px]" alt=""></a>
         </div>
         <nav>
             <ul class="flex">
@@ -18,10 +18,10 @@ const nav =()=>{
                 <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signuptab">
                     <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
                         <div class="login-bg">
-                            <img src="../images/phaWsy.png" class="h-[70px] z-10" alt="">
+                            <img src="../img/phaWsy.png" class="h-[70px] z-10" alt="">
                         </div>
                         <div class="bg">
-                            <img src="../images/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
+                            <img src="../img/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
                         </div>
                         <div class="absolute left-[-50px]">
                             <button class="px-5 py-3 text-[20px] bg-teal-600 text-white" id="signuptabclose"><i class="fa-solid fa-xmark"></i></button>
@@ -58,10 +58,10 @@ const nav =()=>{
                 <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signintab">
                     <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
                         <div class="login-bg">
-                            <img src="../images/phaWsy.png" class="h-[70px] z-10" alt="">
+                            <img src="../img/phaWsy.png" class="h-[70px] z-10" alt="">
                         </div>
                         <div class="bg">
-                            <img src="../images/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
+                            <img src="../img/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
                         </div>
                         <div class="absolute left-[-50px]">
                             <button class="px-5 py-3 text-[20px] bg-teal-600 text-white" id="signintabclose"><i class="fa-solid fa-xmark"></i></button>
