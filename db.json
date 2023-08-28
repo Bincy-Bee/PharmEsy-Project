@@ -1,5 +1,227 @@
 {
   "signup": [],
-  "medicine": [],
-  "healthcare":[]
+  "medicine": [
+    {
+      "id": 1,
+      "pharmacy":"tablet",
+      "title": "Calcimax 500 Health Supplement Tablets",
+      "unit": "BOX OF 30",
+      "price": 330.6,
+      "description": "This calcium supplement from Calcimax comes with a potency of 500 mg, it contains not just elemental Calcium but also enhancers like Vitamin D3. Calcimax 500 is taken by people who want to ensure that their calcium levels are good, as calcium is essential for strong bones and teeth as well as other important body functions. Although young and growing children need Calcimax 500 or Calcimax Forte, it benefits all people who need to maintain their calcium levels. For people of certain demographics like growing children, breastfeeding mothers, those going through menopause, as well as older men/women proper calcium intake is very essential.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
+    },
+    {
+      "id": 2,
+      "pharmacy": "tablet",
+      "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
+      "unit": "60 Counta",
+      "price": 329.03,
+      "description": "BIOTIN CARE FOR YOUR GORGEOUS HAIR: When your hair looks good, you feel good. But squeezing in time for your beauty routine may not always work out. That’s where our Biotin supplements come to the rescue. Zingavita Biotin tablets help improve hair thickness and volume. It stimulates keratin production to help make the hair stronger and reduce hair fall.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg"
+    },
+    {
+      "id": 3,
+      "pharmacy": "tablet",
+      "title": "Dolo (Paracetamol) 650mg Strip Of 15 Tablets",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 28.56,
+      "description": "Dolo 650 tablet contains an active ingredient called paracetamol, which works by blocking the formation of certain chemicals that cause pain and fever in the body. This medicine can be used to treat various conditions such as headache, backache, migraine, toothache, body pain, and even fever associated with diseases like typhoid or the common cold.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-3-1653986087.jpg"
+    },
+    {
+      "id": 4,
+      "pharmacy":"capsule",
+      "title": "Evion 400mg Strip",
+      "unit": "20 Capsules",
+      "price": 71.08,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 5,
+      "pharmacy":"tablet",
+      "title": "Pharmeasy Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health",
+      "unit": "Bottle 60",
+      "price": 329.45,
+      "description": "PharmEasy Calcium, Magnesium, Vitamin D3 & Zinc tablets contain calcium, vitamin D3, magnesium and zinc which are crucial for strong bones, joints, muscles & teeth. It is a health supplement that supports bone formation, repair and healing. Vitamin D3 improves calcium absorption, thus supporting healthy bones and joints.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-2-1672137118.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 6,
+      "pharmacy":"capsule",
+      "title": "Smart Greens Plant Based Wholefood Biotin 10000 Mcg",
+      "unit": "60 Capsules",
+      "price": 693,
+      "description": "Smart greens plant based biotin capsules are derived from the herb sesbania that helps to control hair fall and hair thining.It is a health supplement that also helps to strengthens brittle hair and nails.It improves blood circulation in the scalp for healthy follicles.Biotin 10000 mcg is a nutrient which metabolizes carbohydrates, fats and amino acids.It promotes Healthy skin and helps in growth for hair and nails.Biotin, also known as vitamin B is a water-soluble vitamin that helps the body metabolize fats, carbohydrates, and protein.Promotes Growth of Hair, Skin and Nails",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-6.2-1641790473.jpg"
+    },
+    {
+      "id": 7,
+      "pharmacy":"tablet",
+      "title": "Unienzyme Strip ",
+      "unit": "15 Tablets",
+      "price": 70.57,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-2-1687425704.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 8,
+      "pharmacy":"capsule",
+      "title": "Power Gummies Hair & Nail Gummies With Biotin For Healthy Nails & Hair Growth",
+      "unit": " 60 Gummies",
+      "price": 1188,
+      "description": "Biotin: It improves the body's keratin infrastructure, leading to stronger hair and maximizing nails and hair growth.Zinc: It regulates hormones, prevents protein synthesis and helps in absorbing nutrients, making it an important nutrient for beautiful hair and nails.Folic Acid: Helps in increasing red blood cells as it quickens the process of cell division. Helps with the growth and volume of hair.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg"
+    },
+    {
+      "id": 9,
+      "pharmacy":"tablet",
+      "title": "Truebasics Multivit Men, Multivitamin For Men, 60 Multivitamin Tablets",
+      "unit": "60 tablet(s) in bottle",
+      "price": 1100.06,
+      "description": "Use of the Website is offered to You, subject to acceptance of all the terms, conditions and notices contained in these Terms including applicable policies which are incorporated herein by reference, along with any amendments / modifications made time to time by Company at its sole discretion and posted on the Website, including by way of imposing an additional charge for access to or use of a service(s).",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-2-1672132041.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 10,
+      "pharmacy":"capsule",
+      "title": "Everherb (By Pharmeasy) Ashwagandha-Immunity Booster Capsules-Anxiety & Stress Relief",
+      "unit": "Bottle Of 60",
+      "price": 323.46,
+      "description": "EverHerb Ashwagandha is a health supplement and an ayurvedic formula that contains Ashwagandha extract from roots of the Ashwagandha plant. One of the most revered herbs in Ayurveda, Ashwagandha helps the body resist physiological and psychological stress by enabling it to reserve and sustain vital energy all through the day and promoting a sound sleep during the night.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 11,
+      "pharmacy":"capsule",
+      "title": "Pure Nutrition L-Arginine For Good Blood Flow And Healthy Heart",
+      "unit": "60 capsule(s) in bottle",
+      "price": 483.02,
+      "description": "This tablet contains pantoprazole as an active ingredient. It acts by reducing the production of stomach acid. It works best when taken on an empty stomach. Other tablets with pantoprazole include Pantop 40mg, Pantodac 40mg, Pantosec 40mg, and Pantakind 40mg.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-2-1677732126.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 12,
+      "pharmacy":"tablet",
+      "title": "Rejunex Cd3 Strip",
+      "unit": "10 Tablets",
+      "price": 370.57,
+      "description": "Vitamin B Complex: Helps in digestion, normal function of skin and nerve cells, formation of glucose and fatty acids, regulates homocysteine levels in the body.Biotin: Improves growth and regeneration of skin cells, regulates the level of cholesterol, boosts the ability of insulin which regulates blood sugar.Vitamin C: antioxidant, protects against damage to nerves and stress from oxidation, supports the immune system.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-2-1691646246.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 13,
+      "pharmacy":"tablet",
+      "title": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )",
+      "unit": "Strip Of 15 Tablets",
+      "price": 30.1,
+      "description": "Becozym C Forte is a vitamin supplement tablet that contains 3 vital and essential vitamins that are required by the body for regular functioning. These vitamins play an important role in boosting and supporting the immune system, helping with energy requirements as well as improving skin quality. Each Becozym C Forte Tablet contains Vitamin B complex, Biotin (also known as vitamin H) and Vitamin C. As part of a healthy diet, this multivitamin recharges the body's supply of these 3 required vitamins regularly.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1671741220.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 14,
+      "pharmacy":"tablet",
+      "title": "Shelcal 500mg Tablets",
+      "unit": " Strip Of 15 Tablets",
+      "price": 118.17,
+      "description": "The composition of Shelcal 500 consists of calcium and vitamin D3 (cholecalciferol /cholecalciferol) as the main ingredient. These two are crucial components for maintaining healthy bones and joints and deficiency of these two nutrients can lead to bone and joint-related disorders.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-2-1679999355.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 15,
+      "pharmacy":"capsule",
+      "title": "Mindzen Improves Cognition ",
+      "unit": "Strip Of 10 Capsules",
+      "price": 159.25,
+      "description": "Mindzen Capsule is specially crafted with serotonin-active bacopa Glycoside that helps manage mild cognitive impairment. It helps improve cognition and brain function.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-2-1672461849.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 16,
+      "pharmacy":"capsule",
+      "title": "Dr. Vaidya Rumox Pain Relief Balm",
+      "unit": "90 capsule(s) in bottle",
+      "price": 180,
+      "description": "Not to exceed stated recommended daily usage. Consult a doctor, if you are pregnant or lactating women or having any medical conditions. Keep out of reach of children. Keep out of reach of children. Results may vary from individual to individual. Capsule should be swallowed whole and not crushed or chewed. Store in cool, dry and dark place. Protect from heat, light and moisture.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-2-1687174817.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 17,
+      "pharmacy":"tablet",
+      "title": "Ourdaily Vitamin E Strip Of 10 Capsules For Healthy Eye, Hair And Skin",
+      "unit": "strip Of 15 Tablets",
+      "price": 31.57,
+      "description": "Ourdaily E is a vitamin E supplement that promotes healthy skin, nourishes scalp and hair, and maintains eye health along with providing anti-oxidant support",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-1-1671742162.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 18,
+      "pharmacy":"tablet",
+      "title": "Kerala Ayurveda Nisakathakadi Kwath Diabetes Control, Strip Of 10x10 Tablets",
+      "unit": "100 Tablet(s) in bottle",
+      "price": 764,
+      "description": "Nisakathakadi Kwath Tablet is the modified dosage form of Ayurveda formulation Nishakathakadi kashayam. It is a health supplement that is beneficial in raised blood glucose levels as in Type 2 Diabetes Mellitus. The superior blend of ingredients also helps in preventing the complications of diabetes. Nishakatakadi Kwath Tablet helps improve the function of insulin by reducing cellular resistance.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-1-1669710766.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 19,
+      "pharmacy":"powder",
+      "title": "Liveasy Wellness Diabetic Protein Powder French Vanilla Flavour",
+      "unit": "1000gm powder in jar",
+      "price": 1209.45,
+      "description": "LivEasy Wellness Diabetic Protein Powder has been scientifically formulated with ingredients that have proven benefits for people with diabetes. It is a mix of high-quality whey protein, complex carbohydrates, essential vitamins and minerals, dietary fibre and Omega 3 and 6 that are aimed to meet the special nutritional requirements of a person with diabetes. The primary goal in diabetes management is to keep blood sugar level steady, prevent weight gain as that brings further complications and to keep the heart healthy. LivEasy Wellness Diabetic Protein Powder solves for all 3 aforementioned goals, making it an indispensable part of diabetic consumers daily nutrition intake.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-2-1650541160.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 20,
+      "pharmacy":"capsule",
+      "title": "Pentaphyte P 5 Capsules",
+      "unit": "Strip Of 10 Capsules",
+      "price": 75.57,
+      "description": "If you are allergic to paracetamol and aceclofenac. If you have a history of ulcer or bleeding in the stomach or any part of your digestive tract. If you have experienced an allergic reaction due to the use of other pain-relieving medicines such as aspirin, ibuprofen. If you have any heart-related problems, high blood pressure, kidney or liver-related problem. If you are pregnant, especially in the last trimester of pregnancy.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "id": 21,
+      "pharmacy":"liquid",
+      "title": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair",
+      "unit": "1 Litre Bottle",
+      "price": 199.5,
+      "description": "EverHerb Aloe Vera Juice is formulated with the extracts of a special variety of Aloe Vera. Aloe Vera is very popular in Ayurveda because it has numerous health benefits. One common problem people face today is rapid weight gain due to stress, inactive lifestyle and unhealthy eating. These reasons also cause skin and hair problems such as pimples, rashes, bacterial infection, hair fall, dry and brittle hair etc. Aloe Vera extracts can help to nourish and rehydrate skin and hair because they are loaded with vital nutrients. Aloe Vera can also help to speed up metabolism, aids in digestion and promotes detoxification of the body. As a result, fats are quickly burnt up and this helps in weight management.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg?dim=700x0&dpr=1&q=100"
+    },
+    {
+      "id": 22,
+      "pharmacy":"powder",
+      "title": "Maharishi Ayurveda Ayush Kwath Powde",
+      "unit": "100gm powder in jar",
+      "price": 159,
+      "description": "EverHerb Aloe Vera Juice is formulated with the extracts of a special variety of Aloe Vera. Aloe Vera is very popular in Ayurveda because it has numerous health benefits. One common problem people face today is rapid weight gain due to stress, inactive lifestyle and unhealthy eating. These reasons also cause skin and hair problems such as pimples, rashes, bacterial infection, hair fall, dry and brittle hair etc. Aloe Vera extracts can help to nourish and rehydrate skin and hair because they are loaded with vital nutrients. Aloe Vera can also help to speed up metabolism, aids in digestion and promotes detoxification of the body. As a result, fats are quickly burnt up and this helps in weight management.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-2-1686742319.jpg?dim=700x0&dpr=1&q=100"
+    }
+
+  ],
+  "healthcare": []
 }
