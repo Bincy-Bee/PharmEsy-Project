@@ -1,5 +1,9 @@
-let fil = []
+import {nav} from "../components/nav.js"
+document.getElementById("navbar").innerHTML= nav();
+
+let fil = [];
 let dispalymed =(data)=>{
+    console.log(data);
     document.querySelector("#medicine").innerHTML=""
     data.map((ele)=>{
         let img = document.createElement("img")
@@ -102,24 +106,31 @@ let price6 = ()=>{
     dispalymed(data)
 }
 
-document.querySelector("#atoz").addEventListener("click",atoz)
-document.querySelector("#ztoa").addEventListener("click",ztoa)
-document.querySelector("#tab").addEventListener("click",tab)
-document.querySelector("#cap").addEventListener("click",cap)
-document.querySelector("#pow").addEventListener("click",pow)
-document.querySelector("#liq").addEventListener("click",liq)
-document.querySelector("#htol").addEventListener("click",htol)
-document.querySelector("#ltoh").addEventListener("click",ltoh)
-document.querySelector("#price1").addEventListener("click",price1)
-document.querySelector("#price2").addEventListener("click",price2)
-document.querySelector("#price3").addEventListener("click",price3)
-document.querySelector("#price4").addEventListener("click",price4)
-document.querySelector("#price5").addEventListener("click",price5)
-document.querySelector("#price6").addEventListener("click",price6)
-
-fetch("http://localhost:3000/medicine")
-.then((res)=>res.json())
-.then((data)=>{
+const get = async()=>{
+    fetch("http://localhost:3000/medicine")
+    .then((res)=>res.json())
+    .then((data)=>{
+        console.log(data)
     dispalymed(data) 
     fil=data
     })
+}
+get();
+
+document.querySelector("#all").addEventListener("click",get);
+document.querySelector("#atoz").addEventListener("click",atoz);
+document.querySelector("#ztoa").addEventListener("click",ztoa);
+document.querySelector("#tab").addEventListener("click",tab);
+document.querySelector("#cap").addEventListener("click",cap);
+document.querySelector("#pow").addEventListener("click",pow);
+document.querySelector("#liq").addEventListener("click",liq);
+document.querySelector("#htol").addEventListener("click",htol);
+document.querySelector("#ltoh").addEventListener("click",ltoh);
+document.querySelector("#price1").addEventListener("click",price1);
+document.querySelector("#price2").addEventListener("click",price2);
+document.querySelector("#price3").addEventListener("click",price3);
+document.querySelector("#price4").addEventListener("click",price4);
+document.querySelector("#price5").addEventListener("click",price5);
+document.querySelector("#price6").addEventListener("click",price6);
+
+

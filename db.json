@@ -1,4 +1,13 @@
 {
+  "signup": [
+    {
+      "name": "Bhavin",
+      "email": "patelbhavin7784@gmail.com",
+      "password": "Bhavin@1234",
+      "tel": "9978847878",
+      "id": 1
+    }
+  ],
   "medicine": [
     {
       "id": 1,
@@ -223,16 +232,7 @@
 
   ],
   "healthcare": []
+  
 }
-  "signup": [
-    {
-      "name": "Bhavin",
-      "email": "patelbhavin7784@gmail.com",
-      "password": "Bhavin@1234",
-      "tel": "9978847878",
-      "id": 1
-    }
-  ],
  
-  "healthcare": []
-}
+
