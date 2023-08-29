@@ -5,12 +5,14 @@ let userin = JSON.parse(localStorage.getItem("usersignin"));
 
 
 const userdisplay=(indata)=>{
-    console.log(indata);
+    if(login){
+        console.log(indata);
     document.getElementById("user").innerHTML= `${indata[0].name}`;
     document.getElementById("letter").innerHTML= `${indata[0].name[0]}`;
     document.getElementById("uname").innerHTML= `${indata[0].name}`;
     document.getElementById("uemail").innerHTML= `${indata[0].email}`;
     document.getElementById("utel").innerHTML= `${indata[0].tel}`;
+    }
     
 }
 
@@ -194,11 +196,12 @@ document.getElementById("signup").addEventListener("submit",(e)=>{
             else{
                 try {
                     fetch(`http://localhost:3000/signup`,{
-                        method : "POSt",
+                        method : "POST",
                         headers : {"Content-Type":"application/json"},
                         body : JSON.stringify(user)
                     });
-                    localStorage.setItem("loggedIn", true);
+                    document.getElementById("signintab").style.display="block";
+                //    localStorage.setItem("loggedIn", true);/
 
                 } catch (error) {
                     alert("error")

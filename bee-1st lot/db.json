@@ -1,0 +1,27 @@
+{
+  "signup": [
+    {
+      "name": "Bhavin",
+      "email": "patelbhavin7784@gmail.com",
+      "password": "Bhavin@1234",
+      "tel": "9978847878",
+      "id": 1
+    },
+    {
+      "name": "Harshil",
+      "email": "harshil@gmail.com",
+      "password": "Harshil@1111",
+      "tel": "9977877744",
+      "id": 2
+    },
+    {
+      "name": "Meet",
+      "email": "meet@gmail.com",
+      "password": "Meet@4444",
+      "tel": "7878774411",
+      "id": 3
+    }
+  ],
+  "medicine": [],
+  "healthcare": []
+}
