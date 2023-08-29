@@ -1,4 +1,13 @@
 {
+  "signup": [
+    {
+      "name": "Bhavin",
+      "email": "patelbhavin7784@gmail.com",
+      "password": "Bhavin@1234",
+      "tel": "9978847878",
+      "id": 1
+    }
+  ],
   "medicine": [
     {
       "id": 1,
@@ -222,17 +231,321 @@
     }
 
   ],
-  "healthcare": []
-}
-  "signup": [
+  "healthcare": [
     {
-      "name": "Bhavin",
-      "email": "patelbhavin7784@gmail.com",
-      "password": "Bhavin@1234",
-      "tel": "9978847878",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L23540/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-1-2-1690288474.jpg",
+      "title": "The Sleep Company Microfiber Smart Adjus...",
+      "price": "₹998.90",
+      "category": "mattresses",
       "id": 1
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-2-1687333857.jpg",
+      "title": "The Sleep Company Smartgrid Cervical Pil...",
+      "price": "₹1999.14",
+      "category": "mattresses",
+      "id": 2
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-2-1690288249.jpg",
+      "title": "The Sleep Company Microfiber Smart Adjus...",
+      "price": "₹1799.10",
+      "category": "mattresses",
+      "id": 3
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/G89308/duroflex-livein-duropedic-memory-foam-roll-pack-8-inch-double-size-medium-firm-mattress-72x48x8-2-1690336875.jpg",
+      "title": "Duroflex Livein Duropedic Memory Foam, R...",
+      "price": "₹11117.07",
+      "category": "mattresses",
+      "id": 4
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-2-1688989848.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹13392.52",
+      "category": "mattresses",
+      "id": 5
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L66839/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-queen-size-medium-firm-mattress-72x60x6-2-1690336635.jpg",
+      "title": "Duroflex Livein Duropedic Memory...",
+      "price": "₹11258.00",
+      "category": "mattresses",
+      "id": 6
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/X61157/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-78x66x10-in-queen-size-2-1688989476.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹19086.08",
+      "category": "mattresses",
+      "id": 7
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/M09168/the-sleep-company-smartgrid-orthopedic-8-inch-king-size-mattress-aiha-certified-75x72-2-1692684045.jpg",
+      "title": "The Sleep Company Smartgrid Orthopedic...",
+      "price": "₹26925.00",
+      "category": "mattresses",
+      "id": 8
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/B33141/the-sleep-company-smartgrid-ortho-8-inch-queen-size-mattress-aiha-certified-75x60-grey-color-2-1692683856.jpg",
+      "title": "The Sleep Company Smartgrid Ortho 8 Inch...",
+      "price": "₹28397.00",
+      "category": "mattresses",
+      "id": 9
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A60237/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-75x42x6-in-single-size-2-1688988315.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹8084.50",
+      "category": "mattresses",
+      "id": 10
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P39458/the-sleep-company-smartgrid-ortho-snowtec-8-inch-king-size-mattress-4-6-degree-cooler-84x72-2-1692684078.jpg",
+      "title": "The Sleep Company Smartgrid Ortho...",
+      "price": "₹34174.50",
+      "category": "mattresses",
+      "id": 11
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/S08262/the-sleep-company-smartgrid-ortho-hybrid-10-inch-queen-size-mattress-aiha-certified-75x60-2-1692683828.jpg",
+      "title": "The Sleep Company Smartgrid Ortho...",
+      "price": "₹41340.00",
+      "category": "mattresses",
+      "id": 12
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/R77569/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-78x48x8-in-double-size-2-1688989877.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹11287.96",
+      "category": "mattresses",
+      "id": 13
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/R77569/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-78x48x8-in-double-size-2-1688989877.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹10774.40",
+      "category": "mattresses",
+      "id": 14
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/R77569/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-78x48x8-in-double-size-2-1688989877.jpg",
+      "title": "Flo Ortho - Aloe Vera Gel Infused Orthop...",
+      "price": "₹24289.76",
+      "category": "mattresses",
+      "id": 15
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-2-1677849615.jpg",
+      "title": "Upglam Cleansing & Purifying Neem Face W...",
+      "price": "₹104.76",
+      "category": "personalcare",
+      "id": 16
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg",
+      "title": "Calcimax 500 Health Supplement Tablets ",
+      "price": "₹330.60",
+      "category": "personalcare",
+      "id": 17
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg",
+      "title": "Liveasy Essentials Handwash Pump 250 Ml",
+      "price": "MRP ₹72.00",
+      "category": "personalcare",
+      "id": 18
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-2-1671744103.jpg",
+      "title": "Pharmeasy Biotin Gummies - Pack Of 60",
+      "price": "₹749.50",
+      "category": "personalcare",
+      "id": 19
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-2-1676757633.jpg",
+      "title": "Pharmeasy Biotin 10000mcg - For Hair, Sk...",
+      "price": "₹384.45",
+      "category": "personalcare",
+      "id": 20
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-2-1671741035.jpg",
+      "title": "Scalpe Plus Anti Dandruff Shampoo...",
+      "price": "₹252.00",
+      "category": "personalcare",
+      "id": 21
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-2-1671743687.jpg",
+      "title": "Upglam Onion Oil Shampoo",
+      "price": "₹311.22",
+      "category": "personalcare",
+      "id": 22
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/C94919/upglam-sunscreen-lotion-50gm-2-1671744141.jpg",
+      "title": "Upglam Sunscreen Lotion-50gm",
+      "price": "₹175.12",
+      "category": "personalcare",
+      "id": 23
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1686118239.jpg",
+      "title": "Venusia Max Intensive Moisturizing Cream...",
+      "price": "₹555.10",
+      "category": "personalcare",
+      "id": 24
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg",
+      "title": "Everherb (By Pharmeasy) Aloe Vera...",
+      "price": "₹199.50",
+      "category": "personalcare",
+      "id": 25
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products/I37851/photostable-gold-spf55-sunscreen-gel-50g-2-1664868997.jpg",
+      "title": "Photostable Gold Spf55 Sunscreen Gel 50g",
+      "price": "₹724.24",
+      "category": "personalcare",
+      "id": 26
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/208838/mildy-tube-of-100ml-shampoo-2-1671741077.jpg",
+      "title": "Mildy Tube Of 100ml Shampoo",
+      "price": "₹218.25",
+      "category": "personalcare",
+      "id": 27
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I40419/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-500gm-2-1669710706.jpg",
+      "title": "Venusia Max Intensive Moisturizing Lotio...",
+      "price": "₹957.44",
+      "category": "personalcare",
+      "id": 28
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-60-capsules-2-1692709396.jpg",
+      "title": "Revital H Men Multivitamin With...",
+      "price": "₹467.50",
+      "category": "personalcare",
+      "id": 29
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L02209/ahaglow-advanced-tube-of-100gm-face-wash-gel-2-1692250093.jpg",
+      "title": "Ahaglow Advanced Tube Of 100gm Face Wash Gel",
+      "price": "MRP ₹529.65",
+      "category": "personalcare",
+      "id": 30
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg",
+      "title": "Dr. Morepen Gluco One Bg 03 Glucometer T...",
+      "price": "₹662.98",
+      "category": "healthcaredevices",
+      "id": 31
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg",
+      "title": "Accu-Chek Active Glucometer Test Strips...",
+      "price": "₹928.99",
+      "category": "healthcaredevices",
+      "id": 32
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-2-1680858160.jpg",
+      "title": "Pharmeasy Digital Weighing Machine For",
+      "price": "₹794.47",
+      "category": "healthcaredevices",
+      "id": 33
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I32680/accu-chek-instant-glucometer-test-strips-box-of-50-1-1669710365.jpg",
+      "title": "Accu-Chek Instant Glucometer Test Strips",
+      "price": "₹996.55",
+      "category": "healthcaredevices",
+      "id": 34
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/K78780/pharmeasy-pill-box-organizer-2-1690272738.jpg",
+      "title": "Pharmeasy Pill Box Organizer",
+      "price": "₹249.50",
+      "category": "healthcaredevices",
+      "id": 35
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-2-1689593025.jpg",
+      "title": "Onetouch Select Test Strips|Blood Sugar ...",
+      "price": "MRP ₹1245.00",
+      "category": "healthcaredevices",
+      "id": 36
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-1-1669634874.jpg",
+      "title": "Accu-Chek Active Glucometer Test Strips",
+      "price": "₹1793.53",
+      "category": "healthcaredevices",
+      "id": 37
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/274946/contour-plus-glucometer-test-strips-box-of-50-1-1671740730.jpg",
+      "title": "Contour Plus Glucometer Test Strips",
+      "price": "₹909.09",
+      "category": "healthcaredevices",
+      "id": 38
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Z70690/covifind-covid-19-rapid-antigen-self-test-by-meril-easy-self-test-ai-powered-result-in-15-min-2-1671742572.jpg",
+      "title": "Covifind Covid-19 Rapid Antigen Self Tes...",
+      "price": "₹240.00",
+      "category": "healthcaredevices",
+      "id": 39
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1685623949.jpg",
+      "title": "Pharmeasy All-In -One Vaporizer",
+      "price": "₹269.55",
+      "category": "healthcaredevices",
+      "id": 40
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/W16773/pharmeasy-digital-thermometer-2-1681796833.jpg",
+      "title": "Pharmeasy Digital Thermometer",
+      "price": "₹165.00",
+      "category": "healthcaredevices",
+      "id": 41
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/N37764/onetouch-select-plus-test-stripsfor-use-with-onetouch-select-plus-simple-glucometerpack-of-50-2-1689586535.jpg",
+      "title": "Onetouch Select Plus Test Strips|For Use...",
+      "price": "MRP ₹1145.00",
+      "category": "healthcaredevices",
+      "id": 42
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/131677/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips25-strips-2-1689592960.jpg",
+      "title": "Onetouch Select Test Strips|Blood Sugar ...",
+      "price": "₹689.01",
+      "category": "healthcaredevices",
+      "id": 43
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/V35573/omron-hn-289-weighing-scale-2-1641790916.jpg",
+      "title": "Omron Hn-289 Weighing Scale",
+      "price": "₹2016.00",
+      "category": "healthcaredevices",
+      "id": 44
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/385425/glucocard-soft-lancet-32g-50s-2-1679654386.jpg",
+      "title": "Glucocard Soft Lancet 32g 50'S",
+      "price": "₹67.50",
+      "category": "healthcaredevices",
+      "id": 45
     }
-  ],
- 
-  "healthcare": []
+  ]  
 }
