@@ -3,7 +3,6 @@ document.getElementById("navbar").innerHTML= nav();
 
 let fil = [];
 let dispalymed =(data)=>{
-    console.log(data);
     document.querySelector("#medicine").innerHTML=""
     data.map((ele)=>{
         let img = document.createElement("img")
