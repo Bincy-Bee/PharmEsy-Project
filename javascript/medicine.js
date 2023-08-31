@@ -4,7 +4,7 @@ document.getElementById("navbar").innerHTML= nav();
 let fil = [];
 let id = 1;
 let dispalymed =(data)=>{
-    
+
     document.querySelector("#medicine").innerHTML=""
     data.map((ele)=>{
         
