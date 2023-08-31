@@ -2,64 +2,77 @@ import {nav} from "../components/nav.js"
 document.getElementById("navbar").innerHTML= nav();
 
 let fil = [];
+let id = 1;
 let dispalymed =(data)=>{
-    console.log(data);
+
     document.querySelector("#medicine").innerHTML=""
     data.map((ele)=>{
-        let img = document.createElement("img")
-        img.src=ele.image
+        
+        let img = document.createElement("img");
+        img.src=ele.image;
 
-        let title = document.createElement("p")
-        title.innerHTML=ele.title
+        let title = document.createElement("p");
+        title.innerHTML=ele.title;
 
-        let unit = document.createElement("h4")
-        unit.innerHTML=ele.unit
+        let unit = document.createElement("h4");
+        unit.innerHTML=ele.unit;
 
-        let price = document.createElement("h2")
-        price.innerHTML=`₹ ${ele.price}`
+        let category = document.createElement("h4");
+        category.innerHTML=ele.category;
 
-        let div = document.createElement("div")
-        div.append(title,unit,price)
+        let price = document.createElement("h2");
+        price.innerHTML=`₹ ${ele.price}`;
 
-        let div2 = document.createElement("div")
-        div.setAttribute("class","div2")
-        div2.append(img,div)
+        let div = document.createElement("div");
+        div.append(title,unit,category,price);
 
-        document.querySelector("#medicine").append(div2)
+        let div2 = document.createElement("div");
+        div.setAttribute("class","div2");
+        div2.append(img,div);
+        div2.addEventListener("click",()=>{
+           id= ele.id;
+           console.log(id);
+            fetch(`http://localhost:3000/medicine/${id}`)
+                .then((res)=>res.json())
+                .then((data)=>{
+                    console.log(data)
+                    localStorage.setItem("productDetails", JSON.stringify(data));
+                    window.location.href="/PharmEsy-Project/pages/product.html";
+                })
+          
+        })
+
+        document.querySelector("#medicine").append(div2);
+
+    })
+    
+}
+let search =()=>{
+    let val = document.querySelector("#value").value;
+    fetch("http://localhost:3000/medicine")
+    .then((res)=>res.json())
+    .then((data)=>{
+        let sss = data.filter((key)=>key.category.toLowerCase().match(val.toLowerCase()))
+        dispalymed(sss)
     })
 }
 
-let search =()=>{
-    let value = document.querySelector("#value").value;
-    let data = fil.filter((key)=>key.title.match(value.toLowerCase()))
-    dispalymed(data)
-}
 document.querySelector("#search").addEventListener("click",search)
+document.getElementById("value").addEventListener("input",()=>{
+    search();
+   
+})
 
 let htol = ()=>{
     let data = fil.sort((a,b)=>(b.price - a.price))
     dispalymed(data)
 }
 
-let cap = ()=>{
-    let data = fil.filter((ele)=>ele.pharmacy =="capsule")
+let dravya = (pass)=>{
+    let data = fil.filter((ele)=>ele.pharmacy == pass)
     dispalymed(data)
 }
 
-let tab = ()=>{
-    let data = fil.filter((ele)=>ele.pharmacy =="tablet") 
-    dispalymed(data)
-}
-
-let pow = ()=>{
-    let data = fil.filter((ele)=>ele.pharmacy =="powder")    
-    dispalymed(data)
-}
-
-let liq = ()=>{
-    let data = fil.filter((ele)=>ele.pharmacy =="liquid")   
-    dispalymed(data)
-}
 
 let ltoh = ()=>{
     let data = fil.sort((a,b)=>(a.price - b.price))   
@@ -110,7 +123,7 @@ const get = async()=>{
     fetch("http://localhost:3000/medicine")
     .then((res)=>res.json())
     .then((data)=>{
-        console.log(data)
+        
     dispalymed(data) 
     fil=data
     })
@@ -120,10 +133,10 @@ get();
 document.querySelector("#all").addEventListener("click",get);
 document.querySelector("#atoz").addEventListener("click",atoz);
 document.querySelector("#ztoa").addEventListener("click",ztoa);
-document.querySelector("#tab").addEventListener("click",tab);
-document.querySelector("#cap").addEventListener("click",cap);
-document.querySelector("#pow").addEventListener("click",pow);
-document.querySelector("#liq").addEventListener("click",liq);
+document.querySelector("#tab").addEventListener("click",()=>dravya("tablet"));
+document.querySelector("#cap").addEventListener("click",()=>dravya("capsule"));
+document.querySelector("#pow").addEventListener("click",()=>dravya("powder"));
+document.querySelector("#liq").addEventListener("click",()=>dravya("liquid"));
 document.querySelector("#htol").addEventListener("click",htol);
 document.querySelector("#ltoh").addEventListener("click",ltoh);
 document.querySelector("#price1").addEventListener("click",price1);

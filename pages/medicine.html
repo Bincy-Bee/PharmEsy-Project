@@ -10,18 +10,22 @@
         @import url(../css/all.min.css);
     </style>
 </head>
-<body>
+<body>  
     <div id="navbar"></div>
    <!-- medicineproducts  -->
    <section class="medicine">
         <div class="container">
+            <div class="path py-3 pl-8">
+                <a href="../index.html">Home</a>
+                <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
+                <a href="../pages/medicine.html">Medicine</a>
+                <!-- <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i> -->
+                <!-- <a href class="text-slate-500 text-base my-2" id="producttitle"></a> -->
+            </div>
             <div class="flex flex-wrap">
                 <div class="w-[25%] h-[100vh] pl-[30px] p-[20px]  text-[#4f585e]">
-                    <h1 class="text-[30px] mb-[40px] text-[#4f585e] font-[500]">Filter</h1>
-                    
-                    
+                    <h1 class="text-[30px] mb-[40px] text-[#4f585e] font-[500]">Filter</h1>                    
                     <h3 class="font-[700] text-[18px] my-[15px]">Products</h3>
-                    
                     <ul>
                         <li class="my-[10px] cursor-pointer hover:text-[#10847e] " id="all">All</li>
                         <li class="my-[10px] cursor-pointer hover:text-[#10847e] " id="atoz">Product A to Z</li>
@@ -45,9 +49,9 @@
                 </div>
                 <div class="display w-[75%]  p-[20px] h-[100vh] ">
                     <div class="flex flex-wrap justify-between items-center">
-                        <h1 class="text-[30px] ml-[12px] mb-[20px] text-[#4f585e] font-[500]">Medicines</h1>
+                        <h1 class="text-[30px] ml-[12px] mb-[20px] text-[#4f585e] font-[500]">Medicines & Healthcare</h1>
                         <div class="flex border rounded-[25px] my-[10px] overflow-hidden">
-                            <input type="text" id="value" placeholder="Search Madicines" class="w-[80%] p-[10px] text-[16px] ">
+                            <input type="text" id="value" placeholder="Search by category" class="w-[80%] p-[10px] text-[16px] ">
                             <button id="search" class="bg-[#10847e] w-[25%] text-[20px] text-white"><i class="fa-solid fa-magnifying-glass"></i></button>
                         </div>
                     </div>
@@ -60,7 +64,7 @@
    <!-- footer section -->
    <!-- <div id="footer"></div> -->
 </body>
-<script src="/javascript/cdn.tailwindcss.com_3.3.3"></script>
+<script src="../javascript/cdn.tailwindcss.com_3.3.3"></script>
 <script>
      tailwind.config = {
         theme : {
