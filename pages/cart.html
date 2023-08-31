@@ -12,6 +12,115 @@
 <body>
     <div id="navbar"></div>
    <!-- cart page ui  -->
+   <section class="cart">
+        <div class="container">
+            <div class="flex px-[40px] py-[30px]">
+                <div class="w-[60%] h-[auto] bg-zin-300 mr-[12px] ">
+                    <div class="border border-[#e6ebf4] rounded-[12px]" id="pro">
+                        <div class="p-[24px] border-b-[1px]">
+                            <h1 class="text-[22px] font-[600] text-[#30363c]"> <span id="item"></span> Items in your Cart
+                            </h1>
+                        </div>
+                        <div id="cartpro" class="flex px-[32px] py-[24px] gap-y-[30px]">
+                        </div>
+                    </div>
+                    <form class="border rounded-xl p-5 " id="address">
+                    <h3 class="text-xl font-bold text-slate-900 mb-2">Add Delivary Address</h3>
+
+                   <div class="flex mb-4">
+                
+                    <input type="text" id="puname" placeholder="Enter your username" class="p-3 w-[40%] placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-3 mr-3">
+
+                    <input type="email" id="puemail" placeholder="Enter your email" class="p-3  w-[60%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm mt-3">
+
+                   </div>
+
+                  <div class="flex mb-4">
+                    <input type="text" id="houseno" placeholder="House number and building" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%]  placeholder:text-sm mt-4 mr-3">
+
+                    <input type="text" id="street" placeholder="Street Name" class="p-3  w-[50%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm  mt-4">
+                  </div>
+                  <div class="flex mb-4">
+                    <input type="text" id="city" placeholder="City" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 mr-3">
+
+                    <input type="text" id="state" placeholder="State" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 ">
+                  </div>
+                    
+                    <input type="tel" id="putel" placeholder="Enter your phone number" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%] placeholder:text-sm my-4 mr-3">
+
+                    <p class="mb-4 pl-1">Address Type</p>
+                    <div class="flex mb-8">
+                        <label class=" block mr-3  ">
+                            <input name="adresstype" class="" type="radio"  value="">
+                            <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Home</span>
+                        </label>
+                        <label class=" block mr-3  ">
+                            <input name="adresstype" class="" type="radio"  value="">
+                            <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Work</span>
+                        </label>
+                        <label class=" block mr-3  ">
+                            <input name="adresstype" class="" type="radio"  value="">
+                            <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Others</span>
+                        </label>
+                    </div>
+
+                  <div class="text-center w-[30%] m-auto">
+                    <input type="submit" id="sub" value="Save and Continue" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
+                  </div>
+
+                </form>
+                <div class="payment mt-4" id="upi">
+                    <h2 class="text-xl font-bold text-slate-900 mb-2"></h2>
+
+                    <form class="border rounded-xl p-5" id="payinfo">
+                        <h3 class="text-xl font-bold text-slate-900 mb-2">Payment Option</h3>
+                        <p class="mt-4 font-bold">Enter New UPI ID</p>
+                       <div class="flex justify-between mb-4">
+                    
+                        <input type="text" id="upi" placeholder="Enter your UPI ID" class="p-3 border w-[40%] rounded-xl placeholder:text-sm border-slate-400 mt-3 mr-3">
+    
+                        <input type="subm  it" id="sub" value="Place Order & Pay" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
+                
+                      </div>
+                    </form>
+                </div>
+                </div>
+                <div class="w-[40%] ml-[10px] h-[320px] border border-[#e6ebf4] rounded-[12px]">
+                    <div>
+                        <div class="p-[24px] border-b-[1px] border-[#e6ebf4]"><p class="text-[18px] text-[#30363c] font-[500]">Cart total: <span id="carttot" class="text-[22px]">₹</span></p></div>
+                        <div class="p-[20px]">
+                            <div class="flex items-center">
+                                <img src="../img/cartCoupon.svg" alt="">
+                                <h3 class="text-[18px] text-[#30363c] font-[700]"> Apply Coupons</h3>
+                            </div>
+                            <div class="border border-[#e6ebf4] rounded-[8px] flex justify-between p-[3px]">
+                                <input type="text" class=" px-[6px] py-[10px]" id="coupon" placeholder="Enter Coupon Code">
+                                <button class="font-[600] text-[#45A081] pr-[5px] tracking-[1px]" id="chack">CHACK</button>
+                            </div>
+                            <p id="varify" class="p-[10px] text-[14px]"></p>
+                            <input type="button" class="w-full bg-[#10847e] text-[white] rounded-[6px] font-[500] px-[24px] text-[16px] py-[12px]" id="event" value="Add Delivery Address">
+                        </div>
+                    </div> 
+                    <div class="mt-[50px] border border-[#e6ebf4] rounded-[12px] p-[24px]">
+                        <div class=""><p class="text-[18px] text-[#30363c] font-[600]">Bill Summary</p></div>
+                        <div class="mt-[24px] mb-[12px] border-b ">
+                            <div class="flex justify-between mb-[12px] text-[14px] font-[500] text-[#6e787e]"><p class="">Total MRP</p><p id="mrp"></p></div>
+                            <div class="flex justify-between mb-[12px] text-[14px] font-[500] text-[#6e787e]"><p class="">Coupon Saving</p><p class="text-[#45a081]" id="coupons">- ₹ 0</p></div>
+                            <div class="flex justify-between mb-[12px] text-[14px] font-[500] text-[#6e787e]"><p class="">Delivery charges</p><p class="text-[#45a081] font-[500]">FREE</p></div>
+                        </div>
+                        <div class="pt-[24px] pb-[12px]">
+                            <div class="flex items-center justify-between text-[16px] text-[#30363c] font-[600]">
+                                <p>Amount to be paid</p><p id="bepaid">₹</p>
+                            </div>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+   </section>
+   <div id="tot"></div>
+    <!-- footer section -->
+    <div id="footer"></div>
 </body>
 <script src="./javascript/cdn.tailwindcss.com_3.3.3"></script>
 <script>

@@ -1,5 +1,9 @@
 // Signin true condition
 
+import { nav, footer } from "../components/nav.js";
+document.getElementById("navbar").innerHTML=nav();
+document.getElementById("footer").innerHTML=footer();
+
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
 

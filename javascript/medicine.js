@@ -1,5 +1,6 @@
-import {nav} from "../components/nav.js"
+import {nav, footer} from "../components/nav.js"
 document.getElementById("navbar").innerHTML= nav();
+document.getElementById("footer").innerHTML= footer();
 
 let fil = [];
 let id = 1;
@@ -37,7 +38,7 @@ let dispalymed =(data)=>{
                 .then((data)=>{
                     console.log(data)
                     localStorage.setItem("productDetails", JSON.stringify(data));
-                    window.location.href="/PharmEsy-Project/pages/product.html";
+                    window.location.href="../pages/product.html";
                 })
           
         })
