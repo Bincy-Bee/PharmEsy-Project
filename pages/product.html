@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Products</title>
+    <style>
+      @import url(../css/index.css);
+      @import url(../css/all.min.css);
+      @import url(../css/style.css);
+    </style>
+</head>
+<body>
+    <div id="navbar"></div>
+    <div class="path py-10 pl-4">
+        <a href="../index.html">Home</a>
+        <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
+        <a href="../pages/medicine.html">Medicine</a>
+        <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
+        <a href class="text-slate-500 text-base my-2" id="producttitle"></a>
+    </div>
+    <div class="flex flex-wrap" >
+            <div class="w-[80%]">
+                <div class="flex flex-wrap justify-between" id="target">
+                    <div class="w-[30%] content-evenly">
+                        <div>
+                            <img src="" class="p-3 rounded-md object-contain w-[320px] h-[320px] mx-4 border hover:border-teal-600" alt="" id="pimg">
+                        </div>
+                        <div class="images ml-4 flex justify-between items-center">
+                            <div class="w-[25%] pt-2 pr-2">
+                                <img src="" class="border-2 object-contain w-[60px] h-[60px] p-0 rounded-md hover:border-teal-600 smallImg" id="img1" alt="">
+                            </div>
+                            <div class="w-[25%] pt-2 pr-2">
+                                <img src="" class="border-2 object-contain w-[60px] h-[60px] p-0 rounded-md hover:border-teal-600 smallImg" id="img2" alt="">
+                            </div>
+                            <div class="w-[25%] pt-2 pr-2">
+                                <img src="" class="border-2 object-contain w-[60px] h-[60px] p-0 rounded-md hover:border-teal-600 smallImg" id="img3" alt="">
+                            </div>
+                            <div class="w-[25%] pt-2 pr-2">
+                                <img src="" class="border-2 object-contain w-[60px] h-[60px] p-0 rounded-md hover:border-teal-600 smallImg" id="img4" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-[70%] px-10 pt-4 flex flex-col content-around text-slate-600">
+                        <h1 class="font-bold text-2xl mb-2"  id="ptitle"></h1>
+                        <h2 class="text-slate-500 text-base my-2" id="punit"></h2>
+                        <h2 class="text-slate-500 text-base my-2" id="pcategory"></h2>
+                        <h3 class="font-bold text-2xl mb-2" ><i class="fa-solid fa-indian-rupee-sign"></i><span id="pprice"></span></h3>
+                        <h5 class="text-slate-500 text-[12px]">Delivery By <span class="font-bold text-[12px]" id="date"></span></h5>
+                        <hr class="my-5 mb-8">
+                        <div class="flex">
+                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 mr-3 rounded-md" id="buynow">Buy Now</button>
+                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 ml-3 rounded-md" id="addtocart">Add To Cart</button>
+                        </div>
+                    </div>
+                    <h5 class="text-[10px] text-slate-900 ml-6 my-5">non returable <a href="#" class="text-blue-700">Read More</a></h5>
+                    <hr class="my-5 mb-8 w-full mx-4">
+                    <div class="desc mx-6">
+                        <ul>
+                            <li>
+                                <h3 class="font-bold text-justify">Description</h3>
+                                <p class="align-justify" id="pdesc"></p>
+                                <ul class="mx-5">
+                                    <li class="list-disc my-3">
+                                        <p class=" text-base text-justify"><span class="font-bold"> Recommended by Doctors: </span>Tested & trusted by the experts at National Health Academy (since 2018) for its advanced orthopedic support and many health benefits. (We have NHA certificate for this)</p>
+                                    </li>
+                                    <li class="list-disc my-3">
+                                        <p class=" text-base text-justify"><span class="font-bold"> 5 Zone Orthopedic Technology: </span>Our Smart Orthopedic Layer adapts to your sleep needs for personalized support and optimum spinal alignment</p>
+                                    </li>
+                                    <li class="list-disc my-3">
+                                        <p class=" text-base text-justify"><span class="font-bold"> Adaptive Memory Foam: </span> Cradles all your pressure points for next-level comfort and a restful night's sleep</p>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <hr class="my-5 mb-8 w-full mx-4">
+                    <div class="mx-6">
+                        <h3 class="font-bold mb-2">Product Details</h3>
+                        <p class="text-slate-600">Brand : <span class="text-teal-600">The Sleep Company</span></p>
+                        <p class="text-slate-600">Country of Origin :<span class="text-teal-600">India</span></p>
+                        <p class="text-slate-600">Manufacturing Details :<span class="text-teal-600">THE SLEEP COMPANY -</span>
+                            The Sleep Company Comfort Grid Technologies Pvt Ltd, 35 Chandivali Road, Andheri East, Mumbai - 400072 India</p>
+                    </div>
+                </div>
+            </div>
+            <div class="w-[20%] pr-2 fixed right-0 mb-2">
+                <h4 class="text-slate-600 font-bold mb-1">Please add item(s) to proceed</h4>
+                <a href="../pages/cart.html">
+                    <button class="bg-teal-600 text-white font-bold py-2 w-full rounded-md">View Cart <i class="fa-solid fa-angle-right text-sm px-1"></i></button>
+                </a>
+                <div class="border rounded-md border-dashed border-red-500 mt-4 p-3 relative">
+                    <h5 class="font-bold">Offers Just for you</h5>
+                    <div class="absolute left-0 top-0 z-[-10]">
+                        <svg><path fill="#F76B6D" d="M29.673 1.013h2.154c1.346.034 2.255 1.124 1.952 2.486l-.438 1.975c-.336 1.363.472 2.963 1.717 3.542l1.885.92c1.245.613 1.582 2.01.707 3.066l-1.313 1.634c-.842 1.09-.842 2.861 0 3.95l1.313 1.602c.875 1.09.538 2.452-.707 3.065l-1.885.92c-1.245.612-2.053 2.213-1.717 3.541l.438 2.044c.303 1.328-.606 2.452-1.952 2.452l-2.154.034c-1.38 0-2.76 1.056-3.097 2.418l-.471 2.01c-.303 1.328-1.616 1.975-2.861 1.362l-1.885-.886c-1.28-.579-3.03-.204-3.87.886l-1.347 1.6c-.875 1.09-2.289 1.09-3.164 0l-1.346-1.6c-.842-1.09-2.592-1.465-3.837-.886l-1.885.886c-1.28.613-2.558-.034-2.895-1.362l-.471-2.01c-.292-1.18-1.366-2.13-2.546-2.363V.955C.633.822 1.237.473 1.705-.002h25.71c.602.61 1.43 1.015 2.258 1.015z" opacity=".746" transform="translate(-15 -638) translate(15 638)"></path></svg>
+                    </div>
+                    <p class="text-sm">Get upto <i class="fa-solid fa-indian-rupee-sign"></i>250 using CRED pay UPI</p>
+                </div>
+            </div>
+    </div>
+   
+</body>
+<script src="../javascript/cdn.tailwindcss.com_3.3.3"></script>
+<script>
+     tailwind.config = {
+        theme : {
+            container : {
+                center : true,
+            },
+        },
+      }
+  </script>
+  <script type="module" src="../javascript/product.js"></script>
+  <script type="module" src="../javascript/index.js"></script>
+</html>

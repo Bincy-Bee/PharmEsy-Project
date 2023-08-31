@@ -7,8 +7,8 @@ const nav =()=>{
         <nav>
             <ul class="flex">
                 <li><a href="../index.html" class="px-2 py-1 font-[400] hover:text-teal-500">Home</a></li>
-                <li><a href="../pages/medicine.html" class="px-2 py-1 font-[400] hover:text-teal-500">Medicine</a></li>
-                <li><a href="../pages/healthcare.html" class="px-2 py-1 font-[400] hover:text-teal-500">Healthcare</a></li>
+                <li><a href="../pages/medicine.html" class="px-2 py-1 font-[400] hover:text-teal-500">Medicine & Healthcare</a></li>
+
                 <li><a href="#" class="px-2 py-1 font-[400] hover:text-teal-500">Services</a></li>
             </ul>
         </nav>
