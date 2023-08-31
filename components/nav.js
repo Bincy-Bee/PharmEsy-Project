@@ -1,34 +1,6 @@
 const nav =()=>{
     return `<header class="p-2 border text-[16px]">
-   <div class="container"> <div class="flex flex-wrap justify-between items-center">
-   <div class="logo">
-       <a href="../index.html"><img src="../img/pharmeasy-logo2.jpg" class="h-[80px]" alt=""></a>
-   </div>
-   <nav>
-       <ul class="flex">
-           <li><a href="../index.html" class="px-2 py-1 font-[400] hover:text-teal-500">Home</a></li>
-           <li><a href="../pages/medicine.html" class="px-2 py-1 font-[400] hover:text-teal-500">Medicine</a></li>
-           <li><a href="../pages/healthcare.html" class="px-2 py-1 font-[400] hover:text-teal-500">Healthcare</a></li>
-           <li><a href="#" class="px-2 py-1 font-[400] hover:text-teal-500">Services</a></li>
-       </ul>
-   </nav>
-   <div class="user-cart flex">
-       <div>
-           <a href="" class="pr-9 font-[400] hover:text-teal-500 relative px-4"><i class="fa-solid fa-user text-sm pr-2 text-teal-500"></i><span id="user">User</span></a>
-           <div class="absolute right-0 top-0 w-[450px] h-[100vh] bg-white drop-shadow-2xl hidden" id="signuptab">
-               <div class="flex flex-wrap justify-between  bg-teal-600 p-6 relative">
-                   <div class="login-bg">
-                       <img src="../img/phaWsy.png" class="h-[70px] z-10" alt="">
-                   </div>
-                   <div class="bg">
-                       <img src="../img/loginbgimg.svg" class="scale-[2] mt-6 mr-12" alt="">
-                   </div>
-                   <div class="absolute left-[-50px]">
-                       <button class="px-5 py-3 text-[20px] bg-teal-600 text-white" id="signuptabclose"><i class="fa-solid fa-xmark"></i></button>
-                   </div>
-               </div>
-               <form class="p-3" id="signup">
-                   <h3 class="text-[16px] font-bold text-teal-600">Quick SignUp / Register</h3>
+
 
                    <input type="text" id="name" placeholder="Enter your username" class="p-3 border w-full rounded-xl placeholder:text-sm border-slate-400 mt-4">
                    <p class="text-sm text-red-500 font-bold pl-4" id="namealert"></p>
