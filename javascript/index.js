@@ -2,8 +2,6 @@
 
 import { nav } from "../components/nav.js";
 
-document.querySelector("#navbar").innerHTML=nav()
-
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
 
