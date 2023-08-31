@@ -360,9 +360,488 @@
         "img3": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-6.2-1686742127.jpg",
         "img4": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-6.3-1686742340.jpg"
       }
+    },
+    {
+      "id": 23,
+      "pharmacy": "",
+      "title": "The Sleep Company Microfiber Smart Adjustable Plush Pillow|Super Soft & Fluffy| White, Pack Of 1",
+      "unit": "pack of 1",
+      "price": 998.9,
+      "description": "What if we told you that there existed a pillow so fluffy and plush, the problems of your day would just rush away! Introducing our newest Plush Adjustable Fiber Pillow – the softest, cuddliest, most huggable pillow we’ve made yet!",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L23540/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-1-2-1690288474.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.1-1690288595.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.2-1690288319.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.3-1690288376.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.1-1690288595.jpg"
+      }
+    },
+    {
+      "id": 24,
+      "pharmacy": "",
+      "title": "The Sleep Company Smartgrid Cervical Pillow | Smartgrid Technology | High-Low Curve Design | 1 Unit",
+      "unit": "pack of 1",
+      "price": 1999.14,
+      "description": "Patented SmartGRID Technology - The Cervical Pillow is designed with SmartGRID Technology which helps to relieve head & neck pressure and de-stresses you after a long day work.Provides Comforting Support to Head & Neck: Say goodbye to all your sleep problems with India’s 1st SmartGRID Cervical Pillow. Designed to support the natural curvature of the neck and spine while sleeping, this pillow helps you improve sleep quality, enhance blood circulation, and let you sleep comfortably.Ergonomic SmartGRID Structure: The SmartGRID cervical pillow is ergonomically designed with patented SmartGRID technology to give your head, neck, and shoulders maximum amounts of support & comfort while the specially designed stress-relieving grid will help to relieve head pressure and stress.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-2-1687333857.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.2-1687333322.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 25,
+      "pharmacy": "",
+      "title": "The Sleep Company Microfiber Smart Adjustable Plush Pillow|Super Soft & Fluffy| White, Pack Of 2",
+      "unit": "pack of 2",
+      "price": 1799.1,
+      "description": "What if we told you that there existed a pillow so fluffy and plush, the problems of your day would just rush away! Introducing our newest Plush Adjustable Fiber Pillow – the softest, cuddliest, most huggable pillow we’ve made yet!",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-2-1687333857.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.2-1687333322.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "pharmacy": "",
+      "title": "Duroflex Livein Duropedic Memory Foam, Roll Pack, 6 Inch King Size Medium Firm Mattress (78x72x6)",
+      "unit": "pack of 1",
+      "price": 13009.99,
+      "description": "As India's number one orthopedic bed-in-a-box, LiveIn Duropedic is an advanced back support mattress that promises you a healthy and restful sleep. This ortho mattress is designed to encourage spinal alignment and postural correction through innovative engineering and thoughtful constraction. This Duroflex roll packed mattress features our certified 5-zoned orthopedic layer to lend enhanced support to your back, neck and spine. This mattress comes with our special Triple Anti Microbial Fabric to keep you protected and your bed space safe and hygienic. The signature Art Deco pattern of the luxury knitted fabric enveloping this mattress will elevate the style quotient of your bedroom.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-2-1690336167.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.1-1690336008.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.2-1690336150.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.3-1690336030.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 27,
+      "pharmacy": "",
+      "title": "Duroflex Livein Duropedic Memory Foam, Roll Pack, 6 Inch King Size Medium Firm Mattress (78x72x6)",
+      "unit": "Double Size",
+      "price": 13392.52,
+      "description": "The mattress industry hadn't changed in years, aside from adding new sales tricks and gimmicks. So when we started Flo, we worked to innovate something entirely new for the industry. Unparalleled in comfort and support, our proprietary foam was painstakingly perfected through customer feedback. Flo is a Direct Consumer mattress brand, which has spent two years developing the one perfect mattress for all Indians. Our prices are 50% cheaper compared to legacy brands because we sell without any middlemen like distributors or retailers. Flo Mattress has become several people's best choices for its super comfortability owing to the fabric cover that it has on the top. Now, this also facilitates an easy cleaning process without getting the foam layer wet. Many people are not aware that a Foam mattress improves the body's blood circulation at night while you sleep. The spacer fabric also facilitates a 3D airflow throughout the mattress edge, promoting better blood flow.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-2-1688989848.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.1-1688988828.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.2-1688988494.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.3-1688988486.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.1-1688988828.jpg"
+      }
+    },
+    {
+      "id": 28,
+      "pharmacy": "liquid",
+      "title": "Upglam Cleansing & Purifying Neem Face Wash - 100 Ml",
+      "unit": "100 Ml in tube",
+      "price": 104.76,
+      "description": "The Upglam purifying neem face wash is a great herbal formulation that controls pimples and acne. The face wash cleanses and purifies the skin, removing bacteria and germs from pores and roots, thus preventing pimples and acne. The face wash is enriched with neem, which is an excellent antibacterial and antifungal agent. It also has turmeric, which helps even skin tone and also has antiseptic properties. Turmeric makes face skin supple and more flexible. This unisex Himalaya neem face wash is soap-free and should be used regularly for best results.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg"
+      }
+    },
+    {
+      "id": 29,
+      "pharmacy": "liquid",
+      "title": "Himalaya Purifying Neem Face Wash Tube Of 300 Ml",
+      "unit": "300 Ml in tube",
+      "price": 341.55,
+      "description": "The Himalaya purifying neem face wash is a great herbal formulation that controls pimples and acne. The face wash cleanses and purifies the skin, removing bacteria and germs from pores and roots, thus preventing pimples and acne. The face wash is enriched with neem, which is an excellent antibacterial and antifungal agent. It also has turmeric, which helps even skin tone and also has antiseptic properties. Turmeric makes face skin supple and more flexible. This unisex Himalaya neem face wash is soap-free and should be used regularly for best results.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/090735/himalaya-purifying-neem-face-wash-tube-of-100-ml-2-1669709960.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I35289/himalaya-purifying-neem-face-wash-150ml-2-1669710354.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I48066/himalaya-purifying-neem-face-wash-300ml-2-1669711341.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/090735/himalaya-purifying-neem-face-wash-tube-of-100-ml-2-1669709960.jpg?dim=700x0&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I35289/himalaya-purifying-neem-face-wash-150ml-2-1669710354.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 30,
+      "pharmacy": "liquid",
+      "title": "Liveasy Essentials Handwash Pump 250 Ml",
+      "unit": "250 Ml in tube",
+      "price": 72,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg"
+      }
+    },
+    {
+      "id": 31,
+      "pharmacy": "",
+      "title": "Pharmeasy Biotin Gummies - Pack Of 60",
+      "unit": "60 Gummies(s) in Bottle",
+      "price": 749.5,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-2-1671744103.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.1-1671744096.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-2-1671744103.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.2-1671744100.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.1-1671744096.jpg"
+      }
+    },
+    {
+      "id": 32,
+      "pharmacy": "liquid",
+      "title": "Pharmeasy Biotin 10000mcg - For Hair, Skin & Nails - Bottle Of 60",
+      "unit": "Bottle Of 60",
+      "price": 384.45,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-12-1676757634.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-13-1676757632.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg"
+      }
+    },
+    {
+      "id": 33,
+      "pharmacy": "liquid",
+      "title": "Scalpe Plus Anti Dandruff Shampoo Bottle Of 75 Ml",
+      "unit": "Bottle Of 75 Ml",
+      "price": 252,
+      "description": "Scalpe Plus Shampoo is a proven shampoo for the treatment of dandruff-related issues. The ingredients are based on the ketoconazole + ZPTO formula, which is renowned and recognized across the globe for its effectiveness against dandruff. Ketoconazole works by fighting against the primary cause of dandruff in humans, the fungus Malassezia. By destroying this fungus and with regular use even eliminating it from the scalp, Scalpe Shampoo can provide long-term relief from dandruff. Regular use of Scalpe is also great for your hair as the shampoo base conditions your hair making it softer. From the IMS Prescription Audit MAT (Mar 20) Scalpe Plus was rated as the most prescribed anti-dandruff shampoo currently on the market, especially due to its ability to fight off recurring dandruff.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-12-1676757634.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-13-1676757632.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 34,
+      "pharmacy": "liquid",
+      "title": "Upglam Onion Oil Shampoo",
+      "unit": "300ml shampoo in bottle",
+      "price": 311.22,
+      "description": "Your hair can make or break your entire look, so you must be very careful while choosing shampoo from the many options available in the market. Upglam Onion oil shampoo has been made to drive away all your hair woes. It contains red onion extracts which work best for weak hair and are known to effectively reduce hair fall. It has other essential ingredients which are known to promote hair growth. It is a daily use shampoo which strengthens the hair shaft and helps in improving the overall texture of your hair. Upglam is a trusted brand, manufacturing good quality personal care products and catering to a wide spectrum of customer needs. Dry, damaged hair is brittle and breaks off easily, the goodness of Plant Keratin in this shampoo protects, repairs, and restores hair health. Upglam onion oil shampoo is ideal for all hair types and offers healthy, smooth and shiny locks.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-2-1671743687.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.1-1671743693.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.2-1671743685.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.3-1671743689.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.1-1671743693.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "pharmacy": "",
+      "title": "Dr. Morepen Gluco One Bg 03 Glucometer Test Strips Box Of 50",
+      "unit": "50 glucometer test strips in box",
+      "price": 661.03,
+      "description": "This blood glucose electronic testing machine from Dr Morepen is to be used with the BG-03 strips and gives a reading of blood glucose level at the time of testing.Primary usage is self-testing at home to manage and monitor blood sugar as well as in professional use. The GlucoOne BG-03 features a screen that reads out the test results within 5 seconds, with the option to store up to 300 previous results.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/B57697/dr-morepen-bg-03-blood-glucose-test-strip-with-25-free-kalor-round-lancets-2-1668403192.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/B57697/dr-morepen-bg-03-blood-glucose-test-strip-with-25-free-kalor-round-lancets-7-1668403199.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/H57982/dr-morepen-gluco-one-glucose-test-strip-25-nos-1-1684157145.jpg?dim=700x0&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 36,
+      "pharmacy": "",
+      "title": "Accu-Chek Active Glucometer Test Strips Box Of 50",
+      "unit": "50 Glucometer Test Strips(s) in Box",
+      "price": 928.99,
+      "description": "The blood sugar levels in your body can be easily checked with Accu-Chek Active Strips. These are tested for accuracy, are easy to use daily and no manual coding is required. You can simply insert a test strip, collect a small blood sample on it, allow it to get absorbed and read your blood glucose result from the display. Accu-Chek Glucometer Test Strips can be used by patients suffering from Type 1 and Type 2 diabetes.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.1-1669655028.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.2-1669655014.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.3-1669655016.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 37,
+      "pharmacy": "",
+      "title": "Pharmeasy Digital Weighing Machine For Body Weight With Lcd Display & Tempered Glass- 1 Yr Warranty",
+      "unit": "1 Device(s) in Box",
+      "price": 944.37,
+      "description": "Keeping an eye on our body weight is crucial, especially in an era when all of us tend to not look over what we are eating. Stress and the easy availability of junk food are two reasons why the BMI of many city folks is soaring. Excess body weight is connected to many serious health complications such as Type 2 diabetes, heart disorders, hypertension, osteoarthritis etc.For the sake of your health and happiness, it is important to watch what you eat and exercise regularly. And to ensure that you are reaching your target weight or maintaining it, you need to weigh yourself regularly. To help with that, you need to buy a trustworthy weighing machine. PharmEasy Weighing Machine uses advanced technology to weigh you accurately. It has a sleek, attractive and modern design. The platform has a striped glass cover and curved edges that ensure you don’t slip and fall. This electronic weighing machine can be kept in your room. Step on it first thing in the morning because that is the best time to get accurate results. The tiny LCD screen will display your weight.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-2-1680858160.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.1-1665738101.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.2-1665738103.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.3-1665738105.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.1-1665738101.jpg"
+      }
+    },
+    {
+      "id": 38,
+      "pharmacy": "",
+      "title": "Accu-Chek Instant S Blood Glucose Meter With 10 Test Strip",
+      "unit": "1 Glucometer Kit(s) in Box",
+      "price": 731.09,
+      "description": "Keeping an eye on our body weight is crucial, especially in an era when all of us tend to not look over what we are eating. Stress and the easy availability of junk food are two reasons why the BMI of many city folks is soaring. Excess body weight is connected to many serious health complications such as Type 2 diabetes, heart disorders, hypertension, osteoarthritis etc.For the sake of your health and happiness, it is important to watch what you eat and exercise regularly. And to ensure that you are reaching your target weight or maintaining it, you need to weigh yourself regularly. To help with that, you need to buy a trustworthy weighing machine. PharmEasy Weighing Machine uses advanced technology to weigh you accurately. It has a sleek, attractive and modern design. The platform has a striped glass cover and curved edges that ensure you don’t slip and fall. This electronic weighing machine can be kept in your room. Step on it first thing in the morning because that is the best time to get accurate results. The tiny LCD screen will display your weight.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-1-1671741905.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-2-1671741911.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-6.1-1671741913.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-6.2-1671741915.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-2-1671741911.jpg"
+      }
+    },
+    {
+      "id": 39,
+      "pharmacy": "",
+      "title": "Pharmeasy Pulse Oximeter",
+      "unit": "1 Oximeter(s) in Box",
+      "price": 499.75,
+      "description": "Imported By:ARC International 906 5- B, Versoa Height Chsl, New Mhada Tower, Nr Lokhandwala Circle, Nr.Indralok Building, Andheri West, Mumbai, Maharashtra, 400053.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-2-1691042123.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.1-1691042155.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.2-1691042165.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.3-1691042155.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.1-1691042155.jpg"
+      }
+    },
+    {
+      "id": 40,
+      "pharmacy": "",
+      "title": "Onetouch Select Test Strips|Blood Sugar Test Machine Testing Strips|50 Strips",
+      "unit": "50 Glucometer Test Strips(s) in Box",
+      "price": 1140.03,
+      "description": "LifeScan is a world leader in blood glucose monitoring – globally more than 20 million people depend on our iconic OneTouch brand products to help them manage their diabetes. According to a survey conducted in 2020 with 150 diabetologists in India, OneTouch is a brand that diabetologists in India trust. Only OneTouch Select test strips can be used with the OneTouch Select Simple glucometer machine (white in colour). Diabetologists in India agree that OneTouch glucometers are simple to use and give accurate and reliable results.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-2-1689593025.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.1-1689593027.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.2-1689593023.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.3-1689593031.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.1-1689593027.jpg"
+      }
+    },
+    {
+      "id": 41,
+      "pharmacy": "",
+      "title": "Accu-Chek Active Glucometer Test Strips Box Of 100 (50 X 2)",
+      "unit": "100 Glucometer Test Strips(s) in Box",
+      "price": 1793.53,
+      "description": "Accu-Chek Active Strips are used for determining blood sugar levels. Accu-Chek Active Strip has been engineered in a way that no manual coding is required and this ensures hassle-free daily usage.The droplet of blood is easily absorbed by the sugar test strips. The Accu-Chek Active Strips require only a tiny drop of blood and yet display completely credible results in just 5 seconds. Accu-Chek Glucometer Test Strips can be used for both Type 1 and Type 2 diabetes.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-1-1669634874.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-2-1669634862.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-6.1-1669634877.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-6.2-1669634868.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-2-1669634862.jpg"
+      }
+    },
+    {
+      "id": 42,
+      "pharmacy": "tablet",
+      "title": "Neurobion Forte Tablet 30'S",
+      "unit": "30 Tablet(s) in Strip",
+      "price": 36.58,
+      "description": "Neurobion Plus tablet is a dietary supplement. Neurobion Plus consist of multivitamins such as mecobalamin (a form of vitamin B12), pyridoxine (vitamin B6) and nicotinic acid (a form of vitamin B3) as active components. It is used to treat & prevent vitamins B3, B6 and B12 deficiencies. Neurobion Plus tablet is also used as an adjuvant in the treatment of diabetic neuropathy (damaged nerves). It is used in certain anaemic conditions and also helps in maintaining good health. Neurobion Plus tablet should be taken as suggested by the doctor. Along with this medicine, you should maintain a healthy eating habit.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655036.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655026.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1.1-1669655051.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-2-1669655031.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655026.jpg"
+      }
+    },
+    {
+      "id": 43,
+      "pharmacy": "tablet",
+      "title": "Supradyn Daily Multivitamin Tablet With Essential Zinc, Vitamins, For Daily Immunity & Energy",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 54.32,
+      "description": "Supradyn Daily Multivitamin Tablets help in building a strong immune system, aiding proper blood circulation level in your body and controlling the greying of hair, anaemia, upset stomach and infections. It is also useful in the case of diabetic neuropathy and heartburn and further helps to overcome Vitamin C & Zinc deficiency.You can take this tablet as advised by your doctor to attain maximum benefit. These health supplements are usually safe and do not cause any side effects when taken as per the doctor's recommendation.Key Benefits",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-2-1677155713.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.1-1677155723.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.2-1677155719.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.3-1677155727.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.1-1677155723.jpg"
+      }
+    },
+    {
+      "id": 44,
+      "pharmacy": "tablet",
+      "title": "Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+      "unit": "60 Tablet(s) in Bottle",
+      "price": 384.45,
+      "description": "Vitamins and Minerals are essential nutrients that our bodies need for healthy functioning. They perform many crucial functions in our body, right from creating vitality to ensuring the proper development of body structures and optimal body functions for overall well-being. Not getting enough of these essential nutrients can affect our well-being and even result in some incessant illnesses.pharmEasy Multivitamin Multimineral tablet is specially formulated to meet our daily nutritional requirement of essential vitamins and minerals. It supports our optimal health and well-being. It comes with added benefits of Ginkgo biloba extract, Grape seed extract, Panax Ginseng & choline. These herbal ingredients help in boosting immunity, offer antioxidant properties against oxidative damage and support nerve and muscle functions.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1675775391.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1675775368.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.2-1675775349.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.3-1675775391.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1675775368.jpg"
+      }
+    },
+    {
+      "id": 45,
+      "pharmacy": "tablet",
+      "title": "Zingavita Multivitamin Tablets For Men With Vitamins & Omega-3 - 120 Tablets Bottle",
+      "unit": "120 Tablet(s) in Bottle",
+      "price": 379.02,
+      "description": "SCIENTIFICALLY FORMULATED FOR A BETTER HEALTHIER YOU: The go-getter in you deserves all the nourishment. So to make things a little easier, we're bringing you multivitamins that is a SUPER blend of 41 vitamins, minerals, and herbs, formulated specially for men to help fill in nutritional gaps and support healthy, active lifestyle NUTRIENTS FROM A TO Z(inc): The power-packed performance of 41 vitamins & minerals, omega-3 & herbs provides you all the nourishment you need. Start your day strong with multivitamins that boost your immunity, improve stamina, vitality & support healthier bones",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-2-1681204571.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.1-1681204627.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.2-1681204802.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.3-1681204634.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.1-1681204627.jpg"
+      }
+    },
+    {
+      "id": 46,
+      "pharmacy": "",
+      "title": "Purna Gummies 5000mcg Biotin Blueberry Gummies With Vitamin B12 For Hair Skin & Nail 30 Gummies",
+      "unit": "30 Gummies(s) in Jar",
+      "price": 199.6,
+      "description": "Purna Gummies deliver a nutritious and potent blend of botanicals, minerals and vitamins to strengthen hair and much more. These yummy and chewable gummies boost the growth of your hair and improve your hair. Purna Hair Biotin Blueberry Gummies for hair loss work by strengthening stem cells and hair follicles. These promote the development of new hair. Women can explore multiple Purna Hair Biotin Blueberry Gummies benefits like stronger nails, a healthy heart and better immunity. Purna Hair Biotin Blueberry Gummies composition is 100% vegetarian and comprises antioxidants and vital nutrients to retard the ageing process and improve general wellbeing.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-2-1664194209.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.1-1664194251.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.2-1664194261.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.3-1664194283.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.1-1664194251.jpg"
+      }
+    },
+    {
+      "id": 47,
+      "pharmacy": "tablet",
+      "title": "Shelcal 500mg Strip Of 15 Tablets",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 118.17,
+      "description": "With the current lifestyle, we are all based indoors in air-conditioned offices, houses and cars, with hardly any exposure to the sun.Yes, taking too much Shelcal 500 can be harmful. There is a misconception that too much of vitamins are not harmful.Shelcal 500 is used to treat Calcium and Vitamin deficiency. It helps in maintaining healthy bones and joints.the Shelcal 500 is a nutritional supplement it does not have action in controlling muscle twitches. Muscle twitches are spontaneous contractions of a muscle or muscle group. Muscle twitches may be caused due to stress, the improper form of some exercise, poor diet, due to consumption of too much caffeine or stress. It usually goes on its own but if it is causing too much discomfort to you, seek medical help.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-2-1679999355.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.1-1679999314.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.2-1679999355.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.3-1679999325.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.1-1679999314.jpg"
+      }
+    },
+    {
+      "id": 48,
+      "pharmacy": "liquid",
+      "title": "Venusia Max Intensive Moisturizing Cream For Dry To Very Dry Skin Repairs & Smoothens Skin 150g",
+      "unit": "150g Cream in Tube",
+      "price": 555.1,
+      "description": "Dry and dull skin can take all your charm away. Do you want that to happen to you? Your answer will be no. So, get Venusia Max Intensive Moisturizing Cream for you to get rid of dry and dull skin and keep your glow intact. Our moisturizing cream for dry skin contains glycerin, shea butter, aloe butter, mango butter, and cocoa butter, all of which effectively improve the quality of your skin and transform it from dull to lively. It also enhances skin barriers by protecting your skin from dirt and pollution while keeping it hydrated for as long as 10 hours. Our moisturizing cream is dermatologically tested to be hypoallergenic and safe for your skin. It is entirely paraben, mineral oil, alcohol, and animal origin ingredients free. Apply it daily to get visibly healthy and shiny skin",
+      "category": "skincare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1686118239.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-3-1686118227.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.1-1686118223.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.2-1686118225.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-3-1686118227.jpg"
+      }
+    },
+    {
+      "id": 49,
+      "pharmacy": "liquid",
+      "title": "Upglam Coco Repair Body Butter",
+      "unit": "200ml Liquid in Bottle",
+      "price": 182.52,
+      "description": "Now take your coffee obsession to the next level with Upglam Coco Repair Body Butter, the perfect body care product to heal tough, rough and dry skin, suitable across skin types and ages. Made with natural ingredients, the product is free from toxins, and harsh chemicals and is absolutely safe to use on the skin.Made with the aromatic fragrance of coffee, this product will repair damaged skin and will provide you with baby soft skin all over again. Every time you apply the product to your hands, feet, shoulders and neck, your skin will feel soft, moisturised and will smell irresistibly delicious. Aside from pure cocoa, Upglam Coco Repair Body Butter also contains shea butter which makes your skin supple and rose petal extract that soothes skin giving it a refreshing fragrance.",
+      "category": "skincare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-2-1671743727.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.1-1671743724.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.2-1671743729.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.3-1671743725.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.1-1671743724.jpg"
+      }
+    },
+    {
+      "id": 50,
+      "pharmacy": "liquid",
+      "title": "Godrej Good Knight Naturals Neem Liquid Vapouriser Combo Pack - Machine With 2 Refill",
+      "unit": "1 Combipack(s) in Bottle",
+      "price": 198,
+      "description": "Godrej Good Knight Naturals Neem Liquid Vapouriser Combo Pack consists of a machine and 2 refills that help ward off mosquitoes. In today’s times, mosquitoes have become a cause of concern as they not only disturb our sleep but also cause deadly diseases such as dengue and malaria. The use of Godrej Good Knight Machine guards us against these tiny creatures. It is made with 100% natural ingredients and is safe to use. It is safe for the elderly as well as small babies. Each refill lasts for up to a month and helps create a safe environment for you and your family.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-1-1671741807.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-2-1671741809.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-4-1671741806.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-6.1-1671741804.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-2-1671741809.jpg"
+      }
+    },
+    {
+      "id": 51,
+      "pharmacy": "liquid",
+      "title": "Dettol Liquid Disinfectant For Floor Cleaner Surface Disinfection Personal Hygiene Lime Fresh 500ml",
+      "unit": "500ml Liquid in Bottle",
+      "price": 191.07,
+      "description": "The Dettol disinfectant liquid is a multipurpose disinfectant and sanitizing liquid that helps kill up to 99.9% of germs on surfaces where it is used. The lime and lemon flavour of this disinfectant liquid from Dettol is perfect for use on bathroom and kitchen surfaces. It can also be used on laundry and other fabric surfaces to ensure all-around protection inside your home. Dettol disinfectant liquid is thus a highly versatile cleaning liquid to have around at home with several other key benefits like protection from life-threatening viruses.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1679979622.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.1-1679979201.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1679979630.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1679979177.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.1-1679979201.jpg"
+      }
+    },
+    {
+      "id": 52,
+      "pharmacy": "liquid",
+      "title": "Harpic 'Germ & Stain Blaster' Disinfectant Toilet Cleaner Citrus - 750ml",
+      "unit": "750ml Liquid in Bottle",
+      "price": 173.25,
+      "description": "Harpic Germ and Stain Blaster is a powerful toilet cleaner, the strongest of the Harpic lot that gives you unbeatable cleaning both above and below the waterline and citrus freshness for the toilet. Its thick liquid formula with powerful cleaning agents clings to the toilet surface and removes the toughest stains^ and kills the sturdiest germs, providing your toilet 100 % more stain removal and 100 % better germ protection. It also gives your toilet a pleasant fresh fragrance and helps avoid odour for long. It easily spreads on the toilet bowl and provides 100% better cleaning than ordinary toilet bleach and detergents. It gives unbeatable cleaning by removing the toughest spots and stains on the toilet bowl. It also gives your toilet a pleasant fresh fragrance that is available in two variants - Citrus and Floral. India's # 1 Toilet Cleaner*. While Harpic blasts away germs and bacteria from even the hardest reaching areas of your toilet, here are a few bonus tips that can help you keep safe and your toilet clean every time. ^Please refer to the individual pack for details. #Kills 99.9% of germs post 5 minutes of contact with undiluted product. *Harpic claim as per Nielsen Retail Index data for period MAT Oct ‘20 for the India market in Cleaners – Toilet & Bathroom Category.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-2-1671743111.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.1-1671743118.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.2-1671743119.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1679979177.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.1-1671743118.jpg"
+      }
     }
   ],
-  "healthcare": [],
   "cart": [
     {
       "id": 1,
@@ -379,7 +858,7 @@
         "img3": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1671741223.jpg",
         "img4": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
       },
-      "qty": 2
+      "qty": 3
     },
     {
       "id": 2,
