@@ -844,6 +844,7 @@
   ],
   "cart": [
     {
+
       "id": 2,
       "pharmacy": "tablet",
       "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
@@ -858,8 +859,6 @@
         "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.3-1681204875.jpg",
         "img4": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.1-1681204974.jpg"
       },
-      "qty": 3
-    },
     {
       "id": 20,
       "pharmacy": "capsule",
