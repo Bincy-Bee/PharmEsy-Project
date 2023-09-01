@@ -1,5 +1,6 @@
-import { nav } from "../components/nav.js";
-document.getElementById("navbar").innerHTML=nav()
+import {nav, footer} from "../components/nav.js"
+document.getElementById("navbar").innerHTML= nav();
+document.getElementById("footer").innerHTML= footer();
 
 let cart= (data)=>{
     let sum = 0

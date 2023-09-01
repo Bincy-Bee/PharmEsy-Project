@@ -8,25 +8,26 @@
       @import url(../css/index.css);
       @import url(../css/all.min.css);
       @import url(../css/style.css);
+      @import url(../css/media.css);
     </style>
 </head>
 <body>
     <div id="navbar"></div>
-    <div class="path py-10 pl-4">
+    <div class="pagepath py-10 px-8 mx-4">
         <a href="../index.html">Home</a>
         <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
         <a href="../pages/medicine.html">Medicine</a>
         <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
         <a href class="text-slate-500 text-base my-2" id="producttitle"></a>
     </div>
-    <div class="flex flex-wrap" >
-            <div class="w-[80%]">
-                <div class="flex flex-wrap justify-between" id="target">
-                    <div class="w-[30%] content-evenly">
-                        <div>
-                            <img src="" class="p-3 rounded-md object-contain w-[320px] h-[320px] mx-4 border hover:border-teal-600" alt="" id="pimg">
+    <div class="pro-mainbox flex flex-wrap px-4" >
+            <div class="w-full box1">
+                <div class=" sdetail" id="target">
+                    <div class="w-full sub-box1">
+                        <div class="mainimg">
+                            <img src="" class="p-3 rounded-md object-contain w-[320px] h-[320px] m-auto border hover:border-teal-600" alt="" id="pimg">
                         </div>
-                        <div class="images ml-4 flex justify-between items-center">
+                        <div class="images ml-7 flex justify-center items-center">
                             <div class="w-[25%] pt-2 pr-2">
                                 <img src="" class="border-2 object-contain w-[60px] h-[60px] p-0 rounded-md hover:border-teal-600 smallImg" id="img1" alt="">
                             </div>
@@ -41,50 +42,50 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-[70%] px-10 pt-4 flex flex-col content-around text-slate-600">
-                        <h1 class="font-bold text-2xl mb-2"  id="ptitle"></h1>
-                        <h2 class="text-slate-500 text-base my-2" id="punit"></h2>
-                        <h2 class="text-slate-500 text-base my-2" id="pcategory"></h2>
-                        <h3 class="font-bold text-2xl mb-2" ><i class="fa-solid fa-indian-rupee-sign"></i><span id="pprice"></span></h3>
-                        <h5 class="text-slate-500 text-[12px]">Delivery By <span class="font-bold text-[12px]" id="date"></span></h5>
-                        <hr class="my-5 mb-8">
-                        <div class="flex">
-                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 mr-3 rounded-md" id="buynow">Buy Now</button>
-                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 ml-3 rounded-md" id="addtocart">Add To Cart</button>
+                    <div class="w-full p-4 flex flex-col content-around text-slate-600 sub-box2">
+                        <h1 class="font-bold text-lg mb-2"  id="ptitle"></h1>
+                        <h2 class="text-slate-500 text-sm my-2" id="punit"></h2>
+                        <h2 class="text-slate-500 text-sm my-2" id="pcategory"></h2>
+                        <h3 class="font-bold text-lg mb-2" ><i class="fa-solid fa-indian-rupee-sign"></i><span id="pprice"></span></h3>
+                        <h5 class="text-slate-500 text-[10px]"> Delivery By :  <span class="font-bold text-[10px]" id="update"></span>-<span class="font-bold text-[10px]" id="toupdate"></span></h5>
+                        <hr class="my-5 mb-4">
+                        <div class="cartadd text-center">
+                            <button class="bg-teal-600 text-white font-bold py-1 px-4  rounded-md" id="addtocart">Add To Cart</button>
                         </div>
                     </div>
-                    <h5 class="text-[10px] text-slate-900 ml-6 my-5">non returable <a href="#" class="text-blue-700">Read More</a></h5>
-                    <hr class="my-5 mb-8 w-full mx-4">
+                    <h5 class="text-[10px] text-slate-900 my-2 text-center more">non returable <a href="#" class="text-blue-700">Read More</a></h5>
+                    <hr class="my-5 mb-8 mx-4 hr1">
                     <div class="desc mx-6">
                         <ul>
                             <li>
                                 <h3 class="font-bold text-justify">Description</h3>
-                                <p class="align-justify" id="pdesc"></p>
+                                <p class="text-justify text-sm" id="pdesc"></p>
                                 <ul class="mx-5">
                                     <li class="list-disc my-3">
-                                        <p class=" text-base text-justify"><span class="font-bold"> Recommended by Doctors: </span>Tested & trusted by the experts at National Health Academy (since 2018) for its advanced orthopedic support and many health benefits. (We have NHA certificate for this)</p>
+                                        <p class=" text-sm text-justify"><span class="font-bold"> Recommended by Doctors: </span>Tested & trusted by the experts at National Health Academy (since 2018) for its advanced orthopedic support and many health benefits. (We have NHA certificate for this)</p>
                                     </li>
                                     <li class="list-disc my-3">
-                                        <p class=" text-base text-justify"><span class="font-bold"> 5 Zone Orthopedic Technology: </span>Our Smart Orthopedic Layer adapts to your sleep needs for personalized support and optimum spinal alignment</p>
+                                        <p class=" text-sm text-justify"><span class="font-bold"> 5 Zone Orthopedic Technology: </span>Our Smart Orthopedic Layer adapts to your sleep needs for personalized support and optimum spinal alignment</p>
                                     </li>
                                     <li class="list-disc my-3">
-                                        <p class=" text-base text-justify"><span class="font-bold"> Adaptive Memory Foam: </span> Cradles all your pressure points for next-level comfort and a restful night's sleep</p>
+                                        <p class=" text-sm text-justify"><span class="font-bold"> Adaptive Memory Foam: </span> Cradles all your pressure points for next-level comfort and a restful night's sleep</p>
                                     </li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
-                    <hr class="my-5 mb-8 w-full mx-4">
-                    <div class="mx-6">
+                    <hr class="my-5 mb-8 mx-4 hr2">
+                    <div class="mx-6 text-base">
                         <h3 class="font-bold mb-2">Product Details</h3>
                         <p class="text-slate-600">Brand : <span class="text-teal-600">The Sleep Company</span></p>
                         <p class="text-slate-600">Country of Origin :<span class="text-teal-600">India</span></p>
                         <p class="text-slate-600">Manufacturing Details :<span class="text-teal-600">THE SLEEP COMPANY -</span>
                             The Sleep Company Comfort Grid Technologies Pvt Ltd, 35 Chandivali Road, Andheri East, Mumbai - 400072 India</p>
                     </div>
+                    <hr class="my-5 mb-8 mx-4 hr3">
                 </div>
             </div>
-            <div class="w-[20%] pr-2 fixed right-0 mb-2">
+            <div class="w-[60%] pr-2 right-0 text-center m-auto box2">
                 <h4 class="text-slate-600 font-bold mb-1">Please add item(s) to proceed</h4>
                 <a href="../pages/cart.html">
                     <button class="bg-teal-600 text-white font-bold py-2 w-full rounded-md">View Cart <i class="fa-solid fa-angle-right text-sm px-1"></i></button>
@@ -98,7 +99,7 @@
                 </div>
             </div>
     </div>
-   
+   <div id="footer"></div>
 </body>
 <script src="../javascript/cdn.tailwindcss.com_3.3.3"></script>
 <script>

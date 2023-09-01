@@ -1,6 +1,9 @@
 // Signin true condition
 
-import { nav } from "../components/nav.js";
+import { nav,footer } from "../components/nav.js";
+
+document.getElementById("navbar").innerHTML = nav();
+document.getElementById("footer").innerHTML = footer();
 
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
@@ -60,45 +63,19 @@ document.getElementById("logout").addEventListener("click",()=>{
     window.location.reload();
     document.getElementById("account").style.display="none" 
 
-})
+});
 
-// header User links ooprtion signUp & Signin Open Close JS...
 
-// document.getElementById("user").addEventListener("click",(e)=>{
-//     e.preventDefault();
-//     document.getElementById("signuptab").style.display="block";
-// });
-// document.getElementById("signuptabclose").addEventListener("click",(e)=>{
-//     e.preventDefault();
-   
-//     document.getElementById("signuptab").style.display="none";
-// });
-// document.getElementById("signinopen").addEventListener("click",(e)=>{
-//     e.preventDefault();
-//     document.getElementById("signuptab").style.display="none";
-//     document.getElementById("signintab").style.display="block";
-// });
-// document.getElementById("signintabclose").addEventListener("click",(e)=>{
-//     e.preventDefault();
-    
-//     document.getElementById("signintab").style.display="none";
-// });
-// document.getElementById("signupopen").addEventListener("click",(e)=>{
-//     e.preventDefault();
-//     document.getElementById("signuptab").style.display="block";
-//     document.getElementById("signintab").style.display="none";
-// });
-// paaword show in SignUp & hide JS...
-const passshow=()=>{
-    document.getElementById("passshow").style.display="none";
-    document.getElementById("passhide").style.display="block";
+function passshow() {
+    document.getElementById("passshow").style.display = "none";
+    document.getElementById("passhide").style.display = "block";
 
     let show = document.getElementById("password");
 
-    if(show.type == "password"){
+    if (show.type == "password") {
         show.type = "text";
     }
-};
+}
 const passhide=()=>{
     document.getElementById("passhide").style.display="none";
     document.getElementById("passshow").style.display="block";
@@ -259,4 +236,8 @@ document.getElementById("signin").addEventListener("submit",(e)=>{
             }
         });
     }
+});
+
+document.getElementById("toggle").addEventListener("click",()=>{
+    document.querySelector("header").classList.toggle("show");
 })

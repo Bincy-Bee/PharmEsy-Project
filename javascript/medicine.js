@@ -1,5 +1,7 @@
-import {nav} from "../components/nav.js"
-document.getElementById("navbar").innerHTML= nav();
+import { nav,footer } from "../components/nav.js";
+
+document.getElementById("navbar").innerHTML = nav();
+document.getElementById("footer").innerHTML = footer();
 
 let fil = [];
 let id = 1;
@@ -37,7 +39,7 @@ let dispalymed =(data)=>{
                 .then((data)=>{
                     console.log(data)
                     localStorage.setItem("productDetails", JSON.stringify(data));
-                    window.location.href="/PharmEsy-Project/pages/product.html";
+                    window.location.href="/pages/product.html";
                 })
           
         })
@@ -47,7 +49,7 @@ let dispalymed =(data)=>{
     })
     
 }
-let search =()=>{
+let catsearch =()=>{
     let val = document.querySelector("#value").value;
     fetch("http://localhost:3000/medicine")
     .then((res)=>res.json())
@@ -57,9 +59,9 @@ let search =()=>{
     })
 }
 
-document.querySelector("#search").addEventListener("click",search)
+document.querySelector("#medsearch").addEventListener("click",catsearch)
 document.getElementById("value").addEventListener("input",()=>{
-    search();
+    catsearch();
    
 })
 

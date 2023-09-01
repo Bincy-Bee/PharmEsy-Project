@@ -1,22 +1,4 @@
-@media  (max-width: 575px) {
 
-    .col-xs-1{width: 8.3333%;}
-    .col-xs-2{width: 16.6666%;}
-    .col-xs-3{width: 25%;}
-    .col-xs-4{width: 33.3333%;}
-    .col-xs-5{width: 41.6666%;}
-    .col-xs-6{width: 50%;}
-    .col-xs-7{width: 58.3333%;}
-    .col-xs-8{width: 66.6666%;}
-    .col-xs-9{width: 75%;}
-    .col-xs-10{width: 83.3333%;}
-    .col-xs-11{width: 91.6666%;}
-    .col-xs-12{width: 100%;}
-
-    .container{
-        max-width: 100%;
-    }
-}
 @media (min-width:576px) {
 
     .col-sm-1{width: 8.3333%;}
@@ -54,6 +36,44 @@
     .container{
         max-width: 720px;
     }
+    .pro-mainbox .box1{
+        width: 100%;
+        margin: 0px 30px;
+    }
+    .pro-mainbox .box1 .sdetail{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-evenly;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box1{
+        width: 45%;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box1 .images{
+        margin: 0;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2{
+        padding-left: 20px;
+        width:55%;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 .cartadd{
+        text-align: left;
+    }
+    .pro-mainbox .more{
+        text-align: center;
+        margin: auto;
+    }
+    .pro-mainbox .desc{
+        padding: 0px 20px;
+    }
+    .pro-mainbox .hr1, .hr2, .hr3{
+        width: 100%;
+    }
+    .pagepath{
+        margin: 0px 10px;
+        padding: 10px;
+    }
+   
 }
 @media (min-width:992px)  {
 
@@ -76,9 +96,105 @@
     .toggle{
         display: none;
     }
-    .nav{
-        display: block;
+    nav .nav{
+        position: static;
+        width: auto;
+        padding: auto;
+        background-color: transparent;
+        flex-direction: row;
+        box-shadow: none;
+        transform: scale(1);
+        margin: auto;
     }
+    .usermenu #signuptab{
+        width: 450px;
+        align-items: center;
+    }
+    .usermenu #signuptab .bg{
+        transform: scale(1.1);
+
+    }
+    .usermenu .signuptabclose{
+        left: -50px;
+        top: 30px;
+    }
+    .usermenu .signuptabclose button{
+        padding: 12px 20px;
+        
+    }
+    .usermenu #signintab{
+        width: 450px;
+        align-items: center;
+    }
+    .usermenu #signintab .bg{
+        transform: scale(1.1);
+       
+    }
+    .usermenu .signintabclose{
+        left: -50px;
+        top: 30px;
+    }
+    .usermenu .signintabclose button{
+        padding: 12px 20px;
+        
+    }
+    .usermenu #account{
+        width: 500px;
+        top: 60px;
+        right: 150px;
+    }
+    .pro-mainbox{
+        padding: 0px 40px;
+    }
+    .pro-mainbox .box1{
+        width: 80%;
+        margin: 0;
+    }
+    .pro-mainbox .box2{
+        width: 20%;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+    .pagepath{
+        margin: 0px 10px;
+        padding: 10px;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box1{
+        width: 30%;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 #ptitle{
+        font-size: 24px;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 #punit{
+        font-size: 16px;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 #pcategory{
+        font-size: 16px;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 #pprice{
+        font-size: 24px;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2{
+        padding-left: 20px;
+        width: 70%;
+    }
+    .pro-mainbox .box1 .sdetail .sub-box2 #addtocart{
+        padding: 10px 25px;
+    } 
+    .pro-mainbox .desc{
+        margin: 0;
+    }
+    .pro-mainbox .hr1, .hr2, .hr3{
+        width: 100%;
+    }
+    .pro-mainbox .more{
+        text-align: left;
+        margin: 0;
+        margin-top: 15px;
+    }
+   
+    
 }
 @media (min-width:1200px) {
 
