@@ -76,9 +76,54 @@
     .toggle{
         display: none;
     }
-    .nav{
-        display: block;
+    nav .nav{
+        position: static;
+        width: auto;
+        padding: auto;
+        background-color: transparent;
+        flex-direction: row;
+        box-shadow: none;
+        transform: scale(1);
+        margin: auto;
     }
+    .usermenu #signuptab{
+        width: 450px;
+        align-items: center;
+    }
+    .usermenu #signuptab .bg{
+        transform: scale(1.1);
+
+    }
+    .usermenu .signuptabclose{
+        left: -50px;
+        top: 30px;
+    }
+    .usermenu .signuptabclose button{
+        padding: 12px 20px;
+        
+    }
+    .usermenu #signintab{
+        width: 450px;
+        align-items: center;
+    }
+    .usermenu #signintab .bg{
+        transform: scale(1.1);
+       
+    }
+    .usermenu .signintabclose{
+        left: -50px;
+        top: 30px;
+    }
+    .usermenu .signintabclose button{
+        padding: 12px 20px;
+        
+    }
+    .usermenu #account{
+        width: 500px;
+        top: 60px;
+        right: 150px;
+    }
+    
 }
 @media (min-width:1200px) {
 

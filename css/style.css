@@ -9,7 +9,9 @@
 body{
     font-family: 'Inter', sans-serif;
 }
-
+.show ul{
+    transform: scaleX(1);
+}
 .display #medicine img{
     width: 80%;
     margin: auto;
