@@ -239,6 +239,5 @@ document.getElementById("signin").addEventListener("submit",(e)=>{
 });
 
 document.getElementById("toggle").addEventListener("click",()=>{
-
     document.querySelector("header").classList.toggle("show");
 })

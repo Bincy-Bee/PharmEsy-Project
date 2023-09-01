@@ -49,7 +49,7 @@ let dispalymed =(data)=>{
     })
     
 }
-let search =()=>{
+let catsearch =()=>{
     let val = document.querySelector("#value").value;
     fetch("http://localhost:3000/medicine")
     .then((res)=>res.json())
@@ -59,9 +59,9 @@ let search =()=>{
     })
 }
 
-document.querySelector("#search").addEventListener("click",search)
+document.querySelector("#medsearch").addEventListener("click",catsearch)
 document.getElementById("value").addEventListener("input",()=>{
-    search();
+    catsearch();
    
 })
 

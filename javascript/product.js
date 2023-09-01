@@ -1,5 +1,6 @@
-import {nav} from "../components/nav.js"
+import {nav, footer} from "../components/nav.js"
 document.getElementById("navbar").innerHTML= nav();
+document.getElementById("footer").innerHTML= footer();
 
 let jojo = JSON.parse(localStorage.getItem("productDetails"));
 console.log(jojo);
@@ -18,6 +19,20 @@ const sigledetailes=(data)=>{
     document.getElementById("punit").innerHTML=`${data.unit}`;
     document.getElementById("pcategory").innerHTML=`${data.category}`;
     document.getElementById("pprice").innerHTML=`${data.price}`;
+
+    let ut = document.getElementById("update");
+    let toup = document.getElementById("toupdate");
+    setInterval(()=>{
+        let update = new Date();
+        update.setDate(update.getDate() + 3);
+        ut.innerHTML = update.toLocaleDateString();
+    })
+    setInterval(()=>{
+        let toupdate = new Date();
+        toupdate.setDate(toupdate.getDate() + 4);
+        toup.innerHTML = toupdate.toLocaleDateString();
+    }, 1000);
+
     document.getElementById("date").innerHTML=`${now.setDate((now.getDate() + 5)) }`;
     document.getElementById("pdesc").innerHTML=`${data.description }`;
        
