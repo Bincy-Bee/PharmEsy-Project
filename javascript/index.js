@@ -7,8 +7,8 @@ document.getElementById("footer").innerHTML = footer();
 
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
-
-
+let badge = localStorage.getItem("notification");
+document.getElementById("badge").innerHTML= badge;
 const userdisplay=(indata)=>{
     console.log(indata);
     document.getElementById("user").innerHTML= `${indata[0].name}`;
@@ -177,8 +177,6 @@ document.getElementById("signup").addEventListener("submit",(e)=>{
                         headers : {"Content-Type":"application/json"},
                         body : JSON.stringify(user)
                     });
-                    localStorage.setItem("loggedIn", true);
-
                 } catch (error) {
                     alert("error")
                 }
@@ -241,4 +239,4 @@ document.getElementById("signin").addEventListener("submit",(e)=>{
 document.getElementById("toggle").addEventListener("click",()=>{
 
     document.querySelector("header").classList.toggle("show");
-})
+});

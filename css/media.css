@@ -293,7 +293,7 @@
         grid-template-columns: repeat(3,1fr);
         grid-gap: 10px;
         margin: 10px;
-
+    }
     .pro-mainbox{
         padding: 0px 40px;
     }
@@ -345,8 +345,8 @@
         margin-top: 15px;
     }
    
-    
 }
+
 @media (min-width:1200px) {
 
     .col-xl-1{width: 8.3333%;}

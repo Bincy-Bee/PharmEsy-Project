@@ -6,7 +6,7 @@ let jojo = JSON.parse(localStorage.getItem("productDetails"));
 console.log(jojo);
 
 
-let now = new Date();
+
 const sigledetailes=(data)=>{
 
     document.getElementById("pimg").src=`${data.image}`;
@@ -33,7 +33,6 @@ const sigledetailes=(data)=>{
         toup.innerHTML = toupdate.toLocaleDateString();
     }, 1000);
 
-    document.getElementById("date").innerHTML=`${now.setDate((now.getDate() + 5)) }`;
     document.getElementById("pdesc").innerHTML=`${data.description }`;
        
     document.getElementById("addtocart").addEventListener("click",(e)=>{

@@ -85,8 +85,7 @@ let cart= (data)=>{
         document.querySelector("#cartpro").append(div1,div2)
     })
     document.querySelector("#item").innerHTML=totdata
-    document.getElementById("noti").innerHTML=totdata
-    
+    localStorage.setItem("notification", totdata);
     document.querySelector("#mrp").innerHTML=`₹${sum.toFixed(2)}`
     document.querySelector("#chack").addEventListener("click",()=>{
         let value = document.querySelector("#coupon").value

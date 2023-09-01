@@ -6,6 +6,20 @@
       "password": "Bhavin@1234",
       "tel": "9978847878",
       "id": 1
+    },
+    {
+      "name": "Harshil",
+      "email": "harshil@gmail.com",
+      "password": "Harshil@2222",
+      "tel": "9977884455",
+      "id": 2
+    },
+    {
+      "name": "Meet",
+      "email": "meet@gmail.com",
+      "password": "Meet@1111",
+      "tel": "9977881122",
+      "id": 3
     }
   ],
   "medicine": [
@@ -844,54 +858,38 @@
   ],
   "cart": [
     {
-
-      "id": 2,
+      "id": 1,
       "pharmacy": "tablet",
-      "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
-      "unit": "60 Counta",
-      "price": 329.03,
-      "description": "BIOTIN CARE FOR YOUR GORGEOUS HAIR: When your hair looks good, you feel good. But squeezing in time for your beauty routine may not always work out. That’s where our Biotin supplements come to the rescue. Zingavita Biotin tablets help improve hair thickness and volume. It stimulates keratin production to help make the hair stronger and reduce hair fall.",
+      "title": "Calcimax 500 Health Supplement Tablets",
+      "unit": "BOX OF 30",
+      "price": 330.6,
+      "description": "This calcium supplement from Calcimax comes with a potency of 500 mg, it contains not just elemental Calcium but also enhancers like Vitamin D3. Calcimax 500 is taken by people who want to ensure that their calcium levels are good, as calcium is essential for strong bones and teeth as well as other important body functions. Although young and growing children need Calcimax 500 or Calcimax Forte, it benefits all people who need to maintain their calcium levels. For people of certain demographics like growing children, breastfeeding mothers, those going through menopause, as well as older men/women proper calcium intake is very essential.",
       "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
       "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
-        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-2-1681204996.jpg?dim=700x0&dpr=1&q=100",
-        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.3-1681204875.jpg",
-        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.1-1681204974.jpg"
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1671741223.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
       },
-    {
-      "id": 20,
-      "pharmacy": "capsule",
-      "title": "Pentaphyte P 5 Capsules",
-      "unit": "Strip Of 10 Capsules",
-      "price": 75.57,
-      "description": "If you are allergic to paracetamol and aceclofenac. If you have a history of ulcer or bleeding in the stomach or any part of your digestive tract. If you have experienced an allergic reaction due to the use of other pain-relieving medicines such as aspirin, ibuprofen. If you have any heart-related problems, high blood pressure, kidney or liver-related problem. If you are pregnant, especially in the last trimester of pregnancy.",
-      "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
-      "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
-        "img2": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg",
-        "img3": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
-        "img4": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg"
-      },
-      "qty": 1
+      "qty": 2
     },
     {
-      "id": 8,
+      "id": 10,
       "pharmacy": "capsule",
-      "title": "Power Gummies Hair & Nail Gummies With Biotin For Healthy Nails & Hair Growth",
-      "unit": " 60 Gummies",
-      "price": 1188,
-      "description": "Biotin: It improves the body's keratin infrastructure, leading to stronger hair and maximizing nails and hair growth.Zinc: It regulates hormones, prevents protein synthesis and helps in absorbing nutrients, making it an important nutrient for beautiful hair and nails.Folic Acid: Helps in increasing red blood cells as it quickens the process of cell division. Helps with the growth and volume of hair.",
+      "title": "Everherb (By Pharmeasy) Ashwagandha-Immunity Booster Capsules-Anxiety & Stress Relief",
+      "unit": "Bottle Of 60",
+      "price": 323.46,
+      "description": "EverHerb Ashwagandha is a health supplement and an ayurvedic formula that contains Ashwagandha extract from roots of the Ashwagandha plant. One of the most revered herbs in Ayurveda, Ashwagandha helps the body resist physiological and psychological stress by enabling it to reserve and sustain vital energy all through the day and promoting a sound sleep during the night.",
       "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
       "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
-        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-2-1679980589.jpg?dim=700x0&dpr=1&q=100",
-        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.1-1679980594.jpg",
-        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg"
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1689585721.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1689585720.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.3-1689585802.jpg"
       },
-      "qty": 1
+      "qty": 2
     }
   ]
 }

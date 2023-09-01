@@ -32,7 +32,11 @@ body{
     margin: auto;
     height: 200px;
 }
-
+.sticky{
+    position: fixed;
+     top: 0;
+     width: 100%;
+}
 .display #medicine div{
     cursor: pointer;
     margin: 10px 1%;

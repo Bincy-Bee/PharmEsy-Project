@@ -8,7 +8,7 @@ const nav =()=>{
             <ul class=" nav flex flex-col absolute w-[50%] top-[100px] bg-white right-0 drop-shadow-2xl p-3 z-50 scale-0" id="nav">
                 <li><a href="../index.html" class="px-2 py-1 font-[400] hover:text-teal-500">Home</a></li>
                 <li><a href="../pages/medicine.html" class="px-2 py-1 font-[400] hover:text-teal-500">Medicine & Healthcare</a></li>
-                <li><a href="#" class="px-2 py-1 font-[400] hover:text-teal-500">Services</a></li>
+                <li><a href="#footer" class="px-2 py-1 font-[400] hover:text-teal-500">Services</a></li>
             </ul>
         </nav>
         <div class="user-cart flex">
@@ -118,7 +118,7 @@ const nav =()=>{
             </div>
             <div class="cartmenu">
                 <a href="../pages/cart.html" class="mx-2 font-[400] hover:text-teal-500"><i class="fa-solid fa-cart-shopping text-sm pr-2 text-teal-500 relative">
-                  <span class="absolute w-[15px] h-[15px] -top-2 right-0 rounded-full bg-red-400 text-white text-[9px] text-center leading-[15px] m-auto font-bold">6</span>
+                  <span class="absolute w-[15px] h-[15px] -top-2 right-0 rounded-full bg-red-400 text-white text-[9px] text-center leading-[15px] m-auto font-bold" id="badge"></span>
                 </i>Cart</a>
             </div>
             <div class="toggle">
