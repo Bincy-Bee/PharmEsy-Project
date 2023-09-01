@@ -844,23 +844,7 @@
   ],
   "cart": [
     {
-      "id": 1,
-      "pharmacy": "tablet",
-      "title": "Calcimax 500 Health Supplement Tablets",
-      "unit": "BOX OF 30",
-      "price": 330.6,
-      "description": "This calcium supplement from Calcimax comes with a potency of 500 mg, it contains not just elemental Calcium but also enhancers like Vitamin D3. Calcimax 500 is taken by people who want to ensure that their calcium levels are good, as calcium is essential for strong bones and teeth as well as other important body functions. Although young and growing children need Calcimax 500 or Calcimax Forte, it benefits all people who need to maintain their calcium levels. For people of certain demographics like growing children, breastfeeding mothers, those going through menopause, as well as older men/women proper calcium intake is very essential.",
-      "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
-      "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
-        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg?dim=700x0&dpr=1&q=100",
-        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1671741223.jpg",
-        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
-      },
-      "qty": 4
-    },
-    {
+
       "id": 2,
       "pharmacy": "tablet",
       "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
@@ -875,8 +859,6 @@
         "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.3-1681204875.jpg",
         "img4": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.1-1681204974.jpg"
       },
-      "qty": 1
-    },
     {
       "id": 20,
       "pharmacy": "capsule",
