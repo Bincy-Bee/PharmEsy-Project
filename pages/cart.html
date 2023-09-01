@@ -8,6 +8,7 @@
         @import url(../css/index.css);
         @import url(../css/style.css);
         @import url(../css/all.min.css);
+        @import url(../css/media.css);
     </style>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 </head>
@@ -16,8 +17,8 @@
    <!-- cart page ui  -->
    <section class="cart">
         <div class="container">
-            <div class="flex px-[40px] py-[30px]">
-                <div class="w-[60%] h-[auto] bg-zin-300 mr-[12px] ">
+            <div class="lg:flex px-[40px] py-[30px]">
+                <div class="lg:w-[60%] bg-zin-300 mr-[12px] ">
                     <div class="border border-[#e6ebf4] rounded-[12px]" id="pro">
                         <div class="p-[24px] border-b-[1px]">
                             <h1 class="text-[22px] font-[600] text-[#30363c]"> <span id="item"></span> Items in your Cart
@@ -26,52 +27,52 @@
                         <div id="cartpro" class="flex px-[32px] py-[24px] gap-y-[30px]">
                         </div>
                     </div>
-                    <form class="border rounded-xl p-5 " id="address">
+                    <form class="border hidden rounded-xl p-5 " id="address">
                     <h3 class="text-xl font-bold text-slate-900 mb-2">Add Delivary Address</h3>
 
                    <div class="flex mb-4">
                 
-                    <input type="text" id="puname" placeholder="Enter your username" class="p-3 w-[40%] placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-3 mr-3">
+                    <input type="text" id="puname" placeholder="Enter your username" class="p-3 w-[40%] placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-3 mr-3" required >
 
-                    <input type="email" id="puemail" placeholder="Enter your email" class="p-3  w-[60%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm mt-3">
+                    <input type="email" id="puemail" placeholder="Enter your email" class="p-3  w-[60%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm mt-3" required >
 
                    </div>
 
                   <div class="flex mb-4">
-                    <input type="text" id="houseno" placeholder="House number and building" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%]  placeholder:text-sm mt-4 mr-3">
+                    <input type="text" id="houseno" placeholder="House number and building" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%]  placeholder:text-sm mt-4 mr-3" required >
 
-                    <input type="text" id="street" placeholder="Street Name" class="p-3  w-[50%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm  mt-4">
+                    <input type="text" id="street" placeholder="Street Name" class="p-3  w-[50%] border border-[#e6ebf4] rounded-[8px] placeholder:text-sm  mt-4" required >
                   </div>
                   <div class="flex mb-4">
-                    <input type="text" id="city" placeholder="City" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 mr-3">
+                    <input type="text" id="city" placeholder="City" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 mr-3" required >
 
-                    <input type="text" id="state" placeholder="State" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 ">
+                    <input type="text" id="state" placeholder="State" class="p-3 w-[50%]  placeholder:text-sm border border-[#e6ebf4] rounded-[8px] mt-4 " required >
                   </div>
                     
-                    <input type="tel" id="putel" placeholder="Enter your phone number" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%] placeholder:text-sm my-4 mr-3">
+                    <input type="tel" id="putel" placeholder="Enter your phone number" class="p-3 border border-[#e6ebf4] rounded-[8px] w-[50%] placeholder:text-sm my-4 mr-3" required >
 
                     <p class="mb-4 pl-1">Address Type</p>
                     <div class="flex mb-8">
                         <label class=" block mr-3  ">
-                            <input name="adresstype" class="" type="radio"  value="">
+                            <input name="adresstype" class="addtype" type="radio"  value="home">
                             <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Home</span>
                         </label>
                         <label class=" block mr-3  ">
-                            <input name="adresstype" class="" type="radio"  value="">
+                            <input name="adresstype" class="addtype" type="radio"  value="work">
                             <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Work</span>
                         </label>
                         <label class=" block mr-3  ">
-                            <input name="adresstype" class="" type="radio"  value="">
+                            <input name="adresstype" class="addtype" type="radio"  value="others">
                             <span class=" text-slate-600 border font-bold rounded-xl p-2 hover:text-teal-600 hover:border-teal-600 ">Others</span>
                         </label>
                     </div>
 
                   <div class="text-center w-[30%] m-auto">
-                    <input type="submit" id="sub" value="Save and Continue" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
+                    <input type="submit" id="savecon" value="Save and Continue" class="p-3 border rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
                   </div>
 
                 </form>
-                <div class="payment mt-4" id="upi">
+                <div class="payment hidden" id="upi">
                     <h2 class="text-xl font-bold text-slate-900 mb-2"></h2>
 
                     <form class="border rounded-xl p-5" id="payinfo">
@@ -79,25 +80,25 @@
                         <p class="mt-4 font-bold">Enter New UPI ID</p>
                        <div class="flex justify-between mb-4">
                     
-                        <input type="text" id="upi" placeholder="Enter your UPI ID" class="p-3 border w-[40%] rounded-xl placeholder:text-sm border-slate-400 mt-3 mr-3">
+                        <input type="text" id="upiid" placeholder="Enter your UPI ID" class="p-3 border w-[40%] rounded-xl placeholder:text-sm border-slate-400 mt-3 mr-3" required>
     
-                        <input type="subm  it" id="sub" value="Place Order & Pay" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
-                
+                        <input type="submit" id="paynow" value="Place Order & Pay" class="p-3 border w-full rounded-xl bg-teal-600 font-bold text-white border-slate-400 mt-4">
+                        
                       </div>
                     </form>
                 </div>
                 </div>
-                <div class="w-[40%] ml-[10px] h-[320px] border border-[#e6ebf4] rounded-[12px]">
-                    <div>
+                <div class="lg:w-[40%] ml-[10px] ">
+                    <div class="carttotal flex-col  border border-[#e6ebf4] rounded-[12px]">
                         <div class="p-[24px] border-b-[1px] border-[#e6ebf4]"><p class="text-[18px] text-[#30363c] font-[500]">Cart total: <span id="carttot" class="text-[22px]">₹</span></p></div>
                         <div class="p-[20px]">
                             <div class="flex items-center">
                                 <img src="../img/cartCoupon.svg" alt="">
-                                <h3 class="text-[18px] text-[#30363c] font-[700]"> Apply Coupons</h3>
+                                <h3 class="text-[18px] text-[#30363c] font-[700]"> Apply Coupon</h3>
                             </div>
                             <div class="border border-[#e6ebf4] rounded-[8px] flex justify-between p-[3px]">
                                 <input type="text" class=" px-[6px] py-[10px]" id="coupon" placeholder="Enter Coupon Code">
-                                <button class="font-[600] text-[#45A081] pr-[5px] tracking-[1px]" id="chack">CHACK</button>
+                                <button class="font-[600] text-[#45A081] pr-[5px] tracking-[1px]" id="chack">CHECK</button>
                             </div>
                             <p id="varify" class="p-[10px] text-[14px]"></p>
                             <input type="button" class="w-full bg-[#10847e] text-[white] rounded-[6px] font-[500] px-[24px] text-[16px] py-[12px]" id="event" value="Add Delivery Address">
@@ -120,7 +121,8 @@
             </div>
         </div>
    </section>
-   <div id="tot"></div>
+   <!-- footer section -->
+   <div id="footer"></div>
 </body>
 <script src="../javascript/cdn.tailwindcss.com_3.3.3"></script>
 <script>
@@ -133,4 +135,5 @@
     };
 </script>
 <script type="module" src="../javascript/cart.js"></script>
+<script type="module" src="../javascript/index.js"></script>
 </html>

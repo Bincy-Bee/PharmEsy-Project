@@ -8,21 +8,22 @@
       @import url(../css/index.css);
       @import url(../css/all.min.css);
       @import url(../css/style.css);
+      @import url(../css/media.css);
     </style>
 </head>
 <body>
     <div id="navbar"></div>
-    <div class="path py-10 pl-4">
+    <div class="path py-10 px-8">
         <a href="../index.html">Home</a>
         <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
         <a href="../pages/medicine.html">Medicine</a>
         <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
         <a href class="text-slate-500 text-base my-2" id="producttitle"></a>
     </div>
-    <div class="flex flex-wrap" >
+    <div class="flex flex-wrap px-4" >
             <div class="w-[80%]">
-                <div class="flex flex-wrap justify-between" id="target">
-                    <div class="w-[30%] content-evenly">
+                <div class="flex flex-wrap justify-between content-evenly" id="target">
+                    <div class="w-[30%] ">
                         <div>
                             <img src="" class="p-3 rounded-md object-contain w-[320px] h-[320px] mx-4 border hover:border-teal-600" alt="" id="pimg">
                         </div>
@@ -48,9 +49,8 @@
                         <h3 class="font-bold text-2xl mb-2" ><i class="fa-solid fa-indian-rupee-sign"></i><span id="pprice"></span></h3>
                         <h5 class="text-slate-500 text-[12px]">Delivery By <span class="font-bold text-[12px]" id="date"></span></h5>
                         <hr class="my-5 mb-8">
-                        <div class="flex">
-                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 mr-3 rounded-md" id="buynow">Buy Now</button>
-                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 ml-3 rounded-md" id="addtocart">Add To Cart</button>
+                        <div class="cartadd">
+                            <button class="bg-teal-600 text-white font-bold py-2 px-4 m-1 ml-1 rounded-md" id="addtocart">Add To Cart</button>
                         </div>
                     </div>
                     <h5 class="text-[10px] text-slate-900 ml-6 my-5">non returable <a href="#" class="text-blue-700">Read More</a></h5>
@@ -84,7 +84,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-[20%] pr-2 fixed right-0 mb-2">
+            <div class="w-[20%] pr-2 right-0 mb-2">
                 <h4 class="text-slate-600 font-bold mb-1">Please add item(s) to proceed</h4>
                 <a href="../pages/cart.html">
                     <button class="bg-teal-600 text-white font-bold py-2 w-full rounded-md">View Cart <i class="fa-solid fa-angle-right text-sm px-1"></i></button>

@@ -1,5 +1,6 @@
-import { nav } from "../components/nav.js";
-document.getElementById("navbar").innerHTML=nav()
+import {nav, footer} from "../components/nav.js"
+document.getElementById("navbar").innerHTML= nav();
+document.getElementById("footer").innerHTML= footer();
 
 let cart= (data)=>{
     let sum = 0
@@ -84,6 +85,7 @@ let cart= (data)=>{
         document.querySelector("#cartpro").append(div1,div2)
     })
     document.querySelector("#item").innerHTML=totdata
+    document.getElementById("noti").innerHTML=totdata
     
     document.querySelector("#mrp").innerHTML=`₹${sum.toFixed(2)}`
     document.querySelector("#chack").addEventListener("click",()=>{
@@ -118,20 +120,52 @@ let cart= (data)=>{
 }
 
 document.querySelector("#event").addEventListener("click",()=>{
-    let event = document.querySelector("#event").value
+    // let event = document.querySelector("#event").value
+    document.getElementById("pro").style.display="none"
+    document.getElementById("address").style.display="block"
+    document.querySelector("#event").style.display="none"
+})
 
-    document.querySelector("#event").value="Add Delivery Address"
+document.querySelector("#address").addEventListener("submit",(e)=>{
+    e.preventDefault()
+    // let name = document.getElementById("puname").value
+    // let email = document.getElementById("puemail").value
+    // let house = document.getElementById("houseno").value
+    // let street = document.getElementById("street").value
+    // let city = document.getElementById("city").value
+    // let state = document.getElementById("state").value
+    // let phone = document.getElementById("putel").value
+    // let addtype = document.querySelectorAll(".addtype").value
 
-if(event == "pay now"){
-    document.querySelector("#pro").style.visibility="hidden"
-    document.querySelector("#address").style.visibility="visible"
-    document.querySelector("#upi").style.visibility="hidden"
-}
-else if(event == "Pay Now"){
+    // console.log(name);
 
-}
+});
+document.querySelector("#savecon").addEventListener("click",()=>{
+   
+    document.querySelector("#address").style.display="none";
+    document.getElementById("pro").style.display="none"
+    document.querySelector("#event").style.display="none"
+    document.querySelector("#upi").style.display="block"
 
 })
+
+
+document.querySelector("#payinfo").addEventListener("submit",(e)=>{
+    e.preventDefault()
+    let upivalue = document.querySelector("#upiid").value
+    let upiregex = /^[a-zA-Z0-9\\.\\-]{2,256}@[a-zA-Z][a-zA-Z]{2,64}$/;
+    console.log(upivalue, upiregex);
+    if (upiregex.test(upivalue)){
+        alert("payment completed order place")
+        setTimeout(() => {
+            window.location.reload();
+        }, 1000);
+    }
+    else{
+        alert("Please enter valid upi i'd")
+    }
+})
+
 
 
 fetch("http://localhost:3000/cart")

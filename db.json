@@ -1,0 +1,898 @@
+{
+  "signup": [
+    {
+      "name": "Bhavin",
+      "email": "patelbhavin7784@gmail.com",
+      "password": "Bhavin@1234",
+      "tel": "9978847878",
+      "id": 1
+    }
+  ],
+  "medicine": [
+    {
+      "id": 1,
+      "pharmacy": "tablet",
+      "title": "Calcimax 500 Health Supplement Tablets",
+      "unit": "BOX OF 30",
+      "price": 330.6,
+      "description": "This calcium supplement from Calcimax comes with a potency of 500 mg, it contains not just elemental Calcium but also enhancers like Vitamin D3. Calcimax 500 is taken by people who want to ensure that their calcium levels are good, as calcium is essential for strong bones and teeth as well as other important body functions. Although young and growing children need Calcimax 500 or Calcimax Forte, it benefits all people who need to maintain their calcium levels. For people of certain demographics like growing children, breastfeeding mothers, those going through menopause, as well as older men/women proper calcium intake is very essential.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1671741223.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "pharmacy": "tablet",
+      "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
+      "unit": "60 Counta",
+      "price": 329.03,
+      "description": "BIOTIN CARE FOR YOUR GORGEOUS HAIR: When your hair looks good, you feel good. But squeezing in time for your beauty routine may not always work out. That’s where our Biotin supplements come to the rescue. Zingavita Biotin tablets help improve hair thickness and volume. It stimulates keratin production to help make the hair stronger and reduce hair fall.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-2-1681204996.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.3-1681204875.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.1-1681204974.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "pharmacy": "tablet",
+      "title": "Dolo (Paracetamol) 650mg Strip Of 15 Tablets",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 28.56,
+      "description": "Dolo 650 tablet contains an active ingredient called paracetamol, which works by blocking the formation of certain chemicals that cause pain and fever in the body. This medicine can be used to treat various conditions such as headache, backache, migraine, toothache, body pain, and even fever associated with diseases like typhoid or the common cold.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-3-1653986087.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-3-1653986087.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-2-1653986150.jpg?dim=320x320&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-7-1653986144.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products/059346/dolo-650mg-strip-of-15-tablets-3-1653986087.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "pharmacy": "capsule",
+      "title": "Evion 400mg Strip",
+      "unit": "20 Capsules",
+      "price": 71.08,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-2-1683208555.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-7-1683208553.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-2-1683208555.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 5,
+      "pharmacy": "tablet",
+      "title": "Pharmeasy Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health",
+      "unit": "Bottle 60",
+      "price": 329.45,
+      "description": "PharmEasy Calcium, Magnesium, Vitamin D3 & Zinc tablets contain calcium, vitamin D3, magnesium and zinc which are crucial for strong bones, joints, muscles & teeth. It is a health supplement that supports bone formation, repair and healing. Vitamin D3 improves calcium absorption, thus supporting healthy bones and joints.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-2-1672137118.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-2-1672137118.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-6.1-1671743191.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-7-1671743194.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/G67452/pharmeasy-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-2-1672137118.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 6,
+      "pharmacy": "capsule",
+      "title": "Smart Greens Plant Based Wholefood Biotin 10000 Mcg",
+      "unit": "60 Capsules",
+      "price": 693,
+      "description": "Smart greens plant based biotin capsules are derived from the herb sesbania that helps to control hair fall and hair thining.It is a health supplement that also helps to strengthens brittle hair and nails.It improves blood circulation in the scalp for healthy follicles.Biotin 10000 mcg is a nutrient which metabolizes carbohydrates, fats and amino acids.It promotes Healthy skin and helps in growth for hair and nails.Biotin, also known as vitamin B is a water-soluble vitamin that helps the body metabolize fats, carbohydrates, and protein.Promotes Growth of Hair, Skin and Nails",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-6.2-1641790473.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-2-1641790477.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-6.2-1641790473.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-6.1-1641790487.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/Y61130/smart-greens-plant-based-wholefood-biotin-10000-mcg-60-capsules-6.2-1641790473.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "pharmacy": "tablet",
+      "title": "Unienzyme Strip ",
+      "unit": "15 Tablets",
+      "price": 70.57,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-2-1687425704.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-2-1687425704.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-6.3-1687425640.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-6.1-1687425720.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/177415/unienzyme-strip-of-15-tablets-6.2-1687743536.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "pharmacy": "capsule",
+      "title": "Power Gummies Hair & Nail Gummies With Biotin For Healthy Nails & Hair Growth",
+      "unit": " 60 Gummies",
+      "price": 1188,
+      "description": "Biotin: It improves the body's keratin infrastructure, leading to stronger hair and maximizing nails and hair growth.Zinc: It regulates hormones, prevents protein synthesis and helps in absorbing nutrients, making it an important nutrient for beautiful hair and nails.Folic Acid: Helps in increasing red blood cells as it quickens the process of cell division. Helps with the growth and volume of hair.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-2-1679980589.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.1-1679980594.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "pharmacy": "tablet",
+      "title": "Truebasics Multivit Men, Multivitamin For Men, 60 Multivitamin Tablets",
+      "unit": "60 tablet(s) in bottle",
+      "price": 1100.06,
+      "description": "Use of the Website is offered to You, subject to acceptance of all the terms, conditions and notices contained in these Terms including applicable policies which are incorporated herein by reference, along with any amendments / modifications made time to time by Company at its sole discretion and posted on the Website, including by way of imposing an additional charge for access to or use of a service(s).",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-2-1672132041.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-2-1672132041.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-6.01-1672132358.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-6.02-1672131337.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/Y69620/truebasics-multivit-men-multivitamin-for-men-60-multivitamin-tablets-6.03-1672132369.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "pharmacy": "capsule",
+      "title": "Everherb (By Pharmeasy) Ashwagandha-Immunity Booster Capsules-Anxiety & Stress Relief",
+      "unit": "Bottle Of 60",
+      "price": 323.46,
+      "description": "EverHerb Ashwagandha is a health supplement and an ayurvedic formula that contains Ashwagandha extract from roots of the Ashwagandha plant. One of the most revered herbs in Ayurveda, Ashwagandha helps the body resist physiological and psychological stress by enabling it to reserve and sustain vital energy all through the day and promoting a sound sleep during the night.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1689585721.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1689585720.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.3-1689585802.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "pharmacy": "capsule",
+      "title": "Pure Nutrition L-Arginine For Good Blood Flow And Healthy Heart",
+      "unit": "60 capsule(s) in bottle",
+      "price": 483.02,
+      "description": "This tablet contains pantoprazole as an active ingredient. It acts by reducing the production of stomach acid. It works best when taken on an empty stomach. Other tablets with pantoprazole include Pantop 40mg, Pantodac 40mg, Pantosec 40mg, and Pantakind 40mg.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-2-1677732126.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-2-1677732126.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-6.3-1677732142.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-6.1-1677732102.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/R50967/pure-nutrition-l-arginine-for-good-blood-flow-and-healthy-heart-60-capsules-2-1677732126.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 12,
+      "pharmacy": "tablet",
+      "title": "Rejunex Cd3 Strip",
+      "unit": "10 Tablets",
+      "price": 370.57,
+      "description": "Vitamin B Complex: Helps in digestion, normal function of skin and nerve cells, formation of glucose and fatty acids, regulates homocysteine levels in the body.Biotin: Improves growth and regeneration of skin cells, regulates the level of cholesterol, boosts the ability of insulin which regulates blood sugar.Vitamin C: antioxidant, protects against damage to nerves and stress from oxidation, supports the immune system.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-2-1691646246.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-2-1691646246.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-7-1691646252.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-6.1-1691646248.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/255432/rejunex-cd3-strip-of-10-tablets-6.2-1691646250.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "pharmacy": "tablet",
+      "title": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )",
+      "unit": "Strip Of 15 Tablets",
+      "price": 30.1,
+      "description": "Becozym C Forte is a vitamin supplement tablet that contains 3 vital and essential vitamins that are required by the body for regular functioning. These vitamins play an important role in boosting and supporting the immune system, helping with energy requirements as well as improving skin quality. Each Becozym C Forte Tablet contains Vitamin B complex, Biotin (also known as vitamin H) and Vitamin C. As part of a healthy diet, this multivitamin recharges the body's supply of these 3 required vitamins regularly.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1671741220.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1671741220.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1671741215.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.2-1671741220.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1671741218.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "pharmacy": "tablet",
+      "title": "Shelcal 500mg Tablets",
+      "unit": " Strip Of 15 Tablets",
+      "price": 118.17,
+      "description": "The composition of Shelcal 500 consists of calcium and vitamin D3 (cholecalciferol /cholecalciferol) as the main ingredient. These two are crucial components for maintaining healthy bones and joints and deficiency of these two nutrients can lead to bone and joint-related disorders.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-2-1679999355.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-2-1679999355.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.1-1679999314.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.2-1679999355.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.3-1679999325.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "pharmacy": "capsule",
+      "title": "Mindzen Improves Cognition ",
+      "unit": "Strip Of 10 Capsules",
+      "price": 159.25,
+      "description": "Mindzen Capsule is specially crafted with serotonin-active bacopa Glycoside that helps manage mild cognitive impairment. It helps improve cognition and brain function.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-2-1672461849.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-2-1672461849.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-6.2-1672461848.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-6.1-1672461886.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/A48299/mindzen-improves-cognition-strip-of-10-capsules-2-1672461849.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 16,
+      "pharmacy": "capsule",
+      "title": "Dr. Vaidya Rumox Pain Relief Balm",
+      "unit": "90 capsule(s) in bottle",
+      "price": 180,
+      "description": "Not to exceed stated recommended daily usage. Consult a doctor, if you are pregnant or lactating women or having any medical conditions. Keep out of reach of children. Keep out of reach of children. Results may vary from individual to individual. Capsule should be swallowed whole and not crushed or chewed. Store in cool, dry and dark place. Protect from heat, light and moisture.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-2-1687174817.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-2-1687174817.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-6.1-1687174865.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-6.2-1687175423.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/Y39858/dr-vaidya-rumox-pain-relief-balm-pack-of-1-6.3-1687174864.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "pharmacy": "tablet",
+      "title": "Ourdaily Vitamin E Strip Of 10 Capsules For Healthy Eye, Hair And Skin",
+      "unit": "strip Of 15 Tablets",
+      "price": 31.57,
+      "description": "Ourdaily E is a vitamin E supplement that promotes healthy skin, nourishes scalp and hair, and maintains eye health along with providing anti-oxidant support",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-1-1671742162.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-1-1671742162.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-4-1671742158.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-6.1-1671742157.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O87824/ourdaily-vitamin-e-strip-of-10-capsules-for-healthy-eye-hair-and-skin-6.2-1671742163.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "pharmacy": "tablet",
+      "title": "Kerala Ayurveda Nisakathakadi Kwath Diabetes Control, Strip Of 10x10 Tablets",
+      "unit": "100 Tablet(s) in bottle",
+      "price": 764,
+      "description": "Nisakathakadi Kwath Tablet is the modified dosage form of Ayurveda formulation Nishakathakadi kashayam. It is a health supplement that is beneficial in raised blood glucose levels as in Type 2 Diabetes Mellitus. The superior blend of ingredients also helps in preventing the complications of diabetes. Nishakatakadi Kwath Tablet helps improve the function of insulin by reducing cellular resistance.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-1-1669710766.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-1-1669710766.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-3-1669710757.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-6.1-1669710763.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I42294/kerala-ayurveda-nisakathakadi-kwath-diabetes-control-tablet-bottle-of-100-6.2-1669710761.jpg"
+      }
+    },
+    {
+      "id": 19,
+      "pharmacy": "powder",
+      "title": "Liveasy Wellness Diabetic Protein Powder French Vanilla Flavour",
+      "unit": "1000gm powder in jar",
+      "price": 1209.45,
+      "description": "LivEasy Wellness Diabetic Protein Powder has been scientifically formulated with ingredients that have proven benefits for people with diabetes. It is a mix of high-quality whey protein, complex carbohydrates, essential vitamins and minerals, dietary fibre and Omega 3 and 6 that are aimed to meet the special nutritional requirements of a person with diabetes. The primary goal in diabetes management is to keep blood sugar level steady, prevent weight gain as that brings further complications and to keep the heart healthy. LivEasy Wellness Diabetic Protein Powder solves for all 3 aforementioned goals, making it an indispensable part of diabetic consumers daily nutrition intake.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-2-1650541160.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-2-1650541160.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-6.1-1650541158.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-7-1650541162.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O18089/liveasy-wellness-diabetic-protein-powder-french-vanilla-flavour-1000g-2-1650541160.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 20,
+      "pharmacy": "capsule",
+      "title": "Pentaphyte P 5 Capsules",
+      "unit": "Strip Of 10 Capsules",
+      "price": 75.57,
+      "description": "If you are allergic to paracetamol and aceclofenac. If you have a history of ulcer or bleeding in the stomach or any part of your digestive tract. If you have experienced an allergic reaction due to the use of other pain-relieving medicines such as aspirin, ibuprofen. If you have any heart-related problems, high blood pressure, kidney or liver-related problem. If you are pregnant, especially in the last trimester of pregnancy.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg"
+      }
+    },
+    {
+      "id": 21,
+      "pharmacy": "liquid",
+      "title": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair",
+      "unit": "1 Litre Bottle",
+      "price": 199.5,
+      "description": "EverHerb Aloe Vera Juice is formulated with the extracts of a special variety of Aloe Vera. Aloe Vera is very popular in Ayurveda because it has numerous health benefits. One common problem people face today is rapid weight gain due to stress, inactive lifestyle and unhealthy eating. These reasons also cause skin and hair problems such as pimples, rashes, bacterial infection, hair fall, dry and brittle hair etc. Aloe Vera extracts can help to nourish and rehydrate skin and hair because they are loaded with vital nutrients. Aloe Vera can also help to speed up metabolism, aids in digestion and promotes detoxification of the body. As a result, fats are quickly burnt up and this helps in weight management.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg?dim=700x0&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg"
+      }
+    },
+    {
+      "id": 22,
+      "pharmacy": "powder",
+      "title": "Maharishi Ayurveda Ayush Kwath Powde",
+      "unit": "100gm powder in jar",
+      "price": 159,
+      "description": "EverHerb Aloe Vera Juice is formulated with the extracts of a special variety of Aloe Vera. Aloe Vera is very popular in Ayurveda because it has numerous health benefits. One common problem people face today is rapid weight gain due to stress, inactive lifestyle and unhealthy eating. These reasons also cause skin and hair problems such as pimples, rashes, bacterial infection, hair fall, dry and brittle hair etc. Aloe Vera extracts can help to nourish and rehydrate skin and hair because they are loaded with vital nutrients. Aloe Vera can also help to speed up metabolism, aids in digestion and promotes detoxification of the body. As a result, fats are quickly burnt up and this helps in weight management.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-2-1686742319.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-2-1686742319.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-6.1-1686742370.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-6.2-1686742127.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/S98658/maharishi-ayurveda-ayush-kwath-powder-100-gm-6.3-1686742340.jpg"
+      }
+    },
+    {
+      "id": 23,
+      "pharmacy": "",
+      "title": "The Sleep Company Microfiber Smart Adjustable Plush Pillow|Super Soft & Fluffy| White, Pack Of 1",
+      "unit": "pack of 1",
+      "price": 998.9,
+      "description": "What if we told you that there existed a pillow so fluffy and plush, the problems of your day would just rush away! Introducing our newest Plush Adjustable Fiber Pillow – the softest, cuddliest, most huggable pillow we’ve made yet!",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L23540/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-1-2-1690288474.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.1-1690288595.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.2-1690288319.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.3-1690288376.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O34207/the-sleep-company-microfiber-smart-adjustable-plush-pillowsuper-soft-fluffy-white-pack-of-2-6.1-1690288595.jpg"
+      }
+    },
+    {
+      "id": 24,
+      "pharmacy": "",
+      "title": "The Sleep Company Smartgrid Cervical Pillow | Smartgrid Technology | High-Low Curve Design | 1 Unit",
+      "unit": "pack of 1",
+      "price": 1999.14,
+      "description": "Patented SmartGRID Technology - The Cervical Pillow is designed with SmartGRID Technology which helps to relieve head & neck pressure and de-stresses you after a long day work.Provides Comforting Support to Head & Neck: Say goodbye to all your sleep problems with India’s 1st SmartGRID Cervical Pillow. Designed to support the natural curvature of the neck and spine while sleeping, this pillow helps you improve sleep quality, enhance blood circulation, and let you sleep comfortably.Ergonomic SmartGRID Structure: The SmartGRID cervical pillow is ergonomically designed with patented SmartGRID technology to give your head, neck, and shoulders maximum amounts of support & comfort while the specially designed stress-relieving grid will help to relieve head pressure and stress.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-2-1687333857.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.2-1687333322.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 25,
+      "pharmacy": "",
+      "title": "The Sleep Company Microfiber Smart Adjustable Plush Pillow|Super Soft & Fluffy| White, Pack Of 2",
+      "unit": "pack of 2",
+      "price": 1799.1,
+      "description": "What if we told you that there existed a pillow so fluffy and plush, the problems of your day would just rush away! Introducing our newest Plush Adjustable Fiber Pillow – the softest, cuddliest, most huggable pillow we’ve made yet!",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-2-1687333857.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.2-1687333322.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "pharmacy": "",
+      "title": "Duroflex Livein Duropedic Memory Foam, Roll Pack, 6 Inch King Size Medium Firm Mattress (78x72x6)",
+      "unit": "pack of 1",
+      "price": 13009.99,
+      "description": "As India's number one orthopedic bed-in-a-box, LiveIn Duropedic is an advanced back support mattress that promises you a healthy and restful sleep. This ortho mattress is designed to encourage spinal alignment and postural correction through innovative engineering and thoughtful constraction. This Duroflex roll packed mattress features our certified 5-zoned orthopedic layer to lend enhanced support to your back, neck and spine. This mattress comes with our special Triple Anti Microbial Fabric to keep you protected and your bed space safe and hygienic. The signature Art Deco pattern of the luxury knitted fabric enveloping this mattress will elevate the style quotient of your bedroom.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-2-1690336167.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.1-1690336008.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.2-1690336150.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C93580/duroflex-livein-duropedic-memory-foam-roll-pack-6-inch-king-size-medium-firm-mattress-78x72x6-6.3-1690336030.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/U54089/the-sleep-company-smartgrid-cervical-pillow-smartgrid-technology-high-low-curve-design-1-unit-6.1-1687332763.jpg"
+      }
+    },
+    {
+      "id": 27,
+      "pharmacy": "",
+      "title": "Duroflex Livein Duropedic Memory Foam, Roll Pack, 6 Inch King Size Medium Firm Mattress (78x72x6)",
+      "unit": "Double Size",
+      "price": 13392.52,
+      "description": "The mattress industry hadn't changed in years, aside from adding new sales tricks and gimmicks. So when we started Flo, we worked to innovate something entirely new for the industry. Unparalleled in comfort and support, our proprietary foam was painstakingly perfected through customer feedback. Flo is a Direct Consumer mattress brand, which has spent two years developing the one perfect mattress for all Indians. Our prices are 50% cheaper compared to legacy brands because we sell without any middlemen like distributors or retailers. Flo Mattress has become several people's best choices for its super comfortability owing to the fabric cover that it has on the top. Now, this also facilitates an easy cleaning process without getting the foam layer wet. Many people are not aware that a Foam mattress improves the body's blood circulation at night while you sleep. The spacer fabric also facilitates a 3D airflow throughout the mattress edge, promoting better blood flow.",
+      "category": "mattresses",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-2-1688989848.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.1-1688988828.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.2-1688988494.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.3-1688988486.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/N60885/flo-ortho-aloe-vera-gel-infused-orthopedic-foam-mattress-medium-firm-72x48x10-in-double-size-6.1-1688988828.jpg"
+      }
+    },
+    {
+      "id": 28,
+      "pharmacy": "liquid",
+      "title": "Upglam Cleansing & Purifying Neem Face Wash - 100 Ml",
+      "unit": "100 Ml in tube",
+      "price": 104.76,
+      "description": "The Upglam purifying neem face wash is a great herbal formulation that controls pimples and acne. The face wash cleanses and purifies the skin, removing bacteria and germs from pores and roots, thus preventing pimples and acne. The face wash is enriched with neem, which is an excellent antibacterial and antifungal agent. It also has turmeric, which helps even skin tone and also has antiseptic properties. Turmeric makes face skin supple and more flexible. This unisex Himalaya neem face wash is soap-free and should be used regularly for best results.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/H09055/upglam-cleansing-purifying-neem-face-wash-100-ml-7-1677849628.jpg"
+      }
+    },
+    {
+      "id": 29,
+      "pharmacy": "liquid",
+      "title": "Himalaya Purifying Neem Face Wash Tube Of 300 Ml",
+      "unit": "300 Ml in tube",
+      "price": 341.55,
+      "description": "The Himalaya purifying neem face wash is a great herbal formulation that controls pimples and acne. The face wash cleanses and purifies the skin, removing bacteria and germs from pores and roots, thus preventing pimples and acne. The face wash is enriched with neem, which is an excellent antibacterial and antifungal agent. It also has turmeric, which helps even skin tone and also has antiseptic properties. Turmeric makes face skin supple and more flexible. This unisex Himalaya neem face wash is soap-free and should be used regularly for best results.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/090735/himalaya-purifying-neem-face-wash-tube-of-100-ml-2-1669709960.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I35289/himalaya-purifying-neem-face-wash-150ml-2-1669710354.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I48066/himalaya-purifying-neem-face-wash-300ml-2-1669711341.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/090735/himalaya-purifying-neem-face-wash-tube-of-100-ml-2-1669709960.jpg?dim=700x0&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I35289/himalaya-purifying-neem-face-wash-150ml-2-1669710354.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 30,
+      "pharmacy": "liquid",
+      "title": "Liveasy Essentials Handwash Pump 250 Ml",
+      "unit": "250 Ml in tube",
+      "price": 72,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg"
+      }
+    },
+    {
+      "id": 31,
+      "pharmacy": "",
+      "title": "Pharmeasy Biotin Gummies - Pack Of 60",
+      "unit": "60 Gummies(s) in Bottle",
+      "price": 749.5,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-2-1671744103.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.1-1671744096.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-2-1671744103.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.2-1671744100.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/P45095/pharmeasy-biotin-gummies-pack-of-60-6.1-1671744096.jpg"
+      }
+    },
+    {
+      "id": 32,
+      "pharmacy": "liquid",
+      "title": "Pharmeasy Biotin 10000mcg - For Hair, Skin & Nails - Bottle Of 60",
+      "unit": "Bottle Of 60",
+      "price": 384.45,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-12-1676757634.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-13-1676757632.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg"
+      }
+    },
+    {
+      "id": 33,
+      "pharmacy": "liquid",
+      "title": "Scalpe Plus Anti Dandruff Shampoo Bottle Of 75 Ml",
+      "unit": "Bottle Of 75 Ml",
+      "price": 252,
+      "description": "Scalpe Plus Shampoo is a proven shampoo for the treatment of dandruff-related issues. The ingredients are based on the ketoconazole + ZPTO formula, which is renowned and recognized across the globe for its effectiveness against dandruff. Ketoconazole works by fighting against the primary cause of dandruff in humans, the fungus Malassezia. By destroying this fungus and with regular use even eliminating it from the scalp, Scalpe Shampoo can provide long-term relief from dandruff. Regular use of Scalpe is also great for your hair as the shampoo base conditions your hair making it softer. From the IMS Prescription Audit MAT (Mar 20) Scalpe Plus was rated as the most prescribed anti-dandruff shampoo currently on the market, especially due to its ability to fight off recurring dandruff.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-11-1676757628.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-12-1676757634.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-13-1676757632.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-10-1676757634.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 34,
+      "pharmacy": "liquid",
+      "title": "Upglam Onion Oil Shampoo",
+      "unit": "300ml shampoo in bottle",
+      "price": 311.22,
+      "description": "Your hair can make or break your entire look, so you must be very careful while choosing shampoo from the many options available in the market. Upglam Onion oil shampoo has been made to drive away all your hair woes. It contains red onion extracts which work best for weak hair and are known to effectively reduce hair fall. It has other essential ingredients which are known to promote hair growth. It is a daily use shampoo which strengthens the hair shaft and helps in improving the overall texture of your hair. Upglam is a trusted brand, manufacturing good quality personal care products and catering to a wide spectrum of customer needs. Dry, damaged hair is brittle and breaks off easily, the goodness of Plant Keratin in this shampoo protects, repairs, and restores hair health. Upglam onion oil shampoo is ideal for all hair types and offers healthy, smooth and shiny locks.",
+      "category": "personalcare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-2-1671743687.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.1-1671743693.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.2-1671743685.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.3-1671743689.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O98495/upglam-onion-oil-shampoo-6.1-1671743693.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "pharmacy": "",
+      "title": "Dr. Morepen Gluco One Bg 03 Glucometer Test Strips Box Of 50",
+      "unit": "50 glucometer test strips in box",
+      "price": 661.03,
+      "description": "This blood glucose electronic testing machine from Dr Morepen is to be used with the BG-03 strips and gives a reading of blood glucose level at the time of testing.Primary usage is self-testing at home to manage and monitor blood sugar as well as in professional use. The GlucoOne BG-03 features a screen that reads out the test results within 5 seconds, with the option to store up to 300 previous results.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/B57697/dr-morepen-bg-03-blood-glucose-test-strip-with-25-free-kalor-round-lancets-2-1668403192.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/B57697/dr-morepen-bg-03-blood-glucose-test-strip-with-25-free-kalor-round-lancets-7-1668403199.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/H57982/dr-morepen-gluco-one-glucose-test-strip-25-nos-1-1684157145.jpg?dim=700x0&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 36,
+      "pharmacy": "",
+      "title": "Accu-Chek Active Glucometer Test Strips Box Of 50",
+      "unit": "50 Glucometer Test Strips(s) in Box",
+      "price": 928.99,
+      "description": "The blood sugar levels in your body can be easily checked with Accu-Chek Active Strips. These are tested for accuracy, are easy to use daily and no manual coding is required. You can simply insert a test strip, collect a small blood sample on it, allow it to get absorbed and read your blood glucose result from the display. Accu-Chek Glucometer Test Strips can be used by patients suffering from Type 1 and Type 2 diabetes.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.1-1669655028.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.2-1669655014.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-6.3-1669655016.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=700x0&dpr=1&q=100"
+      }
+    },
+    {
+      "id": 37,
+      "pharmacy": "",
+      "title": "Pharmeasy Digital Weighing Machine For Body Weight With Lcd Display & Tempered Glass- 1 Yr Warranty",
+      "unit": "1 Device(s) in Box",
+      "price": 944.37,
+      "description": "Keeping an eye on our body weight is crucial, especially in an era when all of us tend to not look over what we are eating. Stress and the easy availability of junk food are two reasons why the BMI of many city folks is soaring. Excess body weight is connected to many serious health complications such as Type 2 diabetes, heart disorders, hypertension, osteoarthritis etc.For the sake of your health and happiness, it is important to watch what you eat and exercise regularly. And to ensure that you are reaching your target weight or maintaining it, you need to weigh yourself regularly. To help with that, you need to buy a trustworthy weighing machine. PharmEasy Weighing Machine uses advanced technology to weigh you accurately. It has a sleek, attractive and modern design. The platform has a striped glass cover and curved edges that ensure you don’t slip and fall. This electronic weighing machine can be kept in your room. Step on it first thing in the morning because that is the best time to get accurate results. The tiny LCD screen will display your weight.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-2-1680858160.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.1-1665738101.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.2-1665738103.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.3-1665738105.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/L01609/pharmeasy-digital-weighing-machine-for-body-weight-with-lcd-display-tempered-glass-1-yr-warranty-6.1-1665738101.jpg"
+      }
+    },
+    {
+      "id": 38,
+      "pharmacy": "",
+      "title": "Accu-Chek Instant S Blood Glucose Meter With 10 Test Strip",
+      "unit": "1 Glucometer Kit(s) in Box",
+      "price": 731.09,
+      "description": "Keeping an eye on our body weight is crucial, especially in an era when all of us tend to not look over what we are eating. Stress and the easy availability of junk food are two reasons why the BMI of many city folks is soaring. Excess body weight is connected to many serious health complications such as Type 2 diabetes, heart disorders, hypertension, osteoarthritis etc.For the sake of your health and happiness, it is important to watch what you eat and exercise regularly. And to ensure that you are reaching your target weight or maintaining it, you need to weigh yourself regularly. To help with that, you need to buy a trustworthy weighing machine. PharmEasy Weighing Machine uses advanced technology to weigh you accurately. It has a sleek, attractive and modern design. The platform has a striped glass cover and curved edges that ensure you don’t slip and fall. This electronic weighing machine can be kept in your room. Step on it first thing in the morning because that is the best time to get accurate results. The tiny LCD screen will display your weight.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-1-1671741905.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-2-1671741911.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-6.1-1671741913.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-6.2-1671741915.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/F90398/accu-chek-instant-s-blood-glucose-meter-with-10-test-strip-2-1671741911.jpg"
+      }
+    },
+    {
+      "id": 39,
+      "pharmacy": "",
+      "title": "Pharmeasy Pulse Oximeter",
+      "unit": "1 Oximeter(s) in Box",
+      "price": 499.75,
+      "description": "Imported By:ARC International 906 5- B, Versoa Height Chsl, New Mhada Tower, Nr Lokhandwala Circle, Nr.Indralok Building, Andheri West, Mumbai, Maharashtra, 400053.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-2-1691042123.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.1-1691042155.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.2-1691042165.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.3-1691042155.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/X94492/pharmeasy-pulse-oximeter-6.1-1691042155.jpg"
+      }
+    },
+    {
+      "id": 40,
+      "pharmacy": "",
+      "title": "Onetouch Select Test Strips|Blood Sugar Test Machine Testing Strips|50 Strips",
+      "unit": "50 Glucometer Test Strips(s) in Box",
+      "price": 1140.03,
+      "description": "LifeScan is a world leader in blood glucose monitoring – globally more than 20 million people depend on our iconic OneTouch brand products to help them manage their diabetes. According to a survey conducted in 2020 with 150 diabetologists in India, OneTouch is a brand that diabetologists in India trust. Only OneTouch Select test strips can be used with the OneTouch Select Simple glucometer machine (white in colour). Diabetologists in India agree that OneTouch glucometers are simple to use and give accurate and reliable results.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-2-1689593025.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.1-1689593027.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.2-1689593023.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.3-1689593031.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/131679/onetouch-select-test-stripsblood-sugar-test-machine-testing-strips50-strips-6.1-1689593027.jpg"
+      }
+    },
+    {
+      "id": 41,
+      "pharmacy": "",
+      "title": "Accu-Chek Active Glucometer Test Strips Box Of 100 (50 X 2)",
+      "unit": "100 Glucometer Test Strips(s) in Box",
+      "price": 1793.53,
+      "description": "Accu-Chek Active Strips are used for determining blood sugar levels. Accu-Chek Active Strip has been engineered in a way that no manual coding is required and this ensures hassle-free daily usage.The droplet of blood is easily absorbed by the sugar test strips. The Accu-Chek Active Strips require only a tiny drop of blood and yet display completely credible results in just 5 seconds. Accu-Chek Glucometer Test Strips can be used for both Type 1 and Type 2 diabetes.",
+      "category": "healthcaredevices",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-1-1669634874.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-2-1669634862.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-6.1-1669634877.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-6.2-1669634868.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/253460/accu-chek-active-glucometer-test-strips-box-of-100-50-x-2-2-1669634862.jpg"
+      }
+    },
+    {
+      "id": 42,
+      "pharmacy": "tablet",
+      "title": "Neurobion Forte Tablet 30'S",
+      "unit": "30 Tablet(s) in Strip",
+      "price": 36.58,
+      "description": "Neurobion Plus tablet is a dietary supplement. Neurobion Plus consist of multivitamins such as mecobalamin (a form of vitamin B12), pyridoxine (vitamin B6) and nicotinic acid (a form of vitamin B3) as active components. It is used to treat & prevent vitamins B3, B6 and B12 deficiencies. Neurobion Plus tablet is also used as an adjuvant in the treatment of diabetic neuropathy (damaged nerves). It is used in certain anaemic conditions and also helps in maintaining good health. Neurobion Plus tablet should be taken as suggested by the doctor. Along with this medicine, you should maintain a healthy eating habit.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655036.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655026.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1.1-1669655051.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-2-1669655031.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655026.jpg"
+      }
+    },
+    {
+      "id": 43,
+      "pharmacy": "tablet",
+      "title": "Supradyn Daily Multivitamin Tablet With Essential Zinc, Vitamins, For Daily Immunity & Energy",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 54.32,
+      "description": "Supradyn Daily Multivitamin Tablets help in building a strong immune system, aiding proper blood circulation level in your body and controlling the greying of hair, anaemia, upset stomach and infections. It is also useful in the case of diabetic neuropathy and heartburn and further helps to overcome Vitamin C & Zinc deficiency.You can take this tablet as advised by your doctor to attain maximum benefit. These health supplements are usually safe and do not cause any side effects when taken as per the doctor's recommendation.Key Benefits",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-2-1677155713.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.1-1677155723.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.2-1677155719.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.3-1677155727.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-6.1-1677155723.jpg"
+      }
+    },
+    {
+      "id": 44,
+      "pharmacy": "tablet",
+      "title": "Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+      "unit": "60 Tablet(s) in Bottle",
+      "price": 384.45,
+      "description": "Vitamins and Minerals are essential nutrients that our bodies need for healthy functioning. They perform many crucial functions in our body, right from creating vitality to ensuring the proper development of body structures and optimal body functions for overall well-being. Not getting enough of these essential nutrients can affect our well-being and even result in some incessant illnesses.pharmEasy Multivitamin Multimineral tablet is specially formulated to meet our daily nutritional requirement of essential vitamins and minerals. It supports our optimal health and well-being. It comes with added benefits of Ginkgo biloba extract, Grape seed extract, Panax Ginseng & choline. These herbal ingredients help in boosting immunity, offer antioxidant properties against oxidative damage and support nerve and muscle functions.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1675775391.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1675775368.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.2-1675775349.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.3-1675775391.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1675775368.jpg"
+      }
+    },
+    {
+      "id": 45,
+      "pharmacy": "tablet",
+      "title": "Zingavita Multivitamin Tablets For Men With Vitamins & Omega-3 - 120 Tablets Bottle",
+      "unit": "120 Tablet(s) in Bottle",
+      "price": 379.02,
+      "description": "SCIENTIFICALLY FORMULATED FOR A BETTER HEALTHIER YOU: The go-getter in you deserves all the nourishment. So to make things a little easier, we're bringing you multivitamins that is a SUPER blend of 41 vitamins, minerals, and herbs, formulated specially for men to help fill in nutritional gaps and support healthy, active lifestyle NUTRIENTS FROM A TO Z(inc): The power-packed performance of 41 vitamins & minerals, omega-3 & herbs provides you all the nourishment you need. Start your day strong with multivitamins that boost your immunity, improve stamina, vitality & support healthier bones",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-2-1681204571.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.1-1681204627.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.2-1681204802.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.3-1681204634.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/K18948/zingavita-multivitamin-tablets-for-men-with-vitamins-omega-3-120-tablets-bottle-6.1-1681204627.jpg"
+      }
+    },
+    {
+      "id": 46,
+      "pharmacy": "",
+      "title": "Purna Gummies 5000mcg Biotin Blueberry Gummies With Vitamin B12 For Hair Skin & Nail 30 Gummies",
+      "unit": "30 Gummies(s) in Jar",
+      "price": 199.6,
+      "description": "Purna Gummies deliver a nutritious and potent blend of botanicals, minerals and vitamins to strengthen hair and much more. These yummy and chewable gummies boost the growth of your hair and improve your hair. Purna Hair Biotin Blueberry Gummies for hair loss work by strengthening stem cells and hair follicles. These promote the development of new hair. Women can explore multiple Purna Hair Biotin Blueberry Gummies benefits like stronger nails, a healthy heart and better immunity. Purna Hair Biotin Blueberry Gummies composition is 100% vegetarian and comprises antioxidants and vital nutrients to retard the ageing process and improve general wellbeing.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-2-1664194209.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.1-1664194251.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.2-1664194261.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.3-1664194283.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/J68565/purna-gummies-5000mcg-biotin-blueberry-gummies-with-vitamin-b12-for-hair-skin-nail-30-gummies-6.1-1664194251.jpg"
+      }
+    },
+    {
+      "id": 47,
+      "pharmacy": "tablet",
+      "title": "Shelcal 500mg Strip Of 15 Tablets",
+      "unit": "15 Tablet(s) in Strip",
+      "price": 118.17,
+      "description": "With the current lifestyle, we are all based indoors in air-conditioned offices, houses and cars, with hardly any exposure to the sun.Yes, taking too much Shelcal 500 can be harmful. There is a misconception that too much of vitamins are not harmful.Shelcal 500 is used to treat Calcium and Vitamin deficiency. It helps in maintaining healthy bones and joints.the Shelcal 500 is a nutritional supplement it does not have action in controlling muscle twitches. Muscle twitches are spontaneous contractions of a muscle or muscle group. Muscle twitches may be caused due to stress, the improper form of some exercise, poor diet, due to consumption of too much caffeine or stress. It usually goes on its own but if it is causing too much discomfort to you, seek medical help.",
+      "category": "fitnesssupplements",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-2-1679999355.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.1-1679999314.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.2-1679999355.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.3-1679999325.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/159115/shelcal-500mg-strip-of-15-tablets-6.1-1679999314.jpg"
+      }
+    },
+    {
+      "id": 48,
+      "pharmacy": "liquid",
+      "title": "Venusia Max Intensive Moisturizing Cream For Dry To Very Dry Skin Repairs & Smoothens Skin 150g",
+      "unit": "150g Cream in Tube",
+      "price": 555.1,
+      "description": "Dry and dull skin can take all your charm away. Do you want that to happen to you? Your answer will be no. So, get Venusia Max Intensive Moisturizing Cream for you to get rid of dry and dull skin and keep your glow intact. Our moisturizing cream for dry skin contains glycerin, shea butter, aloe butter, mango butter, and cocoa butter, all of which effectively improve the quality of your skin and transform it from dull to lively. It also enhances skin barriers by protecting your skin from dirt and pollution while keeping it hydrated for as long as 10 hours. Our moisturizing cream is dermatologically tested to be hypoallergenic and safe for your skin. It is entirely paraben, mineral oil, alcohol, and animal origin ingredients free. Apply it daily to get visibly healthy and shiny skin",
+      "category": "skincare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1686118239.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-3-1686118227.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.1-1686118223.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.2-1686118225.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-3-1686118227.jpg"
+      }
+    },
+    {
+      "id": 49,
+      "pharmacy": "liquid",
+      "title": "Upglam Coco Repair Body Butter",
+      "unit": "200ml Liquid in Bottle",
+      "price": 182.52,
+      "description": "Now take your coffee obsession to the next level with Upglam Coco Repair Body Butter, the perfect body care product to heal tough, rough and dry skin, suitable across skin types and ages. Made with natural ingredients, the product is free from toxins, and harsh chemicals and is absolutely safe to use on the skin.Made with the aromatic fragrance of coffee, this product will repair damaged skin and will provide you with baby soft skin all over again. Every time you apply the product to your hands, feet, shoulders and neck, your skin will feel soft, moisturised and will smell irresistibly delicious. Aside from pure cocoa, Upglam Coco Repair Body Butter also contains shea butter which makes your skin supple and rose petal extract that soothes skin giving it a refreshing fragrance.",
+      "category": "skincare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-2-1671743727.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.1-1671743724.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.2-1671743729.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.3-1671743725.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/Z36117/upglam-coco-repair-body-butter-6.1-1671743724.jpg"
+      }
+    },
+    {
+      "id": 50,
+      "pharmacy": "liquid",
+      "title": "Godrej Good Knight Naturals Neem Liquid Vapouriser Combo Pack - Machine With 2 Refill",
+      "unit": "1 Combipack(s) in Bottle",
+      "price": 198,
+      "description": "Godrej Good Knight Naturals Neem Liquid Vapouriser Combo Pack consists of a machine and 2 refills that help ward off mosquitoes. In today’s times, mosquitoes have become a cause of concern as they not only disturb our sleep but also cause deadly diseases such as dengue and malaria. The use of Godrej Good Knight Machine guards us against these tiny creatures. It is made with 100% natural ingredients and is safe to use. It is safe for the elderly as well as small babies. Each refill lasts for up to a month and helps create a safe environment for you and your family.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-1-1671741807.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-2-1671741809.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-4-1671741806.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-6.1-1671741804.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/X91917/godrej-good-knight-naturals-neem-liquid-vapouriser-combo-pack-machine-with-2-refill-2-1671741809.jpg"
+      }
+    },
+    {
+      "id": 51,
+      "pharmacy": "liquid",
+      "title": "Dettol Liquid Disinfectant For Floor Cleaner Surface Disinfection Personal Hygiene Lime Fresh 500ml",
+      "unit": "500ml Liquid in Bottle",
+      "price": 191.07,
+      "description": "The Dettol disinfectant liquid is a multipurpose disinfectant and sanitizing liquid that helps kill up to 99.9% of germs on surfaces where it is used. The lime and lemon flavour of this disinfectant liquid from Dettol is perfect for use on bathroom and kitchen surfaces. It can also be used on laundry and other fabric surfaces to ensure all-around protection inside your home. Dettol disinfectant liquid is thus a highly versatile cleaning liquid to have around at home with several other key benefits like protection from life-threatening viruses.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1679979622.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.1-1679979201.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1679979630.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1679979177.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.1-1679979201.jpg"
+      }
+    },
+    {
+      "id": 52,
+      "pharmacy": "liquid",
+      "title": "Harpic 'Germ & Stain Blaster' Disinfectant Toilet Cleaner Citrus - 750ml",
+      "unit": "750ml Liquid in Bottle",
+      "price": 173.25,
+      "description": "Harpic Germ and Stain Blaster is a powerful toilet cleaner, the strongest of the Harpic lot that gives you unbeatable cleaning both above and below the waterline and citrus freshness for the toilet. Its thick liquid formula with powerful cleaning agents clings to the toilet surface and removes the toughest stains^ and kills the sturdiest germs, providing your toilet 100 % more stain removal and 100 % better germ protection. It also gives your toilet a pleasant fresh fragrance and helps avoid odour for long. It easily spreads on the toilet bowl and provides 100% better cleaning than ordinary toilet bleach and detergents. It gives unbeatable cleaning by removing the toughest spots and stains on the toilet bowl. It also gives your toilet a pleasant fresh fragrance that is available in two variants - Citrus and Floral. India's # 1 Toilet Cleaner*. While Harpic blasts away germs and bacteria from even the hardest reaching areas of your toilet, here are a few bonus tips that can help you keep safe and your toilet clean every time. ^Please refer to the individual pack for details. #Kills 99.9% of germs post 5 minutes of contact with undiluted product. *Harpic claim as per Nielsen Retail Index data for period MAT Oct ‘20 for the India market in Cleaners – Toilet & Bathroom Category.",
+      "category": "homecare",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-2-1671743111.jpg?dim=700x0&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.1-1671743118.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.2-1671743119.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1679979177.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-6.1-1671743118.jpg"
+      }
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "pharmacy": "tablet",
+      "title": "Zingavita Biotin Tablets For Hair Skin Nails Sugar Free Supplement",
+      "unit": "60 Counta",
+      "price": 329.03,
+      "description": "BIOTIN CARE FOR YOUR GORGEOUS HAIR: When your hair looks good, you feel good. But squeezing in time for your beauty routine may not always work out. That’s where our Biotin supplements come to the rescue. Zingavita Biotin tablets help improve hair thickness and volume. It stimulates keratin production to help make the hair stronger and reduce hair fall.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.2-1681204702.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-2-1681204996.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.3-1681204875.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/C59263/zingavita-biotin-tablets-for-hair-skin-nails-sugar-free-supplement-60-counta-6.1-1681204974.jpg"
+      },
+      "qty": 3
+    },
+    {
+      "id": 20,
+      "pharmacy": "capsule",
+      "title": "Pentaphyte P 5 Capsules",
+      "unit": "Strip Of 10 Capsules",
+      "price": 75.57,
+      "description": "If you are allergic to paracetamol and aceclofenac. If you have a history of ulcer or bleeding in the stomach or any part of your digestive tract. If you have experienced an allergic reaction due to the use of other pain-relieving medicines such as aspirin, ibuprofen. If you have any heart-related problems, high blood pressure, kidney or liver-related problem. If you are pregnant, especially in the last trimester of pregnancy.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg",
+        "img3": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-2-1641530683.jpg?dim=320x320&dpr=1&q=100",
+        "img4": "https://cdn01.pharmeasy.in/dam/products/229444/pentaphyte-p-5-cap-7-1641530680.jpg"
+      },
+      "qty": 1
+    },
+    {
+      "id": 8,
+      "pharmacy": "capsule",
+      "title": "Power Gummies Hair & Nail Gummies With Biotin For Healthy Nails & Hair Growth",
+      "unit": " 60 Gummies",
+      "price": 1188,
+      "description": "Biotin: It improves the body's keratin infrastructure, leading to stronger hair and maximizing nails and hair growth.Zinc: It regulates hormones, prevents protein synthesis and helps in absorbing nutrients, making it an important nutrient for beautiful hair and nails.Folic Acid: Helps in increasing red blood cells as it quickens the process of cell division. Helps with the growth and volume of hair.",
+      "category": "medicine",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+      "images": {
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-2-1679980589.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.1-1679980594.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg"
+      },
+      "qty": 1
+    }
+  ]
+}

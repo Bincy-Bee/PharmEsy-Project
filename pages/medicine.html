@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PharmEasy:Medicine</title>
+    <title>PharmEasy:Medicine & Healthcare</title>
     <style>
-        @import url(../css/index.css);
         @import url(../css/style.css);
         @import url(../css/all.min.css);
+        @import url(../css/media.css);
+        @import url(../css/index.css);
     </style>
 </head>
 <body>  
@@ -18,12 +19,16 @@
             <div class="path py-3 pl-8">
                 <a href="../index.html">Home</a>
                 <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i>
-                <a href="../pages/medicine.html">Medicine</a>
+                <a href="../pages/medicine.html">Medicine & Healthcare</a>
                 <!-- <i class="fa-solid fa-angle-right text-teal-600 text-sm px-1"></i> -->
                 <!-- <a href class="text-slate-500 text-base my-2" id="producttitle"></a> -->
             </div>
+            <button id="filtoggle" class=" w-full bg-[#10847e] text-white font-[600] text-center fixed bottom-0 p-[20px] text-[30px]" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;">
+               FILTERS
+                
+            </button>
             <div class="flex flex-wrap">
-                <div class="w-[25%] h-[100vh] pl-[30px] p-[20px]  text-[#4f585e]">
+                <div class="filter pl-[30px] p-[20px]  text-[#4f585e]">
                     <h1 class="text-[30px] mb-[40px] text-[#4f585e] font-[500]">Filter</h1>                    
                     <h3 class="font-[700] text-[18px] my-[15px]">Products</h3>
                     <ul>
@@ -47,7 +52,7 @@
                         <li class="my-[10px] cursor-pointer hover:text-[#10847e] " id="price6">Price above 900</li>
                     </ul>
                 </div>
-                <div class="display w-[75%]  p-[20px] h-[100vh] ">
+                <div class="display w-[75%]  p-[20px]">
                     <div class="flex flex-wrap justify-between items-center">
                         <h1 class="text-[30px] ml-[12px] mb-[20px] text-[#4f585e] font-[500]">Medicines & Healthcare</h1>
                         <div class="flex border rounded-[25px] my-[10px] overflow-hidden">
@@ -62,7 +67,7 @@
    </section>
 
    <!-- footer section -->
-   <!-- <div id="footer"></div> -->
+   <div id="footer"></div>
 </body>
 <script src="../javascript/cdn.tailwindcss.com_3.3.3"></script>
 <script>

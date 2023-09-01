@@ -9,18 +9,13 @@
 body{
     font-family: 'Inter', sans-serif;
 }
-
+.show ul{
+    transform: scaleX(1);
+}
 .display #medicine img{
     width: 80%;
     margin: auto;
     height: 200px;
-}
-
-.display #medicine{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-gap: 10px;
-    margin: 10px;
 }
 
 .display #medicine div{
@@ -133,27 +128,9 @@ body{
     color: #8897a2;
 }
 
-#cartpro .indiv{
-    right: 10px;
-    bottom: 30px;
-    position: absolute;
-    overflow: hidden;
-    border-radius: 6px;
-    border: #10847e 1px solid;
-    width: 140px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
 
 #cartpro .indiv p{
     padding: 0px 0px;
 }
 
-#cartpro .indiv button{
-    border: 1px solid #10847e;
-    padding: 7px 15px;
-    background-color: #10847e;
-    /* color: #8897A2; */
-    color: white;
-}
