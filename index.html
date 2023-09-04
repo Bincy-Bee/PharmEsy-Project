@@ -142,7 +142,7 @@
       </div>
   </header> -->
     <div id="navbar"></div>
-    <section id="search">
+    <section id="search" class="mb-[30px]" >
       <div id="container">
         <div id="search-box">
           <div>
@@ -155,50 +155,57 @@
                 <i class="fa-solid fa-chevron-right"></i>
               </div>
             </div>
-            <form action="#" id="search-content" class="row align-center">
-              <i class="fa-solid fa-magnifying-glass text-teal-600"></i>
-              <input type="text" id="" placeholder="Search for medicine">
-              <input type="submit" value="Search">
-            </form>
+            <div class="my-[16px] border flex justify-between items-center rounded-[25px] overflow-hidden" style="box-shadow: rgba(0, 0, 0, 0.06) 0px 4px 8px;">
+              <div class="pl-[10px] ">
+                 <i class="fa-solid fa-magnifying-glass text-teal-600"></i>
+                <input type="text" class="py-[8px] px-2" placeholder="Search for medicine">
+               </div>
+                <input type="submit" class=" py-[8px] text-white px-[15px] bg-[#10847E] m-[4px] rounded-[25px]" value="Search">
+            </div>
           </div>
         </div>
         <div class="card">
           <div id="card-box">
-            <div class="row">
+            <div class="row justify-between">
               <div>
-                <img src="img/medicine1.webp" alt="Medicine">
+                <a href="pages/medicine.html">
+                  <img src="img/medicine1.webp" alt="Medicine">
                 <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                </a>
               </div>
               <div>
                 <img src="img/medicine2.webp" alt="Medicine">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <h3>Lab Tests</h3>
               </div>
               <div>
-                <img src="img/healthcare_ff.webp" alt="Healthcare">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <a href="pages/medicine.html">
+                  <img src="img/healthcare_ff.webp" alt="Healthcare">
+                <h3 >Healthcare</h3>
+                </a>
               </div>
               <div>
-                <img src="img/health_blogs_ff.webp" alt="Healthcare">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <a href="#">
+                  <img src="img/health_blogs_ff.webp" alt="Healthcare">
+                <h3>Health Blogs</h3>
+                </a>
               </div>
               <div>
-                <img src="img/plus_ff.webp" alt="Plus">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <a href="#">
+                  <img src="img/plus_ff.webp" alt="Plus">
+                <h3>PLUS</h3>
+                </a>
               </div>
               <div>
-                <img src="img/offers_ff.webp" alt="Offer">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <a href="#">
+                  <img src="img/offers_ff.webp" alt="Offer">
+                <h3>Offers</h3>
+                </a>
               </div>
               <div>
-                <img src="img/value_store.png" alt="Value">
-                <h3>Medicine</h3>
-                <p>UPTO 22% OFF</p>
+                <a href="#">
+                  <img src="img/value_store.png" alt="Value">
+                <h3>Value Store</h3>  
+                </a>
               </div>
             </div>
           </div>
@@ -206,69 +213,75 @@
       </div>
       </section>
       <!-- shop by concern section -->
-      <section id="shop-concern">
+      <section class="bg-[#d7faf84f] py-[40px]" >
         <div id="container">
-            <h2 id="title">Shop by Concern</h2>
-            <h3 id="sub-title">Products are handpicked by experts</h3>
-            <div>
-              <div>
-                <img src="img/skin-care.png" alt="Skin care">
-                <h3>Skin Care</h3>
+            <h2 id="title" class="text-[#30363C] ml-[40px] text-[26px] font-semibold">Shop by Concern</h2>
+            <h3 id="sub-title" class="mt-[8px] ml-[40px] mb-[16px] text-[#4F585E]">Products are handpicked by experts</h3>
+            <div class="row">
+              
+              <div class="mx-auto col-lg-2 col-md-4 iimg">
+                <img src="img/skin-care.png" class="rounded-full mx-auto hover" width="150px" alt="Skin care">
+                <h3 class="text-center">Skin Care</h3>
               </div>
-              <div>
-                <img src="img/vitamins.png" alt="Vitamins">
-                <h3>Vitamins</h3>
+
+              <div class="mx-auto col-lg-2 col-md-4 iimg">
+                <img src="img/vitamins.png" class="rounded-full mx-auto hover" width="150px" alt="Vitamins">
+                <h3 class="text-center">Vitamins</h3>
               </div>
-              <div>
-                <img src="img/finger.webp" alt="Finger">
-                <h3>Finger</h3>
+
+              <div class="mx-auto col-lg-2 col-md-4 iimg">
+                <img src="img/finger.webp" class="rounded-full mx-auto hover" width="150px" alt="Finger">
+                <h3 class="text-center">Diabetes Care & <br> Sugar Substitutes</h3>
               </div>
-              <div>
-                <img src="img/heart.webp" alt="Heart">
-                <h3>Heart</h3>
+              <div class="mx-auto col-lg-2 col-md-4 iimg">
+                <img src="img/heart.webp" class="rounded-full mx-auto hover" width="150px" alt="Heart">
+                <h3 class="text-center">Heart</h3>
               </div>
-              <div>
-                <img src="img/stomach.webp" alt="Stomach">
-                <h3>Stomach</h3>
+
+              <div class="mx-auto col-lg-2 col-md-4 iimg">
+                <img src="img/stomach.webp" class="rounded-full mx-auto hover" width="150px" alt="Stomach">
+                <h3 class="text-center">Baby & Mom Care</h3>
               </div>
-              <div>
-                <img src="img/apple.webp" alt="Food">
-                <h3>Food</h3>
+
+              <div class="mx-auto col-lg-2 col-md-4">
+                <img src="img/apple.webp" class="rounded-full mx-auto" width="150px" alt="Food">
+                <h3 class="text-center">Lifestyle Disorders</h3>
               </div>
+
             </div>
         </div>
       </section>
 
       <!-- why choose us section -->
-      <section id="choose-us">
+      <section class="bg-[#F8F9FF] py-[70px]">
         <div id="container">
-          <h1 id="title">Why Choose Us?</h1>
-          <div>
-            <div>
-              <img src="img/family.svg" alt="Family">
-              <div id="choose-content">
-                <h2>32 Million+</h2>
+          <h1 class="text-[26px] font-semibold leading-[26px] text-[#30363C] pb-[20px]">Why Choose Us?</h1>
+          <div class="row justify-center">
+            <div class="flex col-lg-3 justify-between p-1 py-[10px]">
+              <img src="img/family.svg" class="w-[30%] p-0" alt="Family">
+              <div id="choose-content" class="w-[70%] px-[10px] text-[#30363C]">
+                <h2 class="text-[22px] my-[8px] font-semibold text-[#30363C]">32 Million+</h2>
                 <p>Registered users as of Mar 31, 2022</p>
               </div>
             </div>
-            <div>
-              <img src="img/deliveryBoy.svg" alt="Delivery Boy">
-              <div id="choose-content">
-                <h2>36 Million+</h2>
+            <div class="flex col-lg-3 justify-between p-1 py-[10px]">
+              <img src="img/deliveryBoy.svg" class="w-[30%] p-0" alt="Delivery Boy">
+              <div id="choose-content" class="w-[70%] px-[10px] text-[#30363C]">
+                <h2 class="text-[22px] my-[8px] font-semibold text-[#30363C]">36 Million+</h2>
                 <p>Orders on Pharmeasy till date </p>
               </div>
             </div>
-            <div>
-              <img src="img/pincodeServed.svg" alt="Pill">
-              <div id="choose-content">
-                <h2>99000+</h2>
+            <div class="flex col-lg-3 justify-between p-1 py-[10px]">
+              <img src="img/pincodeServed.svg" class="w-[30%] p-0" alt="Pill">
+              <div id="choose-content" class="w-[70%] px-[10px] text-[#30363C]">
+                <h2 class="text-[22px] my-[8px] font-semibold text-[#30363C]">99000+</h2>
                 <p>Unique items sold last 3 months</p>
               </div>
             </div>
-            <div>
-              <img src="img/locationMarker.svg" alt="Location">
-              <div id="choose-content">
-                <h2>19500+</h2>
+            <div class="flex col-lg-3 justify-between p-1 py-[10px]">
+              <img src="img/locationMarker.svg" class="w-[30%] p-0" alt="Location">
+              <div id="choose-content" class="w-[70%] px-[10px] text-[#30363C]">
+                <h2 class="text-[22px] my-[8px] font-semibold text-[#30363C]">19500+</h2>
                 <p>Pin codes serviced last 3 months</p>
               </div>
             </div>
@@ -277,22 +290,15 @@
       </section>
 
       <!-- pharmesy app -->
-      <section id="app">
-        <div id="container">
-          <h1>Simplifying<br>Healthcare<br>Impacting Lives</h1>
-          <h3>Download the App for Free</h3>
-          <div class="row">
-            <a href="#"><img src="img/googlePlay.svg" alt="PlayStore"></a>
-            <a href="#"><img src="img/appStore.svg" alt="AppStore"></a>
-          </div>
-        </div>
+      <section >
+          <img class="p-0" src="img/2023-09-03 18 13 54.png" width="100%" alt="">
       </section>
 
       <!-- footer section -->
       <div id="footer"></div>      
-   
+      
 </body>
-<script src="./javascript/cdn.tailwindcss.com_3.3.3"></script>
+<script src="https://cdn.tailwindcss.com"></script>
 <script>
      tailwind.config = {
         theme : {
