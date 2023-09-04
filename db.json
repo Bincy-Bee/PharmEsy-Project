@@ -858,38 +858,38 @@
   ],
   "cart": [
     {
-      "id": 1,
-      "pharmacy": "tablet",
-      "title": "Calcimax 500 Health Supplement Tablets",
-      "unit": "BOX OF 30",
-      "price": 330.6,
-      "description": "This calcium supplement from Calcimax comes with a potency of 500 mg, it contains not just elemental Calcium but also enhancers like Vitamin D3. Calcimax 500 is taken by people who want to ensure that their calcium levels are good, as calcium is essential for strong bones and teeth as well as other important body functions. Although young and growing children need Calcimax 500 or Calcimax Forte, it benefits all people who need to maintain their calcium levels. For people of certain demographics like growing children, breastfeeding mothers, those going through menopause, as well as older men/women proper calcium intake is very essential.",
+      "id": 4,
+      "pharmacy": "capsule",
+      "title": "Evion 400mg Strip",
+      "unit": "20 Capsules",
+      "price": 71.08,
+      "description": "THE CONTENTS OF THIS WEBSITE ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT INTENDED TO BE A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, TREATMENT, OR PREVENTION OF A DISEASE OR MEDICAL CONDITION. PLEASE CONSULT A PHYSICIAN FOR THE TREATMENT AND/OR MANAGEMENT OF ANY DISEASE OR MEDICAL CONDITION WITHOUT DELAY.",
       "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg?dim=700x0&dpr=1&q=100",
       "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg",
-        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg?dim=700x0&dpr=1&q=100",
-        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1671741223.jpg",
-        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1671741222.jpg"
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg?dim=700x0&dpr=1&q=100",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-2-1683208555.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-7-1683208553.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/S04683/evion-400mg-strip-of-20-capsule-2-1683208555.jpg?dim=700x0&dpr=1&q=100"
       },
       "qty": 1
     },
     {
-      "id": 10,
+      "id": 8,
       "pharmacy": "capsule",
-      "title": "Everherb (By Pharmeasy) Ashwagandha-Immunity Booster Capsules-Anxiety & Stress Relief",
-      "unit": "Bottle Of 60",
-      "price": 323.46,
-      "description": "EverHerb Ashwagandha is a health supplement and an ayurvedic formula that contains Ashwagandha extract from roots of the Ashwagandha plant. One of the most revered herbs in Ayurveda, Ashwagandha helps the body resist physiological and psychological stress by enabling it to reserve and sustain vital energy all through the day and promoting a sound sleep during the night.",
+      "title": "Power Gummies Hair & Nail Gummies With Biotin For Healthy Nails & Hair Growth",
+      "unit": " 60 Gummies",
+      "price": 1188,
+      "description": "Biotin: It improves the body's keratin infrastructure, leading to stronger hair and maximizing nails and hair growth.Zinc: It regulates hormones, prevents protein synthesis and helps in absorbing nutrients, making it an important nutrient for beautiful hair and nails.Folic Acid: Helps in increasing red blood cells as it quickens the process of cell division. Helps with the growth and volume of hair.",
       "category": "medicine",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
       "images": {
-        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1689585733.jpg?dim=700x0&dpr=1&q=100",
-        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1689585721.jpg",
-        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1689585720.jpg",
-        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.3-1689585802.jpg"
+        "img1": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg",
+        "img2": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-2-1679980589.jpg?dim=700x0&dpr=1&q=100",
+        "img3": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.1-1679980594.jpg",
+        "img4": "https://cdn01.pharmeasy.in/dam/products_otc/O04143/power-gummies-hair-nail-gummies-with-biotin-for-healthy-nails-hair-growth-60-gummies-6.2-1679980674.jpg"
       },
-      "qty": 2
+      "qty": 1
     }
   ]
 }

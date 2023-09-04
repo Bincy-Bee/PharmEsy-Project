@@ -93,6 +93,7 @@ html{
 /* footer css */
 #footer{    
     background-color: rgb(234, 241, 255);
+    padding: 0px 15px;
     padding-bottom: 60px;
 }
 #footer h3{

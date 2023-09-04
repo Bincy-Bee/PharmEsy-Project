@@ -30,6 +30,10 @@
         grid-gap: 10px;
         margin: 10px;
     }
+
+    .mtitle{
+        font-size: 16px;
+    }
     
     .col-xs-1{width: 8.3333%;}
 .col-xs-2{width: 16.6666%;}
@@ -54,10 +58,16 @@
 
     .filter{
         position: fixed;
-        width: 100%;
+        width: 30%;
         height: 90vh;
-        background-color: antiquewhite;
-        bottom: 90px;
+        background-color: white ;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        border-right: 1px solid #10847e;
+        font-size: 10px;
+        overflow: scroll;
+        z-index: 40;
     }
     
 
@@ -100,6 +110,12 @@
         background-color: #10847e;
         color: white;
     }
+    #filtoggle{
+        display: none;
+    }
+    .filterclose{
+        display: none;
+    }
 
     .display #medicine{
         display: grid;
@@ -109,17 +125,14 @@
     }
     
     .filter{
-        display: none;
+        width: 25%;
+        height: 100vh;
+        overflow: visible;
     }
 
-    .filter{
-        position: fixed;
-        width: 100%;
-        height: 90vh;
-        background-color: antiquewhite;
-        bottom: 90px;
+    .mtitle{
+        font-size: 30px;
     }
-    
 
     #cartpro .indiv{
         right: 10px;
@@ -153,10 +166,10 @@
     .container{
         max-width: 720px;
     }
-
-    #filtoggle{
-        display: none;
+    .filter{
+        padding-left: 20px;
     }
+
 
     .display #medicine{
         display: grid;
@@ -234,7 +247,12 @@
         margin: 0px 10px;
         padding: 10px;
     }
-   
+    .insearin{
+        width:80% ;
+    }
+    .inserbut{
+        width: 20%;
+    }
 }
 @media (min-width:992px)  {
 
@@ -254,6 +272,7 @@
     .container{
         max-width: 960px;
     }
+    
     .toggle{
         display: none;
     }
@@ -307,9 +326,9 @@
 
     .display #medicine{
         display: grid;
-        grid-template-columns: repeat(3,1fr);
+        grid-template-columns: repeat(2,1fr);
         grid-gap: 10px;
-        margin: 10px;
+        /* margin: 10px; */
     }
     .pro-mainbox{
         padding: 0px 40px;
@@ -361,7 +380,12 @@
         margin: 0;
         margin-top: 15px;
     }
-   
+    .insearin{
+        width:90% ;
+    }
+    .inserbut{
+        width: 10%;
+    }
 }
 
 @media (min-width:1200px) {
@@ -381,5 +405,11 @@
 
     .container{
         max-width: 1140px;
+    }
+    .display #medicine{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 10px;
+        /* margin: 10px; */
     }
 }

@@ -8,7 +8,15 @@ document.getElementById("footer").innerHTML = footer();
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
 let badge = localStorage.getItem("notification");
-document.getElementById("badge").innerHTML= badge;
+
+if (badge === "0"){
+    document.getElementById("badge").style.display="none";
+}
+else{
+    document.getElementById("badge").style.display="block";
+    document.getElementById("badge").innerHTML= badge;
+}
+
 const userdisplay=(indata)=>{
     console.log(indata);
     document.getElementById("user").innerHTML= `${indata[0].name}`;

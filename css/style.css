@@ -24,6 +24,14 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+
+.insearin{
+    width:70% ;
+}
+.inserbut{
+    width: 30%;
+}
+
 .show ul{
     transform: scaleX(1);
 }
@@ -80,6 +88,8 @@ body{
     padding: 15px;
 
 }
+/* medicine */
+
 
  /* cart */
 

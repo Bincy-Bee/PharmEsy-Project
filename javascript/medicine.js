@@ -149,5 +149,9 @@ document.querySelector("#price5").addEventListener("click",price5);
 document.querySelector("#price6").addEventListener("click",price6);
 
 document.querySelector("#filtoggle").addEventListener("click",()=>{
-    document.querySelector(".filter").style.display="block"
+    document.querySelector(".filter").style.display="block";
+    // document.querySelector(".filter").style.display="none";
+});
+document.querySelector("#filterclose").addEventListener("click",()=>{
+    document.querySelector(".filter").style.display="none";
 })
