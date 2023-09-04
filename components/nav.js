@@ -223,5 +223,10 @@ const footer=()=>{
     `
 }
 
-export {nav, footer}
+const bactotop=()=>{
+  return `<div class="backtotop text-center">
+          <a href="../index.html"><i class="fa-solid fa-arrow-up"></i></a>
+        </div>`
+}
+export {nav, footer, bactotop}
 

@@ -1,7 +1,8 @@
-import { nav,footer } from "../components/nav.js";
+import { nav,footer,bactotop } from "../components/nav.js";
 
 document.getElementById("navbar").innerHTML = nav();
 document.getElementById("footer").innerHTML = footer();
+document.getElementById("backtotop").innerHTML= bactotop();
 
 let fil = [];
 let id = 1;

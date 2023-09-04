@@ -1,20 +1,22 @@
 // Signin true condition
 
-import { nav,footer } from "../components/nav.js";
+import { nav,footer, bactotop } from "../components/nav.js";
 
 document.getElementById("navbar").innerHTML = nav();
 document.getElementById("footer").innerHTML = footer();
+document.getElementById("backtotop").innerHTML = bactotop();
 
 let login = localStorage.getItem("loggedIn");
 let userin = JSON.parse(localStorage.getItem("usersignin"));
 let badge = localStorage.getItem("notification");
 
-if (badge === "0"){
-    document.getElementById("badge").style.display="none";
-}
-else{
+if (badge > 0){
     document.getElementById("badge").style.display="block";
     document.getElementById("badge").innerHTML= badge;
+}
+else{
+    document.getElementById("badge").style.display="none";
+    
 }
 
 const userdisplay=(indata)=>{

@@ -1,6 +1,9 @@
-import {nav, footer} from "../components/nav.js"
+import {nav, footer, bactotop} from "../components/nav.js"
 document.getElementById("navbar").innerHTML= nav();
 document.getElementById("footer").innerHTML= footer();
+document.getElementById("backtotop").innerHTML= bactotop();
+
+let login = localStorage.getItem("loggedIn");
 
 let cart= (data)=>{
     let sum = 0
@@ -166,10 +169,16 @@ document.querySelector("#payinfo").addEventListener("submit",(e)=>{
 })
 
 
+if (login){
 
-fetch("http://localhost:3000/cart")
-.then((res)=>res.json())
-.then((data)=>
-{
-    cart(data)
-})
+    fetch("http://localhost:3000/cart")
+    .then((res)=>res.json())
+    .then((data)=>
+    {
+        cart(data)
+    })
+}
+else{
+
+    alert("Please Login 1st !!!")
+}

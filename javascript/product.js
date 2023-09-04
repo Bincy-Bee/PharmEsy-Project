@@ -1,11 +1,10 @@
-import {nav, footer} from "../components/nav.js"
+import {nav, footer, bactotop} from "../components/nav.js"
 document.getElementById("navbar").innerHTML= nav();
 document.getElementById("footer").innerHTML= footer();
+document.getElementById("backtotop").innerHTML= bactotop();
 
 let jojo = JSON.parse(localStorage.getItem("productDetails"));
 console.log(jojo);
-
-
 
 const sigledetailes=(data)=>{
 
@@ -46,7 +45,7 @@ const sigledetailes=(data)=>{
                         .then((data)=>{
                             console.log(data);
                             if(data.length > 0){
-                                alert("alert successfully")
+                                alert("Added successfully")
                                 console.log(data[0].qty);
                                 data[0].qty = Number(data[0].qty) + 1;
                                 console.log(data[0].qty);
@@ -57,7 +56,7 @@ const sigledetailes=(data)=>{
                                 })
                             }
                             else{
-                                alert("add to card post");
+                                alert("Added to your cart");
                                  fetch(`http://localhost:3000/cart`,{
                                      method : "POST",
                                      headers : {"Content-Type": "application/json"},
