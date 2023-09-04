@@ -27,12 +27,13 @@ html{
 
 /* Search section */
 #search{
-    margin-top: 100px;
+    margin-top: 30px;
 }
 #search-box > div{
     width: 70%;
     margin: 30px auto 0;
 }
+
 #search-top > h3{
     font-weight: 600;
     font-size: 22px;
@@ -53,38 +54,6 @@ html{
     font-size: 16px;
     cursor: pointer;
 }
-#search-content{
-    margin: 20px 0;
-    width: 100%;
-    border: 1px solid lightgrey;
-    border-radius: 40px;
-    padding: 4px;
-    box-shadow: lightgrey 0 0 4px;
-}
-#search-content > i{
-    margin-left: 15px;
-}
-#search-content > input[type="text"]{
-    margin: auto 20px;
-    border: none;
-    outline: none;
-    font-size: 15px;
-    width: 81%;
-}
-#search-content > input[type="submit"]{
-    background-color: #10847E;
-    padding: 10px 15px;
-    border: none;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-    font-weight: 600;
-    border-radius: 35px;
-}
-#search-content > input::placeholder{
-    font-size: 16px;
-}
-
 /* card section */
 .card{
     padding-left: 20px;
@@ -112,106 +81,15 @@ html{
     width: 90px;
 }
 
-/* shop by concern css */
-#shop-concern{
-    margin: 50px 0px;
-}
-#shop-concern #title{
-    font-size: 26px;
-    font-weight: 600;
-    margin: 10px 0px;
-}
-#shop-concern #sub-title{
-    font-size: 16px;
-    margin: 0px 0px 15px;
-}
-#shop-concern #container > div{
-    display: grid;
-    grid-template-columns: repeat(7,1fr);
-    gap: 50px;
-}
-#shop-concern #container > div > div > img{
-    width: 100%;
-    border-radius: 100%;
-}
-#shop-concern > div > div{
-    cursor: pointer;
-    text-align: center;
-}
-#shop-concern div > div > img:hover{
-    box-shadow: var(--box-shadow);
-}
-#shop-concern #container > div > div > h3{
-    font-weight: 500;
-    font-size: 16px;
-    margin-top: 10px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    line-clamp: 2;
-    -webkit-box-orient: vertical;
+.iimg{
+    transition: all 0.3s;
 }
 
-/* why choose us css */
-#choose-us{
-    padding: 50px 0px;
-    background-color: rgb(241, 247, 255);
-}
-#choose-us #title{
-    font-size: 26px;
-    font-weight: 600;
-    padding: 20px 0px 50px;
-}
-#choose-us #container > div{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 30px;
-}
-#choose-us #container > div > div{
-    display: flex;
-    align-items: center;
-}
-#choose-us #choose-content{
-    margin-left: 20px;
-}
-#choose-us > div > div img{
-    height: 80px;
-}
-#choose-us #choose-content h2{
-    font-size: 24px;
-    font-weight: 500;
-}
-#choose-us #choose-content p{
-    font-size: 15px;
-    font-weight: 400;
+.iimg:hover{
+    filter: drop-shadow(rgba(33, 33, 33, 0.06) 0px 3px 4px) drop-shadow(rgba(33, 33, 33, 0.04) 0px 3px 3px) drop-shadow(rgba(33, 33, 33, 0.08) 0px 1px 8px);
 }
 
-/* pharmesy app css */
-#app{
-    margin: 80px 0px;
-    padding: 60px 0px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    background: url(../img/downloadBanner.webp) rgb(224, 255, 248);
-    background-size: cover;
-}
-#app h1{
-    font-size: 25px;
-}
-#app h3{
-    line-height: 80px;
-    font-size: 25px;
-}
-#app #container > div{
-    gap: 50px;
-}
-#app img{
-    width: 180px;
-    cursor: pointer;
-}
+
 /* footer css */
 #footer{    
     background-color: rgb(234, 241, 255);
